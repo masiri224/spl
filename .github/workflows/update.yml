@@ -2,11 +2,9 @@ name: تحديث بيانات الدوري
 
 on:
   schedule:
-    # كل يوم اثنين 11:00 UTC = 2:00 ظهراً بتوقيت الرياض
-    - cron: '0 11 * * 1'
-    # وكل خميس 15:00 UTC = 6:00 مساءً بتوقيت الرياض (قبل الإقفال)
-    - cron: '0 15 * * 4'
-  workflow_dispatch:
+    # كل ٣ ساعات — يغطي أوقات المباريات وما بعدها
+    - cron: '0 */3 * * *'
+  workflow_dispatch:        # زر تشغيل يدوي من تبويب Actions
 
 permissions:
   contents: write
