@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>دوري الفانتزي — لوحة المتابعة</title>
+<title>دوري مبعتش وإخوانه</title>
 <style>
 :root{
-  --bg:#f6f7f9; --card:#ffffff; --line:#e6e8ec; --ink:#12161c; --mut:#6b7280;
+  --bg:#f6f7f9; --card:rgba(255,255,255,.90); --line:#e6e8ec; --ink:#12161c; --mut:#6b7280;
   --brand:#0f7b5f; --brand-soft:#e7f4ef; --accent:#b8860b; --red:#c0392b; --amber:#b4690e;
   --r:14px; --sh:0 1px 2px rgba(16,24,40,.06), 0 8px 24px rgba(16,24,40,.05);
 }
@@ -15,10 +15,10 @@ body{margin:0;background:var(--bg);color:var(--ink);position:relative;
   font-family:"Segoe UI",system-ui,-apple-system,"Noto Naskh Arabic","Tahoma",sans-serif;}
 /* خلفية شفافة — بدّل bg.png بصورتك واترك الباقي كما هو */
 body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
-  background:url("bg.png") center center / min(62vmin,560px) no-repeat;
-  opacity:.06;filter:grayscale(1)}
+  background:url("bg.png") center center / min(78vmin,680px) no-repeat;
+  opacity:.20}
 .wrap{max-width:1080px;margin:0 auto;padding:0 18px 60px}
-header{background:var(--card);border-bottom:1px solid var(--line)}
+header{background:rgba(255,255,255,.93);backdrop-filter:blur(4px);border-bottom:1px solid var(--line)}
 .hd{max-width:1080px;margin:0 auto;padding:18px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
 .logo{width:42px;height:42px;border-radius:12px;background:var(--brand);color:#fff;display:grid;place-items:center;font-weight:800;font-size:18px}
 h1{font-size:19px;margin:0}
@@ -47,19 +47,23 @@ nav button.on{background:var(--brand);border-color:var(--brand);color:#fff;font-
 .star .pts span{font-size:12px;opacity:.85}
 @media(max-width:520px){ .star .pts{border:0;padding:0} }
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-bottom:18px}
-.stat{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:var(--sh)}
+.stat{background:var(--card);backdrop-filter:blur(2px);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:var(--sh)}
 .stat .l{font-size:12.5px;color:var(--mut)}
 .stat .v{font-size:24px;font-weight:800;margin-top:6px}
 .stat .n{font-size:12.5px;color:var(--mut);margin-top:2px}
-.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);overflow:hidden;margin-bottom:18px}
+.panel{background:var(--card);backdrop-filter:blur(2px);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);overflow:hidden;margin-bottom:18px}
 .ph{padding:14px 18px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:10px}
 .ph h2{font-size:15px;margin:0}
 .ph .tag{font-size:12px;color:var(--mut);margin-inline-start:auto}
+.dl{border:1px solid var(--brand);background:var(--brand);color:#fff;font:inherit;font-size:13px;
+  font-weight:600;padding:7px 15px;border-radius:999px;cursor:pointer;transition:.15s;white-space:nowrap}
+.dl:hover{filter:brightness(1.08)}
+.dl:disabled{opacity:.6;cursor:default}
 table{width:100%;border-collapse:collapse;font-size:14.5px}
-th{text-align:right;font-size:12.5px;color:var(--mut);font-weight:600;padding:11px 14px;background:#fbfcfd;border-bottom:1px solid var(--line)}
+th{text-align:right;font-size:12.5px;color:var(--mut);font-weight:600;padding:11px 14px;background:rgba(251,252,253,.92);border-bottom:1px solid var(--line)}
 td{padding:12px 14px;border-bottom:1px solid #f1f2f5}
 tr:last-child td{border-bottom:0}
-tbody tr:hover{background:#fafbfc}
+tbody tr:hover{background:rgba(250,251,252,.9)}
 .rank{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-weight:800;font-size:13px;background:#f1f3f6;color:var(--mut)}
 .rank.g1{background:#fdf6e3;color:#a1740a}.rank.g2{background:#f1f3f6;color:#5b6270}.rank.g3{background:#fbf0e8;color:#a35b26}
 .team{font-weight:700}.mgr{font-size:12.5px;color:var(--mut)}
@@ -68,7 +72,7 @@ tbody tr:hover{background:#fafbfc}
 .pill{display:inline-block;padding:3px 10px;border-radius:999px;font-size:12px;font-weight:600}
 .p-out{background:#fdeceb;color:var(--red)}.p-doubt{background:#fdf3e3;color:var(--amber)}
 .p-ban{background:#eef1fb;color:#3f4f8f}.p-gone{background:#f1f3f6;color:#5b6270}
-.filters{display:flex;gap:6px;flex-wrap:wrap;padding:12px 18px;border-bottom:1px solid var(--line);background:#fbfcfd}
+.filters{display:flex;gap:6px;flex-wrap:wrap;padding:12px 18px;border-bottom:1px solid var(--line);background:rgba(251,252,253,.9)}
 .fb{border:1px solid var(--line);background:#fff;color:var(--mut);padding:6px 13px;border-radius:999px;font:inherit;font-size:13px;cursor:pointer}
 .fb.on{background:var(--brand);border-color:var(--brand);color:#fff;font-weight:600}
 .bar{height:6px;border-radius:4px;background:#eef0f3;overflow:hidden;margin-top:6px;min-width:90px}
@@ -112,7 +116,7 @@ footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
 
   <section id="standings">
     <div class="panel">
-      <div class="ph"><h2>ترتيب الدوري</h2><span class="tag" id="stTag"></span></div>
+      <div class="ph"><h2>ترتيب الدوري</h2><span class="tag" id="stTag"></span><button id="saveImg" class="dl">حفظ صورة</button></div>
       <table><thead><tr>
         <th>#</th><th>الفريق والمدير</th><th class="mob">الحركة</th><th class="mob">نقاط الجولة</th><th>إجمالي النقاط</th>
       </tr></thead><tbody id="stBody"></tbody></table>
@@ -292,6 +296,127 @@ fetch('data.json?t=' + Date.now())
         تعذّر تحميل <code>data.json</code> — ${err.message}<br>
         <small>شغّل <code>node fetch.mjs</code> أو انتظر تشغيل المهمة المجدولة.</small></div>`);
   });
+
+
+/* ══════════ مولّد صورة الترتيب — canvas خالص، بلا مكتبات ══════════ */
+const logoImg = new Image();
+logoImg.src = 'bg.png';
+
+function buildStandingsImage(){
+  const st = DATA.standings, S = 2;              // S = دقة مضاعفة للشاشات الحادة
+  const W = 900, PAD = 40, HEAD = 150, ROW = 52, FOOT = 64;
+  const H = HEAD + st.length * ROW + FOOT;
+  const c = document.createElement('canvas');
+  c.width = W * S; c.height = H * S;
+  const x = c.getContext('2d');
+  x.scale(S, S);
+  x.direction = 'rtl';
+  x.textBaseline = 'middle';
+  const F = (size, weight) => `${weight} ${size}px "Segoe UI", system-ui, "Noto Naskh Arabic", Tahoma, sans-serif`;
+  const R = W - PAD;                              // حافة اليمين (بداية السطر)
+
+  // خلفية
+  x.fillStyle = '#f6f7f9'; x.fillRect(0, 0, W, H);
+
+  // شعار باهت في وسط الجدول
+  if (logoImg.complete && logoImg.naturalWidth){
+    const s = 420;
+    x.save(); x.globalAlpha = .07;
+    x.drawImage(logoImg, (W - s) / 2, HEAD + (H - HEAD - FOOT - s) / 2, s, s);
+    x.restore();
+  }
+
+  // ترويسة خضراء
+  const g = x.createLinearGradient(0, 0, W, HEAD);
+  g.addColorStop(0, '#0f7b5f'); g.addColorStop(1, '#0b5f49');
+  x.fillStyle = g; x.fillRect(0, 0, W, HEAD);
+
+  if (logoImg.complete && logoImg.naturalWidth){
+    x.save(); x.globalAlpha = .95;
+    x.drawImage(logoImg, R - 78, 26, 78, 78);
+    x.restore();
+  }
+  x.fillStyle = '#fff'; x.textAlign = 'right';
+  x.font = F(30, '800'); x.fillText(DATA.league, R - 96, 55);
+  x.font = F(16, '400'); x.globalAlpha = .85;
+  x.fillText(`ترتيب الدوري — الجولة ${DATA.gameweek}`, R - 96, 88);
+  x.fillText(`آخر تحديث: ${DATA.updated}`, R - 96, 114);
+  x.globalAlpha = 1;
+
+  // صفوف
+  st.forEach((t, i) => {
+    const y = HEAD + i * ROW + ROW / 2;
+    if (i % 2 === 0){ x.fillStyle = 'rgba(255,255,255,.72)'; x.fillRect(0, HEAD + i * ROW, W, ROW); }
+    else { x.fillStyle = 'rgba(255,255,255,.42)'; x.fillRect(0, HEAD + i * ROW, W, ROW); }
+    x.strokeStyle = '#e8eaee'; x.lineWidth = 1;
+    x.beginPath(); x.moveTo(0, HEAD + (i + 1) * ROW); x.lineTo(W, HEAD + (i + 1) * ROW); x.stroke();
+
+    // شارة المركز
+    const medal = ['#f2d383', '#d6dae0', '#e2b48c'][i] || null;
+    x.fillStyle = medal || '#eceef2';
+    x.beginPath(); x.roundRect(R - 34, y - 15, 34, 30, 9); x.fill();
+    x.fillStyle = medal ? '#4a3708' : '#6b7280';
+    x.font = F(14, '800'); x.textAlign = 'center';
+    x.fillText(String(t.rank ?? i + 1), R - 17, y + 1);
+
+    // الفريق والمدير
+    x.textAlign = 'right';
+    x.fillStyle = '#12161c'; x.font = F(17, '700');
+    x.fillText(t.team, R - 48, y - 8);
+    x.fillStyle = '#8b93a1'; x.font = F(13, '400');
+    x.fillText(t.manager, R - 48, y + 12);
+
+    // الأعمدة الرقمية
+    x.textAlign = 'center';
+    const mvTxt = (t.lastRank == null || t.lastRank === 0) ? 'جديد'
+      : t.lastRank > t.rank ? `▲ ${t.lastRank - t.rank}`
+      : t.lastRank < t.rank ? `▼ ${t.rank - t.lastRank}` : '—';
+    x.fillStyle = mvTxt.startsWith('▲') ? '#0f7b5f' : mvTxt.startsWith('▼') ? '#c0392b' : '#9aa2ae';
+    x.font = F(13, '600'); x.fillText(mvTxt, 300, y);
+
+    x.fillStyle = '#4b5563'; x.font = F(16, '600');
+    x.fillText(String(t.gw), 190, y);
+
+    x.fillStyle = '#0f7b5f'; x.font = F(20, '800');
+    x.fillText(String(t.total), 90, y);
+  });
+
+  // عناوين الأعمدة فوق الأرقام
+  x.textAlign = 'center'; x.fillStyle = 'rgba(255,255,255,.75)'; x.font = F(12, '600');
+  x.fillText('الحركة', 300, HEAD - 18);
+  x.fillText('الجولة', 190, HEAD - 18);
+  x.fillText('الإجمالي', 90, HEAD - 18);
+
+  // تذييل
+  x.fillStyle = '#eef0f3'; x.fillRect(0, H - FOOT, W, FOOT);
+  x.textAlign = 'right'; x.fillStyle = '#6b7280'; x.font = F(13, '400');
+  x.fillText('fantasy.masiri224.online', R, H - FOOT / 2);
+  x.textAlign = 'left';
+  x.fillText('فانتزي دوري روشن السعودي', PAD, H - FOOT / 2);
+
+  return c;
+}
+
+$('#saveImg').onclick = function(){
+  if (!DATA) return;
+  const btn = this;
+  btn.disabled = true; btn.textContent = 'جارٍ التجهيز…';
+  const done = () => {
+    try {
+      buildStandingsImage().toBlob(blob => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `ترتيب-الجولة-${DATA.gameweek}.png`;
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(() => URL.revokeObjectURL(url), 4000);
+      }, 'image/png');
+    } catch(e){ alert('تعذّر إنشاء الصورة: ' + e.message); }
+    btn.disabled = false; btn.textContent = 'حفظ صورة';
+  };
+  if (logoImg.complete) done();
+  else { logoImg.onload = done; logoImg.onerror = done; }
+};
 
 const ids = ['standings','scorers','points','injuries','news'];
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
