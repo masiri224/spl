@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 2,
- "updated": "22‏/08‏/2026، 10:46 ص",
+ "updated": "22‏/08‏/2026، 12:50 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "standings": [
   {
@@ -181,7 +181,7 @@
    "pos": "مهاجم",
    "price": "7.1",
    "pts": 21,
-   "own": "33.5%",
+   "own": "33.6%",
    "goals": 3,
    "assists": 0
   },
@@ -191,7 +191,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "13.3%",
+   "own": "13.4%",
    "goals": 2,
    "assists": 1
   },
@@ -211,7 +211,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "17.6%",
+   "own": "17.7%",
    "goals": 2,
    "assists": 1
   },
@@ -221,7 +221,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 18,
-   "own": "48.3%",
+   "own": "48.4%",
    "goals": 2,
    "assists": 0
   },
@@ -261,7 +261,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 15,
-   "own": "20.5%",
+   "own": "20.6%",
    "goals": 1,
    "assists": 0
   },
@@ -291,7 +291,7 @@
    "pos": "خط وسط",
    "price": "7.5",
    "pts": 15,
-   "own": "26.7%",
+   "own": "26.6%",
    "goals": 1,
    "assists": 1
   },
@@ -351,7 +351,7 @@
    "pos": "مهاجم",
    "price": "10.0",
    "pts": 10,
-   "own": "28.3%",
+   "own": "28.2%",
    "goals": 1,
    "assists": 0
   },
@@ -473,7 +473,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "13.3%",
+   "own": "13.4%",
    "goals": 2,
    "assists": 1
   },
@@ -493,7 +493,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "17.6%",
+   "own": "17.7%",
    "goals": 2,
    "assists": 1
   },
@@ -543,7 +543,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 15,
-   "own": "16.3%",
+   "own": "16.4%",
    "goals": 0,
    "assists": 1
   },
@@ -573,7 +573,7 @@
    "pos": "خط وسط",
    "price": "7.5",
    "pts": 15,
-   "own": "26.7%",
+   "own": "26.6%",
    "goals": 1,
    "assists": 1
   },
@@ -635,7 +635,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "13.3%",
+   "own": "13.4%",
    "goals": 2,
    "assists": 1
   },
@@ -655,7 +655,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "17.6%",
+   "own": "17.7%",
    "goals": 2,
    "assists": 1
   },
@@ -665,7 +665,7 @@
    "pos": "مهاجم",
    "price": "7.1",
    "pts": 21,
-   "own": "33.5%",
+   "own": "33.6%",
    "goals": 3,
    "assists": 0
   },
@@ -675,7 +675,7 @@
    "pos": "حارس المرمي",
    "price": "5.0",
    "pts": 21,
-   "own": "7.2%",
+   "own": "7.3%",
    "goals": 0,
    "assists": 0
   },
@@ -695,7 +695,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 18,
-   "own": "48.3%",
+   "own": "48.4%",
    "goals": 2,
    "assists": 0
   },
@@ -765,7 +765,7 @@
    "pos": "حارس المرمي",
    "price": "5.5",
    "pts": 16,
-   "own": "11.1%",
+   "own": "11.2%",
    "goals": 0,
    "assists": 0
   },
@@ -805,7 +805,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 15,
-   "own": "20.5%",
+   "own": "20.6%",
    "goals": 1,
    "assists": 0
   },
@@ -815,7 +815,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 15,
-   "own": "16.3%",
+   "own": "16.4%",
    "goals": 0,
    "assists": 1
   },
@@ -902,13 +902,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Hajji",
-   "club": "نيوم",
-   "status": "ban",
-   "detail": "موقوف حتى 22 أغسطس",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "S. Al Mosa",
    "club": "الاتحاد",
    "status": "doubt",
@@ -923,7 +916,7 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Simic",
+   "name": "Kadish",
    "club": "الاتحاد",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1007,6 +1000,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Nkoudou",
+   "club": "الدرعية",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Lekhal",
    "club": "الرياض",
    "status": "doubt",
@@ -1035,7 +1035,28 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Al Mogren",
+   "club": "الفيصلي",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Ella",
+   "club": "الفيصلي",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Casteels",
+   "club": "القـادسيـة",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Al Juwayr",
    "club": "القـادسيـة",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1106,6 +1127,13 @@
   },
   {
    "name": "Abbas",
+   "club": "نيوم",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Benrahma",
    "club": "نيوم",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1259,6 +1287,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Al Solan",
+   "club": "الفيصلي",
+   "status": "gone",
+   "detail": "إنتقال الى العروبة",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Luvannor",
    "club": "الفيصلي",
    "status": "gone",
@@ -1364,8 +1399,8 @@
   },
   {
    "date": "إيقافات",
-   "title": "3 لاعبين موقوفين",
-   "body": "Lopy (الاتحاد)، Abascal (الرياض)، Al Hajji (نيوم)."
+   "title": "2 لاعبين موقوفين",
+   "body": "Lopy (الاتحاد)، Abascal (الرياض)."
   }
  ]
 }
