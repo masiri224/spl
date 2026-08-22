@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 2,
- "updated": "22‏/08‏/2026، 4:44 م",
+ "updated": "22‏/08‏/2026، 6:48 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "standings": [
   {
@@ -9,7 +9,7 @@
    "lastRank": 3,
    "team": "Homoud city",
    "manager": "Abu Abra",
-   "gw": 62,
+   "gw": 63,
    "total": 153
   },
   {
@@ -17,7 +17,7 @@
    "lastRank": 1,
    "team": "الصقر13",
    "manager": "Abu Riyad AS",
-   "gw": 36,
+   "gw": 37,
    "total": 143
   },
   {
@@ -25,7 +25,7 @@
    "lastRank": 2,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 35,
+   "gw": 38,
    "total": 139
   },
   {
@@ -49,7 +49,7 @@
    "lastRank": 11,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 46,
+   "gw": 48,
    "total": 114
   },
   {
@@ -57,7 +57,7 @@
    "lastRank": 5,
    "team": "Ten Persons",
    "manager": "Mohammed Alsanbaqi",
-   "gw": 24,
+   "gw": 25,
    "total": 113
   },
   {
@@ -65,7 +65,7 @@
    "lastRank": 9,
    "team": "فارس نجد",
    "manager": "أبو محمد .",
-   "gw": 41,
+   "gw": 44,
    "total": 112
   },
   {
@@ -97,7 +97,7 @@
    "lastRank": 17,
    "team": "Heroes",
    "manager": "Saeed Heroes",
-   "gw": 45,
+   "gw": 46,
    "total": 94
   },
   {
@@ -121,7 +121,7 @@
    "lastRank": 7,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 16,
+   "gw": 17,
    "total": 87
   },
   {
@@ -137,7 +137,7 @@
    "lastRank": 16,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 21,
+   "gw": 22,
    "total": 73
   },
   {
@@ -161,7 +161,7 @@
    "lastRank": 18,
    "team": "Sharahili",
    "manager": "Sharahili Sharahili",
-   "gw": 5,
+   "gw": 7,
    "total": 49
   },
   {
@@ -211,7 +211,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "17.9%",
+   "own": "18.0%",
    "goals": 2,
    "assists": 1
   },
@@ -221,7 +221,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 18,
-   "own": "48.5%",
+   "own": "48.6%",
    "goals": 2,
    "assists": 0
   },
@@ -231,7 +231,7 @@
    "pos": "خط وسط",
    "price": "9.5",
    "pts": 17,
-   "own": "6.6%",
+   "own": "6.7%",
    "goals": 1,
    "assists": 0
   },
@@ -241,7 +241,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 17,
-   "own": "6.8%",
+   "own": "6.9%",
    "goals": 1,
    "assists": 0
   },
@@ -251,7 +251,7 @@
    "pos": "خط وسط",
    "price": "4.5",
    "pts": 16,
-   "own": "13.8%",
+   "own": "13.9%",
    "goals": 1,
    "assists": 1
   },
@@ -271,7 +271,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 15,
-   "own": "4.1%",
+   "own": "4.2%",
    "goals": 1,
    "assists": 1
   },
@@ -291,7 +291,7 @@
    "pos": "خط وسط",
    "price": "7.5",
    "pts": 15,
-   "own": "26.5%",
+   "own": "26.4%",
    "goals": 1,
    "assists": 1
   },
@@ -341,7 +341,7 @@
    "pos": "خط وسط",
    "price": "4.5",
    "pts": 12,
-   "own": "0.4%",
+   "own": "0.5%",
    "goals": 1,
    "assists": 0
   },
@@ -351,7 +351,7 @@
    "pos": "مهاجم",
    "price": "10.0",
    "pts": 10,
-   "own": "28.1%",
+   "own": "28.0%",
    "goals": 1,
    "assists": 0
   },
@@ -493,7 +493,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "17.9%",
+   "own": "18.0%",
    "goals": 2,
    "assists": 1
   },
@@ -503,7 +503,7 @@
    "pos": "مدافع",
    "price": "4.0",
    "pts": 19,
-   "own": "10.0%",
+   "own": "10.1%",
    "goals": 0,
    "assists": 1
   },
@@ -513,7 +513,7 @@
    "pos": "مدافع",
    "price": "5.5",
    "pts": 18,
-   "own": "35.3%",
+   "own": "35.4%",
    "goals": 0,
    "assists": 1
   },
@@ -523,7 +523,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 16,
-   "own": "15.0%",
+   "own": "15.1%",
    "goals": 0,
    "assists": 1
   },
@@ -533,7 +533,7 @@
    "pos": "خط وسط",
    "price": "4.5",
    "pts": 16,
-   "own": "13.8%",
+   "own": "13.9%",
    "goals": 1,
    "assists": 1
   },
@@ -543,7 +543,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 15,
-   "own": "16.4%",
+   "own": "16.5%",
    "goals": 0,
    "assists": 1
   },
@@ -553,7 +553,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 15,
-   "own": "4.1%",
+   "own": "4.2%",
    "goals": 1,
    "assists": 1
   },
@@ -573,7 +573,7 @@
    "pos": "خط وسط",
    "price": "7.5",
    "pts": 15,
-   "own": "26.5%",
+   "own": "26.4%",
    "goals": 1,
    "assists": 1
   },
@@ -655,7 +655,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "17.9%",
+   "own": "18.0%",
    "goals": 2,
    "assists": 1
   },
@@ -675,7 +675,7 @@
    "pos": "حارس المرمي",
    "price": "5.0",
    "pts": 21,
-   "own": "7.6%",
+   "own": "7.7%",
    "goals": 0,
    "assists": 0
   },
@@ -685,7 +685,7 @@
    "pos": "مدافع",
    "price": "4.0",
    "pts": 19,
-   "own": "10.0%",
+   "own": "10.1%",
    "goals": 0,
    "assists": 1
   },
@@ -695,7 +695,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 18,
-   "own": "48.5%",
+   "own": "48.6%",
    "goals": 2,
    "assists": 0
   },
@@ -705,7 +705,7 @@
    "pos": "مدافع",
    "price": "5.5",
    "pts": 18,
-   "own": "35.3%",
+   "own": "35.4%",
    "goals": 0,
    "assists": 1
   },
@@ -715,7 +715,7 @@
    "pos": "خط وسط",
    "price": "9.5",
    "pts": 17,
-   "own": "6.6%",
+   "own": "6.7%",
    "goals": 1,
    "assists": 0
   },
@@ -725,7 +725,7 @@
    "pos": "مدافع",
    "price": "5.5",
    "pts": 17,
-   "own": "26.6%",
+   "own": "26.7%",
    "goals": 0,
    "assists": 0
   },
@@ -735,7 +735,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 17,
-   "own": "6.8%",
+   "own": "6.9%",
    "goals": 1,
    "assists": 0
   },
@@ -745,7 +745,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 17,
-   "own": "13.7%",
+   "own": "13.6%",
    "goals": 0,
    "assists": 0
   },
@@ -755,7 +755,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 16,
-   "own": "15.0%",
+   "own": "15.1%",
    "goals": 0,
    "assists": 1
   },
@@ -765,7 +765,7 @@
    "pos": "حارس المرمي",
    "price": "5.5",
    "pts": 16,
-   "own": "11.2%",
+   "own": "11.3%",
    "goals": 0,
    "assists": 0
   },
@@ -785,7 +785,7 @@
    "pos": "خط وسط",
    "price": "4.5",
    "pts": 16,
-   "own": "13.8%",
+   "own": "13.9%",
    "goals": 1,
    "assists": 1
   },
@@ -815,7 +815,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 15,
-   "own": "16.4%",
+   "own": "16.5%",
    "goals": 0,
    "assists": 1
   },
@@ -825,7 +825,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 15,
-   "own": "4.1%",
+   "own": "4.2%",
    "goals": 1,
    "assists": 1
   }
