@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 2,
- "updated": "23‏/08‏/2026، 6:31 ص",
+ "updated": "23‏/08‏/2026، 9:25 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "standings": [
   {
@@ -9,8 +9,8 @@
    "lastRank": 2,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 84,
-   "total": 188
+   "gw": 85,
+   "total": 189
   },
   {
    "rank": 2,
@@ -57,24 +57,24 @@
    "lastRank": 7,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 88,
-   "total": 159
+   "gw": 89,
+   "total": 160
   },
   {
    "rank": 8,
    "lastRank": 11,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 83,
-   "total": 151
+   "gw": 84,
+   "total": 152
   },
   {
    "rank": 9,
    "lastRank": 5,
    "team": "Ten Persons",
    "manager": "Mohammed Alsanbaqi",
-   "gw": 48,
-   "total": 137
+   "gw": 49,
+   "total": 138
   },
   {
    "rank": 10,
@@ -121,8 +121,8 @@
    "lastRank": 10,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 45,
-   "total": 114
+   "gw": 46,
+   "total": 115
   },
   {
    "rank": 16,
@@ -181,7 +181,7 @@
    "pos": "مهاجم",
    "price": "12.0",
    "pts": 26,
-   "own": "34.6%",
+   "own": "34.7%",
    "goals": 3,
    "assists": 0
   },
@@ -201,7 +201,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "16.4%",
+   "own": "16.7%",
    "goals": 2,
    "assists": 1
   },
@@ -221,7 +221,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "19.2%",
+   "own": "19.3%",
    "goals": 2,
    "assists": 1
   },
@@ -231,7 +231,7 @@
    "pos": "خط وسط",
    "price": "10.6",
    "pts": 18,
-   "own": "49.6%",
+   "own": "49.7%",
    "goals": 2,
    "assists": 0
   },
@@ -241,7 +241,7 @@
    "pos": "مهاجم",
    "price": "8.0",
    "pts": 17,
-   "own": "23.0%",
+   "own": "23.1%",
    "goals": 2,
    "assists": 0
   },
@@ -251,7 +251,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 23,
-   "own": "3.8%",
+   "own": "4.0%",
    "goals": 1,
    "assists": 0
   },
@@ -262,16 +262,6 @@
    "price": "7.1",
    "pts": 22,
    "own": "21.3%",
-   "goals": 1,
-   "assists": 1
-  },
-  {
-   "name": "Trincao",
-   "club": "الأهلي",
-   "pos": "خط وسط",
-   "price": "8.0",
-   "pts": 17,
-   "own": "7.3%",
    "goals": 1,
    "assists": 1
   },
@@ -291,7 +281,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 17,
-   "own": "7.4%",
+   "own": "7.5%",
    "goals": 1,
    "assists": 0
   },
@@ -301,7 +291,17 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 17,
-   "own": "0.7%",
+   "own": "0.8%",
+   "goals": 1,
+   "assists": 1
+  },
+  {
+   "name": "Trincao",
+   "club": "الأهلي",
+   "pos": "خط وسط",
+   "price": "8.0",
+   "pts": 16,
+   "own": "7.3%",
    "goals": 1,
    "assists": 1
   },
@@ -321,7 +321,7 @@
    "pos": "خط وسط",
    "price": "4.5",
    "pts": 16,
-   "own": "14.4%",
+   "own": "14.5%",
    "goals": 1,
    "assists": 1
   },
@@ -351,7 +351,7 @@
    "pos": "خط وسط",
    "price": "7.5",
    "pts": 15,
-   "own": "24.8%",
+   "own": "24.6%",
    "goals": 1,
    "assists": 1
   },
@@ -391,7 +391,7 @@
    "pos": "خط وسط",
    "price": "5.0",
    "pts": 12,
-   "own": "2.6%",
+   "own": "2.7%",
    "goals": 1,
    "assists": 0
   },
@@ -401,7 +401,7 @@
    "pos": "مدافع",
    "price": "4.0",
    "pts": 12,
-   "own": "13.5%",
+   "own": "13.4%",
    "goals": 1,
    "assists": 0
   },
@@ -433,7 +433,7 @@
    "pos": "خط وسط",
    "price": "6.0",
    "pts": 18,
-   "own": "7.1%",
+   "own": "7.2%",
    "goals": 0,
    "assists": 3
   },
@@ -443,7 +443,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 14,
-   "own": "24.8%",
+   "own": "24.7%",
    "goals": 0,
    "assists": 2
   },
@@ -473,7 +473,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "16.4%",
+   "own": "16.7%",
    "goals": 2,
    "assists": 1
   },
@@ -493,7 +493,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "19.2%",
+   "own": "19.3%",
    "goals": 2,
    "assists": 1
   },
@@ -513,7 +513,7 @@
    "pos": "مدافع",
    "price": "4.1",
    "pts": 19,
-   "own": "11.0%",
+   "own": "11.1%",
    "goals": 0,
    "assists": 1
   },
@@ -523,18 +523,8 @@
    "pos": "مدافع",
    "price": "5.5",
    "pts": 18,
-   "own": "36.1%",
+   "own": "36.2%",
    "goals": 0,
-   "assists": 1
-  },
-  {
-   "name": "Trincao",
-   "club": "الأهلي",
-   "pos": "خط وسط",
-   "price": "8.0",
-   "pts": 17,
-   "own": "7.3%",
-   "goals": 1,
    "assists": 1
   },
   {
@@ -543,7 +533,17 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 17,
-   "own": "0.7%",
+   "own": "0.8%",
+   "goals": 1,
+   "assists": 1
+  },
+  {
+   "name": "Trincao",
+   "club": "الأهلي",
+   "pos": "خط وسط",
+   "price": "8.0",
+   "pts": 16,
+   "own": "7.3%",
    "goals": 1,
    "assists": 1
   },
@@ -553,7 +553,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 16,
-   "own": "15.4%",
+   "own": "15.5%",
    "goals": 0,
    "assists": 1
   },
@@ -573,7 +573,7 @@
    "pos": "خط وسط",
    "price": "4.5",
    "pts": 16,
-   "own": "14.4%",
+   "own": "14.5%",
    "goals": 1,
    "assists": 1
   },
@@ -623,7 +623,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 15,
-   "own": "1.1%",
+   "own": "1.2%",
    "goals": 0,
    "assists": 1
   }
@@ -635,7 +635,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "16.4%",
+   "own": "16.7%",
    "goals": 2,
    "assists": 1
   },
@@ -645,7 +645,7 @@
    "pos": "مهاجم",
    "price": "12.0",
    "pts": 26,
-   "own": "34.6%",
+   "own": "34.7%",
    "goals": 3,
    "assists": 0
   },
@@ -665,7 +665,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 23,
-   "own": "3.8%",
+   "own": "4.0%",
    "goals": 1,
    "assists": 0
   },
@@ -685,7 +685,7 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 23,
-   "own": "19.2%",
+   "own": "19.3%",
    "goals": 2,
    "assists": 1
   },
@@ -705,7 +705,7 @@
    "pos": "حارس المرمي",
    "price": "5.0",
    "pts": 21,
-   "own": "9.5%",
+   "own": "9.7%",
    "goals": 0,
    "assists": 0
   },
@@ -720,12 +720,22 @@
    "assists": 0
   },
   {
+   "name": "Demiral",
+   "club": "الأهلي",
+   "pos": "مدافع",
+   "price": "5.6",
+   "pts": 19,
+   "own": "36.1%",
+   "goals": 0,
+   "assists": 0
+  },
+  {
    "name": "Al Najdi",
    "club": "النصر",
    "pos": "مدافع",
    "price": "4.1",
    "pts": 19,
-   "own": "11.0%",
+   "own": "11.1%",
    "goals": 0,
    "assists": 1
   },
@@ -740,22 +750,12 @@
    "assists": 0
   },
   {
-   "name": "Demiral",
-   "club": "الأهلي",
-   "pos": "مدافع",
-   "price": "5.6",
-   "pts": 18,
-   "own": "36.1%",
-   "goals": 0,
-   "assists": 0
-  },
-  {
    "name": "Medrán",
    "club": "الاتفاق",
    "pos": "خط وسط",
    "price": "6.0",
    "pts": 18,
-   "own": "7.1%",
+   "own": "7.2%",
    "goals": 0,
    "assists": 3
   },
@@ -765,7 +765,7 @@
    "pos": "حارس المرمي",
    "price": "5.0",
    "pts": 18,
-   "own": "1.3%",
+   "own": "1.4%",
    "goals": 0,
    "assists": 0
   },
@@ -775,7 +775,7 @@
    "pos": "خط وسط",
    "price": "10.6",
    "pts": 18,
-   "own": "49.6%",
+   "own": "49.7%",
    "goals": 2,
    "assists": 0
   },
@@ -785,18 +785,8 @@
    "pos": "مدافع",
    "price": "5.5",
    "pts": 18,
-   "own": "36.1%",
+   "own": "36.2%",
    "goals": 0,
-   "assists": 1
-  },
-  {
-   "name": "Trincao",
-   "club": "الأهلي",
-   "pos": "خط وسط",
-   "price": "8.0",
-   "pts": 17,
-   "own": "7.3%",
-   "goals": 1,
    "assists": 1
   },
   {
@@ -825,8 +815,18 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 17,
-   "own": "7.4%",
+   "own": "7.5%",
    "goals": 1,
+   "assists": 0
+  },
+  {
+   "name": "Boushal",
+   "club": "النصر",
+   "pos": "مدافع",
+   "price": "5.0",
+   "pts": 17,
+   "own": "13.8%",
+   "goals": 0,
    "assists": 0
   }
  ],
@@ -1380,7 +1380,7 @@
   {
    "date": "الجولة 2",
    "title": "متوسط النقاط 71 وأعلى نتيجة 169",
-   "body": "تصدّر دورينا «False Nine» بـ 188 نقطة."
+   "body": "تصدّر دورينا «False Nine» بـ 189 نقطة."
   },
   {
    "date": "الجولة 2",
