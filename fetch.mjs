@@ -1,7 +1,7 @@
 // يسحب بيانات دوري الفانتزي ويبني data.json — بلا مكتبات خارجية
 // التشغيل: node fetch.mjs
 
-import { writeFileSync } from 'node:fs';
+import { writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
 
 const LEAGUE_ID = process.env.LEAGUE_ID || '1393';
 const BASE = 'https://fantasy.spl.com.sa/api';
@@ -124,7 +124,10 @@ const data = {
   updated: new Date().toLocaleString('ar-SA-u-nu-latn', { timeZone: 'Asia/Riyadh', dateStyle: 'medium', timeStyle: 'short' }),
   sourceUrl: `https://fantasy.spl.com.sa/leagues/${LEAGUE_ID}/standings/c`,
 
+  deadline: nextEvent ? nextEvent.deadline_time : null,
+
   standings: league.standings.results.map(r => ({
+    entry: r.entry,
     rank: r.rank,
     lastRank: r.last_rank,
     team: clean(r.entry_name) || clean(r.player_name) || 'بلا اسم',
@@ -146,4 +149,22 @@ const data = {
 };
 
 writeFileSync('data.json', JSON.stringify(data, null, 1));
+
+// ── أرشيف الجولات: نسخة خفيفة لكل جولة، تُبنى منها الرسوم والفورم ──
+if (data.gameweek) {
+  mkdirSync('history', { recursive: true });
+  writeFileSync(`history/gw${data.gameweek}.json`, JSON.stringify({
+    gameweek: data.gameweek,
+    updated: data.updated,
+    standings: data.standings.map(t => ({
+      entry: t.entry, rank: t.rank, team: t.team, manager: t.manager, gw: t.gw, total: t.total
+    }))
+  }));
+  const gws = readdirSync('history')
+    .map(f => /^gw(\d+)\.json$/.exec(f))
+    .filter(Boolean).map(m => Number(m[1]))
+    .sort((a, b) => a - b);
+  writeFileSync('history/index.json', JSON.stringify(gws));
+  console.log(`  أرشيف: ${gws.length} جولة (${gws.join('، ')})`);
+}
 console.log(`✓ الجولة ${data.gameweek} — ${data.standings.length} فريقاً، ${injuries.length} حالة، ${news.length} خبراً`);

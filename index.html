@@ -23,6 +23,9 @@ header{background:rgba(255,255,255,.93);backdrop-filter:blur(4px);border-bottom:
 .logo{width:42px;height:42px;border-radius:12px;background:var(--brand);color:#fff;display:grid;place-items:center;font-weight:800;font-size:18px}
 h1{font-size:19px;margin:0}
 .sub{font-size:13px;color:var(--mut);margin-top:2px}
+.cd{background:#fff4e6;color:#8a4b06;border:1px solid #f3ddc0;border-radius:999px;
+  padding:7px 14px;font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+.cd.soon{background:#fdeceb;color:#a5291b;border-color:#f5c9c4}
 .gw{margin-inline-start:auto;background:var(--brand-soft);color:var(--brand);border-radius:999px;padding:7px 14px;font-size:13px;font-weight:700}
 nav{display:flex;gap:6px;overflow-x:auto;padding:14px 0 18px}
 nav button{border:1px solid var(--line);background:var(--card);color:var(--mut);padding:9px 16px;border-radius:999px;font:inherit;font-size:14px;cursor:pointer;white-space:nowrap;transition:.15s}
@@ -104,6 +107,20 @@ tbody tr:hover{background:rgba(250,251,252,.9)}
 .badge{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap}
 .b-cap{background:#eef1fb;color:#3f4f8f}
 .b-best{background:var(--brand-soft);color:var(--brand)}
+/* ── سباق المجموعات ── */
+.race{padding:18px 18px 10px;direction:ltr}
+.race svg{width:100%;height:auto;display:block;overflow:visible}
+.rlegend{display:flex;gap:16px;flex-wrap:wrap;padding:0 18px 16px;direction:rtl}
+.rlegend span{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--mut)}
+.rlegend i{width:11px;height:11px;border-radius:3px;display:block;flex:none}
+.rempty{text-align:center;color:var(--mut);padding:40px 20px;font-size:14px;line-height:1.9}
+.rtip{position:fixed;pointer-events:none;background:#12161c;color:#fff;border-radius:9px;
+  padding:9px 12px;font-size:12.5px;line-height:1.8;z-index:50;opacity:0;transition:opacity .1s;
+  white-space:nowrap;box-shadow:0 6px 20px rgba(0,0,0,.2)}
+.rtip b{font-variant-numeric:tabular-nums}
+/* ── الفورم ── */
+.form{display:inline-flex;gap:3px;vertical-align:middle}
+.form i{width:7px;height:7px;border-radius:2px;display:block}
 .warn{background:#fdf3e3;border:1px solid #f0dcb4;color:#7a5410;border-radius:var(--r);
   padding:14px 16px;margin-bottom:18px;font-size:14px}
 .hide{display:none}
@@ -121,6 +138,7 @@ footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
       <div class="sub">فانتزي دوري روشن السعودي</div>
     </div>
     <div class="gw" id="gwBadge">—</div>
+    <div class="cd" id="countdown"></div>
   </div>
 </header>
 
@@ -141,7 +159,7 @@ footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
     <div class="panel">
       <div class="ph"><h2>ترتيب الدوري</h2><span class="tag" id="stTag"></span><button id="saveImg" class="dl">حفظ صورة</button></div>
       <table><thead><tr>
-        <th>#</th><th>الفريق والمدير</th><th class="mob">الحركة</th><th class="mob">نقاط الجولة</th><th>إجمالي النقاط</th>
+        <th>#</th><th>الفريق والمدير</th><th class="mob">آخر ٥ جولات</th><th class="mob">الحركة</th><th class="mob">نقاط الجولة</th><th>إجمالي النقاط</th>
       </tr></thead><tbody id="stBody"></tbody></table>
     </div>
   </section>
@@ -183,10 +201,14 @@ footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
   <section id="groups" class="hide">
     <div id="grpWarn"></div>
     <div class="panel">
-      <div class="ph"><h2>ترتيب المجموعات</h2><span class="tag">مجموع نقاط الأعضاء منذ الجولة الأولى</span></div>
+      <div class="ph"><h2>ترتيب المجموعات</h2><span class="tag">مجموع نقاط الأعضاء منذ الجولة الأولى</span><button id="saveGrp" class="dl">حفظ صورة</button></div>
       <table><thead><tr>
         <th>#</th><th>المجموعة</th><th class="mob">الكابتن</th><th class="mob">نقاط الجولة</th><th>إجمالي النقاط</th>
       </tr></thead><tbody id="grpBody"></tbody></table>
+    </div>
+    <div class="panel" id="racePanel">
+      <div class="ph"><h2>سباق المجموعات</h2><span class="tag">إجمالي النقاط بعد كل جولة</span></div>
+      <div id="raceBody"></div>
     </div>
     <div id="grpCards"></div>
   </section>
@@ -209,6 +231,21 @@ const $ = s => document.querySelector(s);
 function render(){
 const rank = (n,i) => `<div class="rank ${i<3?'g'+(i+1):''}">${n}</div>`;
 const bar = (v,max) => `<div class="bar"><i style="width:${Math.max(4,Math.round(v/max*100))}%"></i></div>`;
+// نقاط آخر خمس جولات كنقاط ملوّنة — تدرّج أخضر واحد حسب الحجم
+function formDots(entry){
+  if (entry == null || HISTORY.length < 2) return '<span class="eq">—</span>';
+  const pts = HISTORY.slice(-5).map(hh => {
+    const r = hh.standings.find(x => x.entry === entry);
+    return r ? r.gw : null;
+  }).filter(v => v !== null);
+  if (!pts.length) return '<span class="eq">—</span>';
+  const mx = Math.max(...HISTORY.flatMap(hh => hh.standings.map(x => x.gw)), 1);
+  return '<span class="form" title="' + pts.join(' · ') + '">' + pts.map(v => {
+    const t = Math.min(1, Math.max(0, v / mx));
+    const shade = t > .66 ? '#0f7b5f' : t > .33 ? '#6bab97' : t > 0 ? '#bcd8cd' : '#e6e8ec';
+    return `<i style="background:${shade}"></i>`;
+  }).join('') + '</span>';
+}
 const mv = t => (t.lastRank==null||t.lastRank===0) ? '<span class="eq">جديد</span>'
   : t.lastRank>t.rank ? `<span class="up">▲ ${t.lastRank-t.rank}</span>`
   : t.lastRank<t.rank ? `<span class="dn">▼ ${t.rank-t.lastRank}</span>` : '<span class="eq">—</span>';
@@ -222,6 +259,24 @@ const club = c => CLUBS[c] || c;
 $('#lgName').textContent = DATA.league;
 $('#gwBadge').textContent = 'الجولة ' + DATA.gameweek;
 $('#upd').textContent = DATA.updated;
+
+// عدّاد تنازلي للموعد النهائي
+if (DATA.deadline){
+  const el = $('#countdown'), end = new Date(DATA.deadline).getTime();
+  const tick = () => {
+    const ms = end - Date.now();
+    if (ms <= 0){ el.textContent = 'أُقفلت الجولة'; el.classList.remove('soon'); return; }
+    const d = Math.floor(ms/864e5), hh = Math.floor(ms%864e5/36e5),
+          mm = Math.floor(ms%36e5/6e4), ss = Math.floor(ms%6e4/1000);
+    const hword = hh === 1 ? 'ساعة' : hh === 2 ? 'ساعتين' : hh <= 10 ? 'ساعات' : 'ساعة';
+    const dword = d === 1 ? 'يوم' : d === 2 ? 'يومين' : d <= 10 ? 'أيام' : 'يوم';
+    el.textContent = d > 0 ? `الإقفال بعد ${d === 1 ? '' : d + ' '}${dword}${hh ? ` و${hh === 1 ? '' : hh + ' '}${hword}` : ''}`
+                   : hh > 0 ? `الإقفال بعد ${hh}:${String(mm).padStart(2,'0')}:${String(ss).padStart(2,'0')}`
+                            : `الإقفال بعد ${mm}:${String(ss).padStart(2,'0')}`;
+    el.classList.toggle('soon', ms < 6*36e5);
+  };
+  tick(); setInterval(tick, 1000);
+}
 $('#stTag').textContent = DATA.standings.length + ' فريقاً';
 
 
@@ -250,6 +305,7 @@ $('#cards').innerHTML = `
 $('#stBody').innerHTML = st.map((t,i)=>`<tr>
   <td>${rank(t.rank ?? i+1, i)}</td>
   <td><div class="team">${t.team}</div><div class="mgr">${t.manager}</div></td>
+  <td class="mob">${formDots(t.entry)}</td>
   <td class="mob">${mv(t)}</td>
   <td class="mob num">${t.gw}</td>
   <td class="num">${t.total}${bar(t.total, st[0].total)}</td></tr>`).join('');
@@ -322,9 +378,22 @@ if (DATA.sourceUrl){
   renderGroups();
 }
 
+let HISTORY = [];   // [{gameweek, standings:[{entry, gw, total, ...}]}] مرتّبة تصاعدياً
+
+const loadHistory = async () => {
+  try {
+    const idx = await fetch('history/index.json?t=' + Date.now());
+    if (!idx.ok) return [];
+    const gws = await idx.json();
+    const files = await Promise.all(gws.map(n =>
+      fetch(`history/gw${n}.json?t=` + Date.now()).then(r => r.ok ? r.json() : null)));
+    return files.filter(Boolean).sort((a,b) => a.gameweek - b.gameweek);
+  } catch { return []; }
+};
+
 fetch('data.json?t=' + Date.now())
   .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
-  .then(d => { DATA = d; render(); })
+  .then(async d => { DATA = d; HISTORY = await loadHistory(); render(); })
   .catch(err => {
     document.querySelector('.wrap').insertAdjacentHTML('afterbegin',
       `<div class="panel" style="padding:34px;text-align:center;color:var(--mut)">
@@ -466,6 +535,180 @@ const GROUPS = [
 
 const norm = s => String(s ?? '').replace(/\s+/g,' ').trim().toLowerCase();
 
+
+/* ══════════ سباق المجموعات — رسم SVG خالص ══════════ */
+const GCOLORS = ['#0f7b5f', '#c2410c', '#5b53a8'];   // مفحوصة لعمى الألوان
+
+function renderRace(order){
+  const box = $('#raceBody');
+  if (HISTORY.length < 2){
+    box.innerHTML = `<div class="rempty">الرسم يظهر بعد جولتين على الأقل.<br>
+      حتى الآن محفوظة ${HISTORY.length || 0} جولة — يتراكم الأرشيف مع كل تحديث.</div>`;
+    return;
+  }
+  // لون ثابت لكل مجموعة حسب ترتيب التعريف، لا حسب المركز
+  const series = GROUPS.map((g, gi) => ({
+    name: g.name, color: GCOLORS[gi % GCOLORS.length],
+    pts: HISTORY.map(hh => {
+      const byMgr = new Map(hh.standings.map(t => [norm(t.manager), t]));
+      return g.members.reduce((s, m) => s + (byMgr.get(norm(m))?.total || 0), 0);
+    })
+  }));
+
+  const W = 720, H = 300, ML = 46, MR = 76, MT = 16, MB = 34;
+  const gws = HISTORY.map(hh => hh.gameweek);
+  const all = series.flatMap(s => s.pts);
+  const lo = Math.min(...all), hi = Math.max(...all);
+  const pad = Math.max(8, (hi - lo) * .18);
+  const y0 = Math.max(0, lo - pad), y1 = hi + pad;
+  const X = i => ML + (W - ML - MR) * (gws.length === 1 ? .5 : i / (gws.length - 1));
+  const Y = v => MT + (H - MT - MB) * (1 - (v - y0) / (y1 - y0 || 1));
+
+  const ticks = 4, gy = Array.from({length: ticks + 1}, (_, i) => y0 + (y1 - y0) * i / ticks);
+
+  const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="تطور نقاط المجموعات عبر الجولات">
+    ${gy.map(v => `<line x1="${ML}" x2="${W - MR}" y1="${Y(v)}" y2="${Y(v)}"
+        stroke="#e9ebef" stroke-width="1"/>
+      <text x="${ML - 8}" y="${Y(v) + 4}" text-anchor="end" font-size="11" fill="#9aa2ae"
+        font-family="system-ui">${Math.round(v)}</text>`).join('')}
+    ${gws.map((g, i) => `<text x="${X(i)}" y="${H - 12}" text-anchor="middle" font-size="11"
+        fill="#9aa2ae" font-family="system-ui">ج${g}</text>`).join('')}
+    ${series.map(s => `<path d="${s.pts.map((v, i) => `${i ? 'L' : 'M'}${X(i)},${Y(v)}`).join('')}"
+        fill="none" stroke="${s.color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`).join('')}
+    ${series.map(s => s.pts.map((v, i) =>
+        `<circle cx="${X(i)}" cy="${Y(v)}" r="4.5" fill="${s.color}" stroke="#fff" stroke-width="2"/>`).join('')).join('')}
+${(() => {                       // تسميات النهاية مع إزاحة تمنع التراكب
+        const last = gws.length - 1;
+        const lab = series.map(s => ({ s, v: s.pts[last], y: Y(s.pts[last]) }))
+                          .sort((a, b) => a.y - b.y);
+        for (let i = 1; i < lab.length; i++)
+          if (lab[i].y - lab[i-1].y < 15) lab[i].y = lab[i-1].y + 15;
+        return lab.map(l => `<text x="${X(last) + 12}" y="${l.y + 4}" font-size="12" font-weight="700"
+          fill="${l.s.color}" font-family="system-ui">${l.v}</text>`).join('');
+      })()}
+    <line id="rcross" x1="0" x2="0" y1="${MT}" y2="${H - MB}" stroke="#12161c" stroke-width="1"
+      stroke-dasharray="3 3" opacity="0"/>
+    <rect id="rhit" x="${ML}" y="${MT}" width="${W - ML - MR}" height="${H - MT - MB}" fill="transparent"/>
+  </svg>`;
+
+  box.innerHTML = `<div class="race">${svg}</div>
+    <div class="rlegend">${series.map(s =>
+      `<span><i style="background:${s.color}"></i>${s.name}</span>`).join('')}</div>`;
+
+  // طبقة التمرير
+  let tip = document.querySelector('.rtip');
+  if (!tip){ tip = document.createElement('div'); tip.className = 'rtip'; document.body.appendChild(tip); }
+  const svgEl = box.querySelector('svg'), hit = box.querySelector('#rhit'), cross = box.querySelector('#rcross');
+  const show = ev => {
+    const r = svgEl.getBoundingClientRect();
+    const px = (ev.clientX - r.left) / r.width * W;
+    let i = 0, best = Infinity;
+    gws.forEach((_, k) => { const d = Math.abs(X(k) - px); if (d < best){ best = d; i = k; } });
+    cross.setAttribute('x1', X(i)); cross.setAttribute('x2', X(i)); cross.setAttribute('opacity', '.28');
+    tip.innerHTML = `<b>الجولة ${gws[i]}</b><br>` + series
+      .map(s => ({ s, v: s.pts[i] })).sort((a, b) => b.v - a.v)
+      .map(({ s, v }) => `<span style="color:${s.color}">●</span> ${s.name} <b>${v}</b>`).join('<br>');
+    tip.style.opacity = '1';
+    tip.style.left = Math.min(window.innerWidth - 190, ev.clientX + 14) + 'px';
+    tip.style.top  = (ev.clientY - 12) + 'px';
+  };
+  const hide = () => { tip.style.opacity = '0'; cross.setAttribute('opacity', '0'); };
+  hit.addEventListener('mousemove', show);
+  hit.addEventListener('mouseleave', hide);
+  hit.addEventListener('touchmove', e => { show(e.touches[0]); e.preventDefault(); }, { passive: false });
+  hit.addEventListener('touchend', hide);
+}
+
+
+/* ══════════ صورة ترتيب المجموعات ══════════ */
+function buildGroupsImage(rows){
+  const S = 2, W = 900, PAD = 40, HEAD = 150, GAP = 18;
+  const cardH = g => 66 + g.members.length * 46;
+  const H = HEAD + rows.reduce((s,g) => s + cardH(g) + GAP, 0) + 60;
+  const c = document.createElement('canvas');
+  c.width = W * S; c.height = H * S;
+  const x = c.getContext('2d'); x.scale(S,S); x.direction='rtl'; x.textBaseline='middle';
+  const F=(s,w)=>`${w} ${s}px "Segoe UI", system-ui, "Noto Naskh Arabic", Tahoma, sans-serif`;
+  const R = W - PAD;
+
+  x.fillStyle='#f6f7f9'; x.fillRect(0,0,W,H);
+  if (logoImg.complete && logoImg.naturalWidth){
+    const s=420; x.save(); x.globalAlpha=.07;
+    x.drawImage(logoImg,(W-s)/2, HEAD+40, s, s); x.restore();
+  }
+  const g0=x.createLinearGradient(0,0,W,HEAD); g0.addColorStop(0,'#0f7b5f'); g0.addColorStop(1,'#0b5f49');
+  x.fillStyle=g0; x.fillRect(0,0,W,HEAD);
+  if (logoImg.complete && logoImg.naturalWidth){ x.save(); x.globalAlpha=.95;
+    x.drawImage(logoImg, R-78, 26, 78, 78); x.restore(); }
+  x.fillStyle='#fff'; x.textAlign='right';
+  x.font=F(30,'800'); x.fillText('ترتيب المجموعات', R-96, 55);
+  x.font=F(16,'400'); x.globalAlpha=.85;
+  x.fillText(`${DATA.league} — الجولة ${DATA.gameweek}`, R-96, 88);
+  x.fillText(`آخر تحديث: ${DATA.updated}`, R-96, 114);
+  x.globalAlpha=1;
+
+  let y = HEAD + 16;
+  rows.forEach((g,i) => {
+    const h0 = cardH(g);
+    x.fillStyle='rgba(255,255,255,.92)';
+    x.beginPath(); x.roundRect(PAD, y, W-PAD*2, h0, 14); x.fill();
+    x.strokeStyle='#e6e8ec'; x.lineWidth=1; x.stroke();
+
+    const [bg,fg] = (['#fdf6e3|#a1740a','#f1f3f6|#5b6270','#fbf0e8|#a35b26'][i] || '#f1f3f6|#6b7280').split('|');
+    x.fillStyle=bg; x.beginPath(); x.roundRect(R-34-18, y+18, 34, 30, 9); x.fill();
+    x.fillStyle=fg; x.font=F(14,'800'); x.textAlign='center';
+    x.fillText(String(g.pos), R-34-18+17, y+34);
+
+    x.textAlign='right'; x.fillStyle='#12161c'; x.font=F(20,'800');
+    x.fillText(g.name, R-70, y+34);
+    x.textAlign='left'; x.fillStyle='#0f7b5f'; x.font=F(24,'800');
+    x.fillText(String(g.total), PAD+22, y+30);
+    x.fillStyle='#8b93a1'; x.font=F(11,'400');
+    x.fillText(`${g.gw} هذه الجولة`, PAD+22, y+48);
+
+    x.strokeStyle='#eef0f3';
+    x.beginPath(); x.moveTo(PAD+14, y+58); x.lineTo(W-PAD-14, y+58); x.stroke();
+
+    g.members.forEach((m,k) => {
+      const my = y + 66 + k*46 + 23;
+      x.textAlign='right'; x.fillStyle='#12161c'; x.font=F(15,'700');
+      const cap = m.isCap ? ' ⓒ' : '';
+      x.fillText(m.team + cap, R-24, my-7);
+      x.fillStyle='#8b93a1'; x.font=F(12,'400');
+      x.fillText(m.manager, R-24, my+11);
+      x.textAlign='left'; x.fillStyle='#4b5563'; x.font=F(17,'800');
+      x.fillText(String(m.total), PAD+24, my);
+      if (k < g.members.length-1){ x.strokeStyle='#f4f5f7';
+        x.beginPath(); x.moveTo(PAD+14, y+66+(k+1)*46); x.lineTo(W-PAD-14, y+66+(k+1)*46); x.stroke(); }
+    });
+    y += h0 + GAP;
+  });
+
+  x.textAlign='right'; x.fillStyle='#9aa2ae'; x.font=F(13,'400');
+  x.fillText('fantasy.masiri224.online', R, H-30);
+  x.textAlign='left'; x.fillText('ⓒ = كابتن المجموعة', PAD, H-30);
+  return c;
+}
+
+function wireGroupSave(rows){
+  const btn = $('#saveGrp'); if (!btn) return;
+  btn.onclick = () => {
+    btn.disabled = true; btn.textContent = 'جارٍ التجهيز…';
+    const done = () => {
+      try {
+        buildGroupsImage(rows).toBlob(blob => {
+          const url = URL.createObjectURL(blob), a = document.createElement('a');
+          a.href = url; a.download = `المجموعات-الجولة-${DATA.gameweek}.png`;
+          document.body.appendChild(a); a.click(); a.remove();
+          setTimeout(() => URL.revokeObjectURL(url), 4000);
+        }, 'image/png');
+      } catch(e){ alert('تعذّر إنشاء الصورة: ' + e.message); }
+      btn.disabled = false; btn.textContent = 'حفظ صورة';
+    };
+    if (logoImg.complete) done(); else { logoImg.onload = done; logoImg.onerror = done; }
+  };
+}
+
 function renderGroups(){
   const bar = (v,max) => `<div class="bar"><i style="width:${Math.max(4,Math.round(v/max*100))}%"></i></div>`;
   const byMgr = new Map(DATA.standings.map(t => [norm(t.manager), t]));
@@ -501,6 +744,9 @@ function renderGroups(){
     <td class="mob mgr">${g.captain}</td>
     <td class="mob num">${g.gw}</td>
     <td class="num">${g.total}${bar(g.total, rows[0].total)}</td></tr>`).join('');
+
+  renderRace(rows);
+  wireGroupSave(rows);
 
   $('#grpCards').innerHTML = rows.map((g,i) => {
     const best = g.members[0];
