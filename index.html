@@ -23,9 +23,6 @@ header{background:rgba(255,255,255,.93);backdrop-filter:blur(4px);border-bottom:
 .logo{width:42px;height:42px;border-radius:12px;background:var(--brand);color:#fff;display:grid;place-items:center;font-weight:800;font-size:18px}
 h1{font-size:19px;margin:0}
 .sub{font-size:13px;color:var(--mut);margin-top:2px}
-.cd{background:#fff4e6;color:#8a4b06;border:1px solid #f3ddc0;border-radius:999px;
-  padding:7px 14px;font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
-.cd.soon{background:#fdeceb;color:#a5291b;border-color:#f5c9c4}
 .gw{margin-inline-start:auto;background:var(--brand-soft);color:var(--brand);border-radius:999px;padding:7px 14px;font-size:13px;font-weight:700}
 nav{display:flex;gap:6px;overflow-x:auto;padding:14px 0 18px}
 nav button{border:1px solid var(--line);background:var(--card);color:var(--mut);padding:9px 16px;border-radius:999px;font:inherit;font-size:14px;cursor:pointer;white-space:nowrap;transition:.15s}
@@ -138,7 +135,6 @@ footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
       <div class="sub">فانتزي دوري روشن السعودي</div>
     </div>
     <div class="gw" id="gwBadge">—</div>
-    <div class="cd" id="countdown"></div>
   </div>
 </header>
 
@@ -260,23 +256,6 @@ $('#lgName').textContent = DATA.league;
 $('#gwBadge').textContent = 'الجولة ' + DATA.gameweek;
 $('#upd').textContent = DATA.updated;
 
-// عدّاد تنازلي للموعد النهائي
-if (DATA.deadline){
-  const el = $('#countdown'), end = new Date(DATA.deadline).getTime();
-  const tick = () => {
-    const ms = end - Date.now();
-    if (ms <= 0){ el.textContent = 'أُقفلت الجولة'; el.classList.remove('soon'); return; }
-    const d = Math.floor(ms/864e5), hh = Math.floor(ms%864e5/36e5),
-          mm = Math.floor(ms%36e5/6e4), ss = Math.floor(ms%6e4/1000);
-    const hword = hh === 1 ? 'ساعة' : hh === 2 ? 'ساعتين' : hh <= 10 ? 'ساعات' : 'ساعة';
-    const dword = d === 1 ? 'يوم' : d === 2 ? 'يومين' : d <= 10 ? 'أيام' : 'يوم';
-    el.textContent = d > 0 ? `الإقفال بعد ${d === 1 ? '' : d + ' '}${dword}${hh ? ` و${hh === 1 ? '' : hh + ' '}${hword}` : ''}`
-                   : hh > 0 ? `الإقفال بعد ${hh}:${String(mm).padStart(2,'0')}:${String(ss).padStart(2,'0')}`
-                            : `الإقفال بعد ${mm}:${String(ss).padStart(2,'0')}`;
-    el.classList.toggle('soon', ms < 6*36e5);
-  };
-  tick(); setInterval(tick, 1000);
-}
 $('#stTag').textContent = DATA.standings.length + ' فريقاً';
 
 
