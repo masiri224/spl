@@ -1,10 +1,12 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 2,
- "updated": "23‏/08‏/2026، 3:34 م",
+ "updated": "23‏/08‏/2026، 3:46 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
+ "deadline": "2026-08-24T16:35:00Z",
  "standings": [
   {
+   "entry": 14191,
    "rank": 1,
    "lastRank": 2,
    "team": "False Nine",
@@ -13,6 +15,7 @@
    "total": 189
   },
   {
+   "entry": 23288,
    "rank": 2,
    "lastRank": 1,
    "team": "الصقر13",
@@ -21,6 +24,7 @@
    "total": 184
   },
   {
+   "entry": 51585,
    "rank": 3,
    "lastRank": 15,
    "team": "R3D",
@@ -29,6 +33,7 @@
    "total": 180
   },
   {
+   "entry": 56753,
    "rank": 4,
    "lastRank": 3,
    "team": "Homoud city",
@@ -37,6 +42,7 @@
    "total": 178
   },
   {
+   "entry": 24756,
    "rank": 5,
    "lastRank": 9,
    "team": "فارس نجد",
@@ -45,6 +51,7 @@
    "total": 167
   },
   {
+   "entry": 19143,
    "rank": 6,
    "lastRank": 3,
    "team": "العالمي 777",
@@ -53,6 +60,7 @@
    "total": 162
   },
   {
+   "entry": 40539,
    "rank": 7,
    "lastRank": 7,
    "team": "Thwah",
@@ -61,6 +69,7 @@
    "total": 162
   },
   {
+   "entry": 21311,
    "rank": 8,
    "lastRank": 11,
    "team": "ابو نوره",
@@ -69,6 +78,7 @@
    "total": 156
   },
   {
+   "entry": 22969,
    "rank": 9,
    "lastRank": 5,
    "team": "Ten Persons",
@@ -77,6 +87,7 @@
    "total": 138
   },
   {
+   "entry": 21367,
    "rank": 10,
    "lastRank": 17,
    "team": "Heroes",
@@ -85,6 +96,7 @@
    "total": 129
   },
   {
+   "entry": 13303,
    "rank": 11,
    "lastRank": 6,
    "team": "وائل العسيري",
@@ -93,6 +105,7 @@
    "total": 128
   },
   {
+   "entry": 12525,
    "rank": 12,
    "lastRank": 13,
    "team": "Anas ball",
@@ -101,6 +114,7 @@
    "total": 127
   },
   {
+   "entry": 28276,
    "rank": 13,
    "lastRank": 19,
    "team": "Rayan FC",
@@ -109,6 +123,7 @@
    "total": 123
   },
   {
+   "entry": 12580,
    "rank": 14,
    "lastRank": 12,
    "team": "الساطي",
@@ -117,6 +132,7 @@
    "total": 119
   },
   {
+   "entry": 15463,
    "rank": 15,
    "lastRank": 10,
    "team": "ابو سهم",
@@ -125,6 +141,7 @@
    "total": 115
   },
   {
+   "entry": 52745,
    "rank": 16,
    "lastRank": 14,
    "team": "Avengers",
@@ -133,6 +150,7 @@
    "total": 109
   },
   {
+   "entry": 15386,
    "rank": 17,
    "lastRank": 8,
    "team": "☝️السعاطير☠️",
@@ -141,6 +159,7 @@
    "total": 106
   },
   {
+   "entry": 16508,
    "rank": 18,
    "lastRank": 16,
    "team": "القوة العاشرة",
@@ -149,6 +168,7 @@
    "total": 100
   },
   {
+   "entry": 15447,
    "rank": 19,
    "lastRank": 18,
    "team": "Sharahili",
@@ -157,6 +177,7 @@
    "total": 100
   },
   {
+   "entry": 45075,
    "rank": 20,
    "lastRank": 20,
    "team": "العائدون من الموت",
@@ -165,6 +186,7 @@
    "total": 99
   },
   {
+   "entry": 85456,
    "rank": 21,
    "lastRank": 0,
    "team": "المونديالي ✨",
@@ -201,7 +223,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "17.7%",
+   "own": "17.8%",
    "goals": 2,
    "assists": 1
   },
@@ -241,7 +263,7 @@
    "pos": "مهاجم",
    "price": "8.0",
    "pts": 17,
-   "own": "23.6%",
+   "own": "23.7%",
    "goals": 2,
    "assists": 0
   },
@@ -261,7 +283,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 22,
-   "own": "21.4%",
+   "own": "21.5%",
    "goals": 1,
    "assists": 1
   },
@@ -443,7 +465,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 14,
-   "own": "24.3%",
+   "own": "24.2%",
    "goals": 0,
    "assists": 2
   },
@@ -473,7 +495,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "17.7%",
+   "own": "17.8%",
    "goals": 2,
    "assists": 1
   },
@@ -503,7 +525,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 22,
-   "own": "21.4%",
+   "own": "21.5%",
    "goals": 1,
    "assists": 1
   },
@@ -513,7 +535,7 @@
    "pos": "مدافع",
    "price": "4.1",
    "pts": 19,
-   "own": "11.3%",
+   "own": "11.4%",
    "goals": 0,
    "assists": 1
   },
@@ -635,7 +657,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "17.7%",
+   "own": "17.8%",
    "goals": 2,
    "assists": 1
   },
@@ -695,7 +717,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 22,
-   "own": "21.4%",
+   "own": "21.5%",
    "goals": 1,
    "assists": 1
   },
@@ -735,7 +757,7 @@
    "pos": "مدافع",
    "price": "4.1",
    "pts": 19,
-   "own": "11.3%",
+   "own": "11.4%",
    "goals": 0,
    "assists": 1
   },
