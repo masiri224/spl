@@ -84,6 +84,28 @@ tbody tr:hover{background:rgba(250,251,252,.9)}
 .nd{font-size:12px;color:var(--mut);white-space:nowrap;padding-top:2px}
 .nt{font-weight:600;font-size:14.5px}
 .nb{font-size:13px;color:var(--mut);margin-top:3px;line-height:1.6}
+.gcard{background:var(--card);backdrop-filter:blur(2px);border:1px solid var(--line);
+  border-radius:var(--r);box-shadow:var(--sh);overflow:hidden;margin-bottom:18px}
+.gtop{padding:16px 18px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;
+  border-bottom:1px solid var(--line)}
+.gtop .gpos{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;
+  font-weight:800;font-size:14px;flex:none}
+.gtop h3{margin:0;font-size:17px;font-weight:800;flex:1;min-width:120px}
+.gtop .gsum{display:flex;gap:16px;font-size:12.5px;color:var(--mut);text-align:center}
+.gtop .gsum b{display:block;font-size:19px;color:var(--ink);font-weight:800;
+  font-variant-numeric:tabular-nums;line-height:1.2}
+.mrow{display:flex;align-items:center;gap:10px;padding:11px 18px;border-bottom:1px solid #f1f2f5;font-size:14.5px}
+.mrow:last-child{border-bottom:0}
+.mrow .mn{flex:1;min-width:0}
+.mrow .mt{font-weight:700}
+.mrow .mm{font-size:12.5px;color:var(--mut)}
+.mrow .mp{font-weight:800;font-variant-numeric:tabular-nums;min-width:46px;text-align:left}
+.mrow.best{background:#f3faf7}
+.badge{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap}
+.b-cap{background:#eef1fb;color:#3f4f8f}
+.b-best{background:var(--brand-soft);color:var(--brand)}
+.warn{background:#fdf3e3;border:1px solid #f0dcb4;color:#7a5410;border-radius:var(--r);
+  padding:14px 16px;margin-bottom:18px;font-size:14px}
 .hide{display:none}
 footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
 @media(max-width:640px){ .mob{display:none} .stat .v{font-size:20px} }
@@ -108,6 +130,7 @@ footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
     <button data-t="scorers">الهدافون والصناع</button>
     <button data-t="points">أعلى النقاط</button>
     <button data-t="injuries">الإصابات والإيقافات</button>
+    <button data-t="groups">المجموعات</button>
     <button data-t="news">الأخبار</button>
   </nav>
 
@@ -155,6 +178,17 @@ footer{text-align:center;color:var(--mut);font-size:12.5px;padding:26px}
         <th>اللاعب</th><th class="mob">النادي</th><th>الحالة</th><th class="mob">التفاصيل</th><th class="mob">العودة المتوقعة</th>
       </tr></thead><tbody id="inBody"></tbody></table>
     </div>
+  </section>
+
+  <section id="groups" class="hide">
+    <div id="grpWarn"></div>
+    <div class="panel">
+      <div class="ph"><h2>ترتيب المجموعات</h2><span class="tag">مجموع نقاط الأعضاء منذ الجولة الأولى</span></div>
+      <table><thead><tr>
+        <th>#</th><th>المجموعة</th><th class="mob">الكابتن</th><th class="mob">نقاط الجولة</th><th>إجمالي النقاط</th>
+      </tr></thead><tbody id="grpBody"></tbody></table>
+    </div>
+    <div id="grpCards"></div>
   </section>
 
   <section id="news" class="hide">
@@ -285,6 +319,7 @@ if (DATA.sourceUrl){
     `<br><a href="${DATA.sourceUrl}" target="_blank" rel="noopener" style="color:var(--brand)">فتح صفحة الدوري الرسمية</a>`);
 }
 
+  renderGroups();
 }
 
 fetch('data.json?t=' + Date.now())
@@ -418,7 +453,77 @@ $('#saveImg').onclick = function(){
   else { logoImg.onload = done; logoImg.onerror = done; }
 };
 
-const ids = ['standings','scorers','points','injuries','news'];
+
+/* ══════════ المجموعات — عدّل الأسماء هنا عند أي تغيير ══════════ */
+const GROUPS = [
+  { name:'كاسر عين وائل', captain:'hasan asiri',
+    members:['hasan asiri','محمد علي','MOHAMMED ASLRL','jaber assiri','mohannad Asiri'] },
+  { name:'فريق الاساطير', captain:'Mohammed Alsanbaqi',
+    members:['Mohammed Alsanbaqi','rayan Sap','وائل العسيري','Abu Abra','Turki Mohammed'] },
+  { name:'نخبتين', captain:'ثامر محمد',
+    members:['ثامر محمد','Abu Riyad AS','عبدالرحمن الثوعي','علي زايد','Yahya Asiri'] }
+];
+
+const norm = s => String(s ?? '').replace(/\s+/g,' ').trim().toLowerCase();
+
+function renderGroups(){
+  const bar = (v,max) => `<div class="bar"><i style="width:${Math.max(4,Math.round(v/max*100))}%"></i></div>`;
+  const byMgr = new Map(DATA.standings.map(t => [norm(t.manager), t]));
+  const missing = [];
+
+  const rows = GROUPS.map(g => {
+    const members = g.members.map(name => {
+      const t = byMgr.get(norm(name));
+      if (!t) { missing.push(`${name} (${g.name})`); return null; }
+      return { ...t, isCap: norm(name) === norm(g.captain) };
+    }).filter(Boolean).sort((a,b) => b.total - a.total);
+
+    return {
+      name: g.name, captain: g.captain, members,
+      total: members.reduce((s,m) => s + m.total, 0),
+      gw:    members.reduce((s,m) => s + m.gw, 0)
+    };
+  }).sort((a,b) => b.total - a.total || b.gw - a.gw);
+
+  rows.forEach((g,i) => g.pos = i + 1);
+
+  $('#grpWarn').innerHTML = missing.length
+    ? `<div class="warn"><b>تنبيه:</b> لم أجد هؤلاء في ترتيب الدوري — غالباً غيّروا أسماءهم في موقع الفانتزي، ونقاطهم غير محسوبة:<br>${missing.join('، ')}.<br>صحّح الأسماء في قائمة <code>GROUPS</code> داخل ملف <code>index.html</code>.</div>`
+    : '';
+
+  const POS = ['#fdf6e3|#a1740a','#f1f3f6|#5b6270','#fbf0e8|#a35b26'];
+  const posStyle = i => { const [bg,fg] = (POS[i] || '#f1f3f6|#6b7280').split('|');
+    return `background:${bg};color:${fg}`; };
+
+  $('#grpBody').innerHTML = rows.map((g,i) => `<tr>
+    <td><div class="rank ${i<3?'g'+(i+1):''}">${g.pos}</div></td>
+    <td><div class="team">${g.name}</div><div class="mgr">${g.members.length} أعضاء</div></td>
+    <td class="mob mgr">${g.captain}</td>
+    <td class="mob num">${g.gw}</td>
+    <td class="num">${g.total}${bar(g.total, rows[0].total)}</td></tr>`).join('');
+
+  $('#grpCards').innerHTML = rows.map((g,i) => {
+    const best = g.members[0];
+    return `<div class="gcard">
+      <div class="gtop">
+        <div class="gpos" style="${posStyle(i)}">${g.pos}</div>
+        <h3>${g.name}</h3>
+        <div class="gsum">
+          <div><b>${g.total}</b>الإجمالي</div>
+          <div><b>${g.gw}</b>هذه الجولة</div>
+        </div>
+      </div>
+      ${g.members.map(m => `<div class="mrow${m === best ? ' best' : ''}">
+        <div class="mn"><div class="mt">${m.team}</div><div class="mm">${m.manager}</div></div>
+        ${m.isCap ? '<span class="badge b-cap">كابتن</span>' : ''}
+        ${m === best ? '<span class="badge b-best">الأعلى</span>' : ''}
+        <div class="mp">${m.total}</div>
+      </div>`).join('')}
+    </div>`;
+  }).join('');
+}
+
+const ids = ['standings','scorers','points','injuries','groups','news'];
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('nav button').forEach(x=>x.classList.remove('on'));
   b.classList.add('on');
