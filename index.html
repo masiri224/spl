@@ -5,10 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0f7b5f">
 <title>دوري مبعتش وإخوانه</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Tajawal:wght@500;700;800;900&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap">
 <style>
+@font-face{font-family:"Thmanyah Sans";src:url("thmanyah-regular.woff2") format("woff2");font-weight:400 500;font-style:normal;font-display:swap}
+@font-face{font-family:"Thmanyah Sans";src:url("thmanyah-bold.woff2") format("woff2");font-weight:600 700;font-style:normal;font-display:swap}
+@font-face{font-family:"Thmanyah Sans";src:url("thmanyah-black.woff2") format("woff2");font-weight:800 900;font-style:normal;font-display:swap}
+
 /* ══════════════════ نظام التصميم ══════════════════ */
 :root{
   --bg:#f4f6f5;      --bg-2:#eaeeec;
@@ -26,8 +27,8 @@
   --shadow:0 1px 2px rgba(14,26,22,.05), 0 10px 30px -12px rgba(14,26,22,.14);
   --shadow-lg:0 2px 6px rgba(14,26,22,.06), 0 22px 48px -20px rgba(14,26,22,.28);
   --r:16px; --r-sm:11px;
-  --disp:"Tajawal", system-ui, "Segoe UI", Tahoma, sans-serif;
-  --body:"IBM Plex Sans Arabic", system-ui, "Segoe UI", Tahoma, sans-serif;
+  --disp:"Thmanyah Sans", system-ui, "Segoe UI", Tahoma, sans-serif;
+  --body:"Thmanyah Sans", system-ui, "Segoe UI", Tahoma, sans-serif;
   --bgimg:.16;
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
@@ -712,16 +713,16 @@ function renderRace(COLORS){
     const L = series.map(s => ({ s, v:s.pts[last], y:Y(s.pts[last]) })).sort((a,b) => a.y - b.y);
     for (let i = 1; i < L.length; i++) if (L[i].y - L[i-1].y < 16) L[i].y = L[i-1].y + 16;
     return L.map(l => `<text x="${X(last)+12}" y="${l.y+4}" font-size="12.5" font-weight="700"
-      fill="${l.s.color}" font-family="system-ui">${l.v}</text>`).join('');
+      fill="${l.s.color}" font-family="Thmanyah Sans, system-ui">${l.v}</text>`).join('');
   })();
 
   box.innerHTML = `<div class="race">
     <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="تطور نقاط المجموعات عبر الجولات">
       ${ticks.map(v => `<line x1="${ML}" x2="${W-MR}" y1="${Y(v)}" y2="${Y(v)}" stroke="${grid}" stroke-width="1"/>
         <text x="${ML-9}" y="${Y(v)+4}" text-anchor="end" font-size="11" fill="${muted}"
-          font-family="system-ui">${Math.round(v)}</text>`).join('')}
+          font-family="Thmanyah Sans, system-ui">${Math.round(v)}</text>`).join('')}
       ${gws.map((g,i) => `<text x="${X(i)}" y="${H-11}" text-anchor="middle" font-size="11"
-        fill="${muted}" font-family="system-ui">ج${g}</text>`).join('')}
+        fill="${muted}" font-family="Thmanyah Sans, system-ui">ج${g}</text>`).join('')}
       ${series.map(s => `<path d="${s.pts.map((v,i) => `${i?'L':'M'}${X(i)},${Y(v)}`).join('')}"
         fill="none" stroke="${s.color}" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>`).join('')}
       ${series.map(s => s.pts.map((v,i) =>
@@ -758,7 +759,7 @@ function renderRace(COLORS){
 
 /* ═════════════════ صور المشاركة ═════════════════ */
 const logoImg = new Image(); logoImg.src = 'bg.png';
-const F = (s,w) => `${w} ${s}px "Tajawal", "Segoe UI", system-ui, Tahoma, sans-serif`;
+const F = (s,w) => `${w} ${s}px "Thmanyah Sans", "Segoe UI", system-ui, Tahoma, sans-serif`;
 
 function paintHead(x, W, R, title, sub1, sub2){
   const g = x.createLinearGradient(0,0,W,150);
