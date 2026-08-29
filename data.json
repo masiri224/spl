@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 4,
- "updated": "29‏/08‏/2026، 12:07 م",
+ "updated": "29‏/08‏/2026، 3:08 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-03T15:50:00Z",
  "standings": [
@@ -233,7 +233,7 @@
    "pos": "مهاجم",
    "price": "7.1",
    "pts": 24,
-   "own": "35.6%",
+   "own": "35.7%",
    "goals": 3,
    "assists": 0
   },
@@ -243,7 +243,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 33,
-   "own": "8.6%",
+   "own": "8.7%",
    "goals": 2,
    "assists": 3
   },
@@ -373,7 +373,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "22.8%",
+   "own": "22.9%",
    "goals": 1,
    "assists": 4
   },
@@ -383,7 +383,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 26,
-   "own": "12.7%",
+   "own": "12.8%",
    "goals": 1,
    "assists": 3
   },
@@ -403,7 +403,7 @@
    "pos": "مدافع",
    "price": "4.0",
    "pts": 24,
-   "own": "4.4%",
+   "own": "4.5%",
    "goals": 1,
    "assists": 0
   },
@@ -423,7 +423,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 23,
-   "own": "1.6%",
+   "own": "1.7%",
    "goals": 1,
    "assists": 1
   },
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "22.8%",
+   "own": "22.9%",
    "goals": 1,
    "assists": 4
   },
@@ -465,7 +465,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 33,
-   "own": "8.6%",
+   "own": "8.7%",
    "goals": 2,
    "assists": 3
   },
@@ -475,7 +475,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 26,
-   "own": "12.7%",
+   "own": "12.8%",
    "goals": 1,
    "assists": 3
   },
@@ -585,7 +585,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 24,
-   "own": "6.5%",
+   "own": "6.6%",
    "goals": 0,
    "assists": 1
   },
@@ -615,7 +615,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 23,
-   "own": "1.6%",
+   "own": "1.7%",
    "goals": 1,
    "assists": 1
   },
@@ -657,7 +657,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 33,
-   "own": "8.6%",
+   "own": "8.7%",
    "goals": 2,
    "assists": 3
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "22.8%",
+   "own": "22.9%",
    "goals": 1,
    "assists": 4
   },
@@ -757,7 +757,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 26,
-   "own": "12.7%",
+   "own": "12.8%",
    "goals": 1,
    "assists": 3
   },
@@ -817,7 +817,7 @@
    "pos": "مهاجم",
    "price": "7.1",
    "pts": 24,
-   "own": "35.6%",
+   "own": "35.7%",
    "goals": 3,
    "assists": 0
   },
@@ -837,7 +837,7 @@
    "pos": "مدافع",
    "price": "4.0",
    "pts": 24,
-   "own": "4.4%",
+   "own": "4.5%",
    "goals": 1,
    "assists": 0
   },
@@ -847,12 +847,19 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 24,
-   "own": "6.5%",
+   "own": "6.6%",
    "goals": 0,
    "assists": 1
   }
  ],
  "injuries": [
+  {
+   "name": "M. Al Dawsari",
+   "club": "أبها",
+   "status": "out",
+   "detail": "إصابة في الركبة - العودة المتوقعة: منتصف أكتوبر",
+   "back": "0% جاهزية"
+  },
   {
    "name": "Sharahili",
    "club": "الاتحاد",
@@ -945,7 +952,14 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "M. Al Dawsari",
+   "name": "Rosier",
+   "club": "أبها",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "K. Al Shamrani",
    "club": "أبها",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1036,6 +1050,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "S . Alamri",
+   "club": "الخليج",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Al Shanqiti",
    "club": "الخليج",
    "status": "doubt",
@@ -1100,6 +1121,13 @@
   },
   {
    "name": "Hayder",
+   "club": "النصر",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Samu",
    "club": "النصر",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1423,8 +1451,8 @@
   },
   {
    "date": "إصابات",
-   "title": "11 لاعباً خارج الحسابات بالإصابة",
-   "body": "Sharahili (الاتحاد)، H. Al Ghamdi (الاتحاد)، R. Fernandes (الاتحاد)، Nkota (الاتفاق)، Harboush (الشباب)، W. Al Ahmed (القـادسيـة)."
+   "title": "12 لاعباً خارج الحسابات بالإصابة",
+   "body": "M. Al Dawsari (أبها)، Sharahili (الاتحاد)، H. Al Ghamdi (الاتحاد)، R. Fernandes (الاتحاد)، Nkota (الاتفاق)، Harboush (الشباب)."
   },
   {
    "date": "إيقافات",
