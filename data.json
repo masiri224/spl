@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 4,
- "updated": "30‏/08‏/2026، 9:08 ص",
+ "updated": "30‏/08‏/2026، 12:07 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-03T15:50:00Z",
  "standings": [
@@ -253,7 +253,7 @@
    "pos": "خط وسط",
    "price": "6.3",
    "pts": 33,
-   "own": "26.1%",
+   "own": "26.2%",
    "goals": 2,
    "assists": 1
   },
@@ -273,7 +273,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 31,
-   "own": "13.8%",
+   "own": "13.9%",
    "goals": 2,
    "assists": 0
   },
@@ -363,7 +363,7 @@
    "pos": "مهاجم",
    "price": "7.5",
    "pts": 19,
-   "own": "3.4%",
+   "own": "3.5%",
    "goals": 2,
    "assists": 0
   },
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "23.5%",
+   "own": "23.6%",
    "goals": 1,
    "assists": 4
   },
@@ -423,7 +423,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "13.0%",
+   "own": "13.1%",
    "goals": 1,
    "assists": 3
   },
@@ -443,7 +443,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 28,
-   "own": "1.9%",
+   "own": "2.0%",
    "goals": 1,
    "assists": 1
   }
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "23.5%",
+   "own": "23.6%",
    "goals": 1,
    "assists": 4
   },
@@ -475,7 +475,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "13.0%",
+   "own": "13.1%",
    "goals": 1,
    "assists": 3
   },
@@ -575,7 +575,7 @@
    "pos": "خط وسط",
    "price": "6.3",
    "pts": 33,
-   "own": "26.1%",
+   "own": "26.2%",
    "goals": 2,
    "assists": 1
   },
@@ -595,7 +595,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 28,
-   "own": "1.9%",
+   "own": "2.0%",
    "goals": 1,
    "assists": 1
   },
@@ -625,7 +625,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 24,
-   "own": "6.6%",
+   "own": "6.7%",
    "goals": 0,
    "assists": 1
   },
@@ -635,7 +635,7 @@
    "pos": "مدافع",
    "price": "4.1",
    "pts": 23,
-   "own": "13.4%",
+   "own": "13.3%",
    "goals": 0,
    "assists": 1
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "6.3",
    "pts": 33,
-   "own": "26.1%",
+   "own": "26.2%",
    "goals": 2,
    "assists": 1
   },
@@ -737,7 +737,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "23.5%",
+   "own": "23.6%",
    "goals": 1,
    "assists": 4
   },
@@ -747,7 +747,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 31,
-   "own": "13.8%",
+   "own": "13.9%",
    "goals": 2,
    "assists": 0
   },
@@ -777,7 +777,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 29,
-   "own": "13.0%",
+   "own": "13.1%",
    "goals": 1,
    "assists": 3
   },
@@ -807,7 +807,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 28,
-   "own": "1.9%",
+   "own": "2.0%",
    "goals": 1,
    "assists": 1
   },
@@ -827,7 +827,7 @@
    "pos": "خط وسط",
    "price": "5.0",
    "pts": 26,
-   "own": "2.1%",
+   "own": "2.2%",
    "goals": 1,
    "assists": 0
   },
@@ -987,7 +987,21 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Al Olayan",
+   "club": "الاتفاق",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Rodak",
+   "club": "الاتفاق",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Al Otaibi",
    "club": "الاتفاق",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1085,7 +1099,21 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "K. Asiri",
+   "club": "الدرعية",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Djimsiti",
+   "club": "الدرعية",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Boulbina",
    "club": "الدرعية",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1094,6 +1122,20 @@
   {
    "name": "Podence",
    "club": "الشباب",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "F. Al Zubaidi",
+   "club": "الفتح",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Batna",
+   "club": "الفتح",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
