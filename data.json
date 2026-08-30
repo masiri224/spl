@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 4,
- "updated": "30‏/08‏/2026، 3:08 م",
+ "updated": "30‏/08‏/2026، 6:08 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-03T15:50:00Z",
  "standings": [
@@ -65,8 +65,8 @@
    "lastRank": 7,
    "team": "فارس نجد",
    "manager": "أبو محمد .",
-   "gw": 37,
-   "total": 244
+   "gw": 35,
+   "total": 242
   },
   {
    "entry": 56753,
@@ -128,8 +128,8 @@
    "lastRank": 13,
    "team": "Sharahili",
    "manager": "Sharahili Sharahili",
-   "gw": 33,
-   "total": 198
+   "gw": 32,
+   "total": 197
   },
   {
    "entry": 28276,
@@ -137,8 +137,8 @@
    "lastRank": 19,
    "team": "Rayan FC",
    "manager": "rayan Sap",
-   "gw": 45,
-   "total": 191
+   "gw": 44,
+   "total": 190
   },
   {
    "entry": 52745,
@@ -155,8 +155,8 @@
    "lastRank": 14,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 21,
-   "total": 181
+   "gw": 20,
+   "total": 180
   },
   {
    "entry": 45075,
@@ -212,7 +212,7 @@
    "club": "الاتحاد",
    "pos": "خط وسط",
    "price": "8.1",
-   "pts": 34,
+   "pts": 33,
    "own": "14.6%",
    "goals": 3,
    "assists": 1
@@ -273,7 +273,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 31,
-   "own": "13.9%",
+   "own": "14.0%",
    "goals": 2,
    "assists": 0
   },
@@ -313,7 +313,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 25,
-   "own": "0.6%",
+   "own": "0.7%",
    "goals": 2,
    "assists": 0
   },
@@ -353,7 +353,7 @@
    "pos": "مهاجم",
    "price": "8.1",
    "pts": 21,
-   "own": "24.7%",
+   "own": "24.6%",
    "goals": 2,
    "assists": 0
   },
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "23.6%",
+   "own": "23.7%",
    "goals": 1,
    "assists": 4
   },
@@ -413,7 +413,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 29,
-   "own": "29.2%",
+   "own": "29.3%",
    "goals": 1,
    "assists": 2
   },
@@ -443,7 +443,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 28,
-   "own": "2.0%",
+   "own": "2.1%",
    "goals": 1,
    "assists": 1
   }
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "23.6%",
+   "own": "23.7%",
    "goals": 1,
    "assists": 4
   },
@@ -495,7 +495,7 @@
    "pos": "خط وسط",
    "price": "6.0",
    "pts": 18,
-   "own": "1.2%",
+   "own": "1.3%",
    "goals": 0,
    "assists": 3
   },
@@ -525,7 +525,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 29,
-   "own": "29.2%",
+   "own": "29.3%",
    "goals": 1,
    "assists": 2
   },
@@ -564,7 +564,7 @@
    "club": "الاتحاد",
    "pos": "خط وسط",
    "price": "8.1",
-   "pts": 34,
+   "pts": 33,
    "own": "14.6%",
    "goals": 3,
    "assists": 1
@@ -595,7 +595,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 28,
-   "own": "2.0%",
+   "own": "2.1%",
    "goals": 1,
    "assists": 1
   },
@@ -656,20 +656,10 @@
    "club": "الاتحاد",
    "pos": "حارس المرمي",
    "price": "5.1",
-   "pts": 36,
+   "pts": 35,
    "own": "14.9%",
    "goals": 0,
    "assists": 0
-  },
-  {
-   "name": "Bergwijn",
-   "club": "الاتحاد",
-   "pos": "خط وسط",
-   "price": "8.1",
-   "pts": 34,
-   "own": "14.6%",
-   "goals": 3,
-   "assists": 1
   },
   {
    "name": "Vasilj",
@@ -680,6 +670,16 @@
    "own": "1.5%",
    "goals": 0,
    "assists": 0
+  },
+  {
+   "name": "Bergwijn",
+   "club": "الاتحاد",
+   "pos": "خط وسط",
+   "price": "8.1",
+   "pts": 33,
+   "own": "14.6%",
+   "goals": 3,
+   "assists": 1
   },
   {
    "name": "Mane",
@@ -737,7 +737,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 31,
-   "own": "23.6%",
+   "own": "23.7%",
    "goals": 1,
    "assists": 4
   },
@@ -747,7 +747,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 31,
-   "own": "13.9%",
+   "own": "14.0%",
    "goals": 2,
    "assists": 0
   },
@@ -767,7 +767,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 29,
-   "own": "29.2%",
+   "own": "29.3%",
    "goals": 1,
    "assists": 2
   },
@@ -807,7 +807,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 28,
-   "own": "2.0%",
+   "own": "2.1%",
    "goals": 1,
    "assists": 1
   },
@@ -1499,7 +1499,7 @@
   },
   {
    "date": "الجولة 4",
-   "title": "متوسط النقاط 45 وأعلى نتيجة 121",
+   "title": "متوسط النقاط 44 وأعلى نتيجة 118",
    "body": "تصدّر دورينا «العالمي 777» بـ 309 نقطة."
   },
   {
