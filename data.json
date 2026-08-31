@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 4,
- "updated": "31‏/08‏/2026، 3:10 ص",
+ "updated": "31‏/08‏/2026، 6:08 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-03T15:50:00Z",
  "standings": [
@@ -47,8 +47,8 @@
    "lastRank": 9,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 90,
-   "total": 283
+   "gw": 91,
+   "total": 284
   },
   {
    "entry": 24756,
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.0",
    "pts": 32,
-   "own": "43.7%",
+   "own": "43.8%",
    "goals": 4,
    "assists": 0
   },
@@ -273,7 +273,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 31,
-   "own": "14.4%",
+   "own": "14.5%",
    "goals": 2,
    "assists": 0
   },
@@ -293,7 +293,7 @@
    "pos": "خط وسط",
    "price": "10.6",
    "pts": 30,
-   "own": "53.0%",
+   "own": "53.1%",
    "goals": 2,
    "assists": 2
   },
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "6.0",
    "pts": 18,
-   "own": "2.4%",
+   "own": "2.5%",
    "goals": 2,
    "assists": 0
   },
@@ -443,7 +443,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 29,
-   "own": "29.4%",
+   "own": "29.5%",
    "goals": 1,
    "assists": 2
   }
@@ -525,7 +525,7 @@
    "pos": "خط وسط",
    "price": "10.6",
    "pts": 30,
-   "own": "53.0%",
+   "own": "53.1%",
    "goals": 2,
    "assists": 2
   },
@@ -535,7 +535,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 29,
-   "own": "29.4%",
+   "own": "29.5%",
    "goals": 1,
    "assists": 2
   },
@@ -545,7 +545,7 @@
    "pos": "خط وسط",
    "price": "12.0",
    "pts": 23,
-   "own": "46.4%",
+   "own": "46.3%",
    "goals": 1,
    "assists": 2
   },
@@ -563,9 +563,9 @@
    "name": "A. Hamddan",
    "club": "النصر",
    "pos": "مهاجم",
-   "price": "5.0",
+   "price": "4.9",
    "pts": 11,
-   "own": "5.2%",
+   "own": "5.1%",
    "goals": 0,
    "assists": 2
   },
@@ -727,7 +727,7 @@
    "pos": "مهاجم",
    "price": "12.0",
    "pts": 32,
-   "own": "43.7%",
+   "own": "43.8%",
    "goals": 4,
    "assists": 0
   },
@@ -757,7 +757,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 31,
-   "own": "14.4%",
+   "own": "14.5%",
    "goals": 2,
    "assists": 0
   },
@@ -777,7 +777,7 @@
    "pos": "خط وسط",
    "price": "10.6",
    "pts": 30,
-   "own": "53.0%",
+   "own": "53.1%",
    "goals": 2,
    "assists": 2
   },
@@ -787,7 +787,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 29,
-   "own": "29.4%",
+   "own": "29.5%",
    "goals": 1,
    "assists": 2
   },
