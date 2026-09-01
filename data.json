@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 4,
- "updated": "01‏/09‏/2026، 9:19 ص",
+ "updated": "01‏/09‏/2026، 12:15 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-03T15:50:00Z",
  "standings": [
@@ -213,7 +213,7 @@
    "pos": "خط وسط",
    "price": "8.1",
    "pts": 33,
-   "own": "15.4%",
+   "own": "15.5%",
    "goals": 3,
    "assists": 1
   },
@@ -363,7 +363,7 @@
    "pos": "مهاجم",
    "price": "8.1",
    "pts": 21,
-   "own": "24.3%",
+   "own": "24.2%",
    "goals": 2,
    "assists": 0
   },
@@ -413,7 +413,7 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 18,
-   "own": "21.2%",
+   "own": "21.3%",
    "goals": 2,
    "assists": 0
   },
@@ -575,7 +575,7 @@
    "pos": "خط وسط",
    "price": "8.1",
    "pts": 33,
-   "own": "15.4%",
+   "own": "15.5%",
    "goals": 3,
    "assists": 1
   },
@@ -657,7 +657,7 @@
    "pos": "حارس المرمي",
    "price": "5.1",
    "pts": 35,
-   "own": "15.4%",
+   "own": "15.5%",
    "goals": 0,
    "assists": 0
   },
@@ -677,7 +677,7 @@
    "pos": "خط وسط",
    "price": "8.1",
    "pts": 33,
-   "own": "15.4%",
+   "own": "15.5%",
    "goals": 3,
    "assists": 1
   },
@@ -717,7 +717,7 @@
    "pos": "حارس المرمي",
    "price": "5.1",
    "pts": 33,
-   "own": "20.3%",
+   "own": "20.2%",
    "goals": 0,
    "assists": 0
   },
@@ -854,6 +854,13 @@
  ],
  "injuries": [
   {
+   "name": "Rosier",
+   "club": "أبها",
+   "status": "out",
+   "detail": "إصابة عضلية – العودة المتوقعة: أوائل نوفمبر",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "M. Al Dawsari",
    "club": "أبها",
    "status": "out",
@@ -900,6 +907,13 @@
    "club": "القـادسيـة",
    "status": "out",
    "detail": "إصابة في الرباط الصليبي - العودة المتوقعة : أواخر ديسامبر",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Hazazi",
+   "club": "القـادسيـة",
+   "status": "out",
+   "detail": "إصابة عضلية – العودة المتوقعة: غير معروف",
    "back": "0% جاهزية"
   },
   {
@@ -950,13 +964,6 @@
    "status": "ban",
    "detail": "موقوف حتى 5 سبتمبر",
    "back": "0% جاهزية"
-  },
-  {
-   "name": "Rosier",
-   "club": "أبها",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
   },
   {
    "name": "K. Al Shamrani",
@@ -1197,6 +1204,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "H. Al Tambakti",
+   "club": "الهلال",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Al Burayk",
    "club": "نيوم",
    "status": "doubt",
@@ -1414,6 +1428,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Al Bulayhi",
+   "club": "الهلال",
+   "status": "gone",
+   "detail": "لاعب حرّ",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Cancelo",
    "club": "الهلال",
    "status": "gone",
@@ -1486,8 +1507,8 @@
   },
   {
    "date": "إصابات",
-   "title": "12 لاعباً خارج الحسابات بالإصابة",
-   "body": "M. Al Dawsari (أبها)، Sharahili (الاتحاد)، H. Al Ghamdi (الاتحاد)، R. Fernandes (الاتحاد)، Nkota (الاتفاق)، Harboush (الشباب)."
+   "title": "14 لاعباً خارج الحسابات بالإصابة",
+   "body": "Rosier (أبها)، M. Al Dawsari (أبها)، Sharahili (الاتحاد)، H. Al Ghamdi (الاتحاد)، R. Fernandes (الاتحاد)، Nkota (الاتفاق)."
   },
   {
    "date": "إيقافات",
