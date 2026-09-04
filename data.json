@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 5,
- "updated": "04‏/09‏/2026، 3:21 ص",
+ "updated": "04‏/09‏/2026، 6:14 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-07T15:25:00Z",
  "standings": [
@@ -221,9 +221,9 @@
    "name": "Domingues",
    "club": "الخلود",
    "pos": "مهاجم",
-   "price": "6.0",
+   "price": "6.1",
    "pts": 36,
-   "own": "10.8%",
+   "own": "10.9%",
    "goals": 3,
    "assists": 1
   },
@@ -233,7 +233,7 @@
    "pos": "مهاجم",
    "price": "7.2",
    "pts": 35,
-   "own": "24.9%",
+   "own": "25.0%",
    "goals": 3,
    "assists": 1
   },
@@ -243,7 +243,7 @@
    "pos": "خط وسط",
    "price": "8.1",
    "pts": 33,
-   "own": "16.7%",
+   "own": "16.8%",
    "goals": 3,
    "assists": 1
   },
@@ -251,9 +251,9 @@
    "name": "Iker",
    "club": "الخلود",
    "pos": "خط وسط",
-   "price": "5.0",
+   "price": "5.1",
    "pts": 30,
-   "own": "3.5%",
+   "own": "3.6%",
    "goals": 3,
    "assists": 1
   },
@@ -291,9 +291,9 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.5",
+   "price": "6.6",
    "pts": 44,
-   "own": "31.4%",
+   "own": "31.5%",
    "goals": 2,
    "assists": 1
   },
@@ -313,7 +313,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 40,
-   "own": "35.1%",
+   "own": "35.2%",
    "goals": 2,
    "assists": 4
   },
@@ -323,7 +323,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 36,
-   "own": "5.6%",
+   "own": "5.7%",
    "goals": 2,
    "assists": 1
   },
@@ -363,7 +363,7 @@
    "pos": "خط وسط",
    "price": "12.0",
    "pts": 32,
-   "own": "41.9%",
+   "own": "41.8%",
    "goals": 2,
    "assists": 2
   },
@@ -431,7 +431,7 @@
    "name": "Hamdallah",
    "club": "التعاون",
    "pos": "مهاجم",
-   "price": "8.1",
+   "price": "8.0",
    "pts": 21,
    "own": "21.5%",
    "goals": 2,
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 40,
-   "own": "35.1%",
+   "own": "35.2%",
    "goals": 2,
    "assists": 4
   },
@@ -535,7 +535,7 @@
    "pos": "خط وسط",
    "price": "12.0",
    "pts": 32,
-   "own": "41.9%",
+   "own": "41.8%",
    "goals": 2,
    "assists": 2
   },
@@ -613,9 +613,9 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.5",
+   "price": "6.6",
    "pts": 44,
-   "own": "31.4%",
+   "own": "31.5%",
    "goals": 2,
    "assists": 1
   },
@@ -643,9 +643,9 @@
    "name": "Domingues",
    "club": "الخلود",
    "pos": "مهاجم",
-   "price": "6.0",
+   "price": "6.1",
    "pts": 36,
-   "own": "10.8%",
+   "own": "10.9%",
    "goals": 3,
    "assists": 1
   }
@@ -655,9 +655,9 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.5",
+   "price": "6.6",
    "pts": 44,
-   "own": "31.4%",
+   "own": "31.5%",
    "goals": 2,
    "assists": 1
   },
@@ -677,7 +677,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 40,
-   "own": "35.1%",
+   "own": "35.2%",
    "goals": 2,
    "assists": 4
   },
@@ -705,9 +705,9 @@
    "name": "Domingues",
    "club": "الخلود",
    "pos": "مهاجم",
-   "price": "6.0",
+   "price": "6.1",
    "pts": 36,
-   "own": "10.8%",
+   "own": "10.9%",
    "goals": 3,
    "assists": 1
   },
@@ -717,7 +717,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 36,
-   "own": "5.6%",
+   "own": "5.7%",
    "goals": 2,
    "assists": 1
   },
@@ -747,7 +747,7 @@
    "pos": "مهاجم",
    "price": "7.2",
    "pts": 35,
-   "own": "24.9%",
+   "own": "25.0%",
    "goals": 3,
    "assists": 1
   },
@@ -777,7 +777,7 @@
    "pos": "خط وسط",
    "price": "8.1",
    "pts": 33,
-   "own": "16.7%",
+   "own": "16.8%",
    "goals": 3,
    "assists": 1
   },
@@ -827,7 +827,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 33,
-   "own": "5.0%",
+   "own": "5.1%",
    "goals": 0,
    "assists": 0
   },
@@ -847,7 +847,7 @@
    "pos": "خط وسط",
    "price": "12.0",
    "pts": 32,
-   "own": "41.9%",
+   "own": "41.8%",
    "goals": 2,
    "assists": 2
   }
