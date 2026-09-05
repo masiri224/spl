@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 5,
- "updated": "05‏/09‏/2026، 3:23 ص",
+ "updated": "05‏/09‏/2026، 6:14 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-07T15:25:00Z",
  "standings": [
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 82,
-   "total": 474
+   "gw": 84,
+   "total": 476
   },
   {
    "entry": 51585,
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "R3D",
    "manager": "Osama S",
-   "gw": 86,
-   "total": 401
+   "gw": 87,
+   "total": 402
   },
   {
    "entry": 56753,
@@ -29,8 +29,8 @@
    "lastRank": 4,
    "team": "Homoud city",
    "manager": "Abu Abra",
-   "gw": 93,
-   "total": 394
+   "gw": 95,
+   "total": 396
   },
   {
    "entry": 14191,
@@ -47,8 +47,8 @@
    "lastRank": 5,
    "team": "الصقر13",
    "manager": "Abu Riyad AS",
-   "gw": 64,
-   "total": 368
+   "gw": 66,
+   "total": 370
   },
   {
    "entry": 40539,
@@ -56,8 +56,8 @@
    "lastRank": 8,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 92,
-   "total": 368
+   "gw": 93,
+   "total": 369
   },
   {
    "entry": 15463,
@@ -119,8 +119,8 @@
    "lastRank": 10,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 35,
-   "total": 296
+   "gw": 36,
+   "total": 297
   },
   {
    "entry": 12525,
@@ -128,8 +128,8 @@
    "lastRank": 13,
    "team": "Anas ball",
    "manager": "Yahya Asiri",
-   "gw": 40,
-   "total": 287
+   "gw": 41,
+   "total": 288
   },
   {
    "entry": 45075,
@@ -164,8 +164,8 @@
    "lastRank": 19,
    "team": "المونديالي ✨",
    "manager": "احنا الملوك ASLRL",
-   "gw": 46,
-   "total": 252
+   "gw": 47,
+   "total": 253
   },
   {
    "entry": 15386,
@@ -213,7 +213,7 @@
    "pos": "خط وسط",
    "price": "9.5",
    "pts": 52,
-   "own": "10.6%",
+   "own": "10.7%",
    "goals": 4,
    "assists": 1
   },
@@ -243,7 +243,7 @@
    "pos": "مهاجم",
    "price": "7.2",
    "pts": 35,
-   "own": "25.2%",
+   "own": "25.1%",
    "goals": 3,
    "assists": 1
   },
@@ -301,9 +301,9 @@
    "name": "Summerville",
    "club": "الهلال",
    "pos": "خط وسط",
-   "price": "8.5",
-   "pts": 48,
-   "own": "36.0%",
+   "price": "8.6",
+   "pts": 49,
+   "own": "36.1%",
    "goals": 2,
    "assists": 5
   },
@@ -343,7 +343,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 36,
-   "own": "6.2%",
+   "own": "6.3%",
    "goals": 2,
    "assists": 1
   },
@@ -453,9 +453,9 @@
    "name": "Summerville",
    "club": "الهلال",
    "pos": "خط وسط",
-   "price": "8.5",
-   "pts": 48,
-   "own": "36.0%",
+   "price": "8.6",
+   "pts": 49,
+   "own": "36.1%",
    "goals": 2,
    "assists": 5
   },
@@ -545,7 +545,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 39,
-   "own": "18.5%",
+   "own": "18.6%",
    "goals": 0,
    "assists": 2
   },
@@ -635,7 +635,7 @@
    "pos": "خط وسط",
    "price": "9.5",
    "pts": 52,
-   "own": "10.6%",
+   "own": "10.7%",
    "goals": 4,
    "assists": 1
   },
@@ -667,9 +667,19 @@
    "pos": "خط وسط",
    "price": "9.5",
    "pts": 52,
-   "own": "10.6%",
+   "own": "10.7%",
    "goals": 4,
    "assists": 1
+  },
+  {
+   "name": "Summerville",
+   "club": "الهلال",
+   "pos": "خط وسط",
+   "price": "8.6",
+   "pts": 49,
+   "own": "36.1%",
+   "goals": 2,
+   "assists": 5
   },
   {
    "name": "Toney",
@@ -680,16 +690,6 @@
    "own": "45.3%",
    "goals": 6,
    "assists": 0
-  },
-  {
-   "name": "Summerville",
-   "club": "الهلال",
-   "pos": "خط وسط",
-   "price": "8.5",
-   "pts": 48,
-   "own": "36.0%",
-   "goals": 2,
-   "assists": 5
   },
   {
    "name": "M. Al Shamat",
@@ -717,7 +717,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 39,
-   "own": "18.5%",
+   "own": "18.6%",
    "goals": 0,
    "assists": 2
   },
@@ -727,7 +727,7 @@
    "pos": "مدافع",
    "price": "5.6",
    "pts": 39,
-   "own": "41.4%",
+   "own": "41.5%",
    "goals": 0,
    "assists": 1
   },
@@ -787,7 +787,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 36,
-   "own": "6.2%",
+   "own": "6.3%",
    "goals": 2,
    "assists": 1
   },
@@ -827,7 +827,7 @@
    "pos": "مهاجم",
    "price": "7.2",
    "pts": 35,
-   "own": "25.2%",
+   "own": "25.1%",
    "goals": 3,
    "assists": 1
   },
@@ -1514,7 +1514,7 @@
   {
    "date": "الجولة 5",
    "title": "متوسط النقاط 60 وأعلى نتيجة 162",
-   "body": "تصدّر دورينا «العالمي 777» بـ 474 نقطة."
+   "body": "تصدّر دورينا «العالمي 777» بـ 476 نقطة."
   },
   {
    "date": "الجولة 5",
