@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 6,
- "updated": "07‏/09‏/2026، 9:17 م",
+ "updated": "08‏/09‏/2026، 12:14 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-11T15:20:00Z",
  "standings": [
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 4,
-   "total": 490
+   "gw": 16,
+   "total": 502
   },
   {
    "entry": 51585,
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "R3D",
    "manager": "Osama S",
-   "gw": 4,
-   "total": 422
+   "gw": 18,
+   "total": 436
   },
   {
    "entry": 14191,
@@ -29,8 +29,8 @@
    "lastRank": 3,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 4,
-   "total": 404
+   "gw": 13,
+   "total": 413
   },
   {
    "entry": 56753,
@@ -38,8 +38,8 @@
    "lastRank": 4,
    "team": "Homoud city",
    "manager": "Abu Abra",
-   "gw": 4,
-   "total": 396
+   "gw": 10,
+   "total": 402
   },
   {
    "entry": 23288,
@@ -47,8 +47,8 @@
    "lastRank": 5,
    "team": "الصقر13",
    "manager": "Abu Riyad AS",
-   "gw": 1,
-   "total": 395
+   "gw": 3,
+   "total": 397
   },
   {
    "entry": 15463,
@@ -56,8 +56,8 @@
    "lastRank": 7,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 3,
-   "total": 377
+   "gw": 15,
+   "total": 389
   },
   {
    "entry": 40539,
@@ -65,8 +65,8 @@
    "lastRank": 6,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 3,
-   "total": 375
+   "gw": 12,
+   "total": 384
   },
   {
    "entry": 21367,
@@ -74,12 +74,30 @@
    "lastRank": 8,
    "team": "Heroes",
    "manager": "Saeed Heroes",
-   "gw": 1,
-   "total": 354
+   "gw": 4,
+   "total": 357
+  },
+  {
+   "entry": 13303,
+   "rank": 9,
+   "lastRank": 9,
+   "team": "وائل العسيري",
+   "manager": "وائل العسيري",
+   "gw": 5,
+   "total": 350
+  },
+  {
+   "entry": 24756,
+   "rank": 10,
+   "lastRank": 11,
+   "team": "فارس نجد",
+   "manager": "أبو محمد .",
+   "gw": 22,
+   "total": 349
   },
   {
    "entry": 22969,
-   "rank": 9,
+   "rank": 11,
    "lastRank": 10,
    "team": "Ten Persons",
    "manager": "Mohammed Alsanbaqi",
@@ -87,53 +105,44 @@
    "total": 348
   },
   {
-   "entry": 13303,
-   "rank": 10,
-   "lastRank": 9,
-   "team": "وائل العسيري",
-   "manager": "وائل العسيري",
-   "gw": 1,
-   "total": 346
-  },
-  {
-   "entry": 24756,
-   "rank": 11,
-   "lastRank": 11,
-   "team": "فارس نجد",
-   "manager": "أبو محمد .",
-   "gw": 5,
-   "total": 332
-  },
-  {
-   "entry": 12525,
-   "rank": 12,
-   "lastRank": 14,
-   "team": "Anas ball",
-   "manager": "Yahya Asiri",
-   "gw": 1,
-   "total": 305
-  },
-  {
-   "entry": 52745,
-   "rank": 13,
-   "lastRank": 15,
-   "team": "Avengers",
-   "manager": "Turki Mohammed",
-   "gw": 1,
-   "total": 305
-  },
-  {
    "entry": 15447,
-   "rank": 14,
+   "rank": 12,
    "lastRank": 13,
    "team": "Sharahili",
    "manager": "Sharahili Sharahili",
-   "gw": 2,
-   "total": 301
+   "gw": 9,
+   "total": 308
+  },
+  {
+   "entry": 12525,
+   "rank": 13,
+   "lastRank": 14,
+   "team": "Anas ball",
+   "manager": "Yahya Asiri",
+   "gw": 3,
+   "total": 307
+  },
+  {
+   "entry": 15386,
+   "rank": 14,
+   "lastRank": 17,
+   "team": "☝️السعاطير☠️",
+   "manager": "MOHAMMED ASLRL",
+   "gw": 22,
+   "total": 306
+  },
+  {
+   "entry": 52745,
+   "rank": 15,
+   "lastRank": 15,
+   "team": "Avengers",
+   "manager": "Turki Mohammed",
+   "gw": 0,
+   "total": 304
   },
   {
    "entry": 45075,
-   "rank": 15,
+   "rank": 16,
    "lastRank": 16,
    "team": "العائدون من الموت",
    "manager": "علي زايد",
@@ -141,22 +150,13 @@
    "total": 299
   },
   {
-   "entry": 15386,
-   "rank": 16,
-   "lastRank": 17,
-   "team": "☝️السعاطير☠️",
-   "manager": "MOHAMMED ASLRL",
-   "gw": 13,
-   "total": 297
-  },
-  {
    "entry": 21311,
    "rank": 17,
    "lastRank": 12,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 2,
-   "total": 291
+   "gw": 10,
+   "total": 299
   },
   {
    "entry": 85456,
@@ -164,26 +164,26 @@
    "lastRank": 18,
    "team": "المونديالي ✨",
    "manager": "احنا الملوك ASLRL",
-   "gw": 1,
-   "total": 282
+   "gw": 3,
+   "total": 284
+  },
+  {
+   "entry": 12580,
+   "rank": 19,
+   "lastRank": 20,
+   "team": "الساطي",
+   "manager": "hasan asiri",
+   "gw": 10,
+   "total": 277
   },
   {
    "entry": 16508,
-   "rank": 19,
+   "rank": 20,
    "lastRank": 19,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
    "gw": 2,
    "total": 276
-  },
-  {
-   "entry": 12580,
-   "rank": 20,
-   "lastRank": 20,
-   "team": "الساطي",
-   "manager": "hasan asiri",
-   "gw": 8,
-   "total": 275
   },
   {
    "entry": 28276,
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.0",
    "pts": 48,
-   "own": "46.3%",
+   "own": "46.4%",
    "goals": 6,
    "assists": 0
   },
@@ -212,8 +212,8 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.6",
-   "pts": 53,
-   "own": "14.0%",
+   "pts": 56,
+   "own": "14.1%",
    "goals": 4,
    "assists": 1
   },
@@ -222,10 +222,20 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.1",
-   "pts": 55,
-   "own": "37.2%",
+   "pts": 59,
+   "own": "37.3%",
    "goals": 3,
    "assists": 3
+  },
+  {
+   "name": "A. Kone",
+   "club": "نيوم",
+   "pos": "خط وسط",
+   "price": "5.5",
+   "pts": 43,
+   "own": "7.4%",
+   "goals": 3,
+   "assists": 1
   },
   {
    "name": "Ângelo",
@@ -233,9 +243,19 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 42,
-   "own": "31.7%",
+   "own": "31.8%",
    "goals": 3,
    "assists": 1
+  },
+  {
+   "name": "Lacazette",
+   "club": "نيوم",
+   "pos": "مهاجم",
+   "price": "7.2",
+   "pts": 41,
+   "own": "23.7%",
+   "goals": 3,
+   "assists": 2
   },
   {
    "name": "Bergwijn",
@@ -243,7 +263,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 39,
-   "own": "20.6%",
+   "own": "20.7%",
    "goals": 3,
    "assists": 2
   },
@@ -253,17 +273,7 @@
    "pos": "مهاجم",
    "price": "6.1",
    "pts": 36,
-   "own": "14.8%",
-   "goals": 3,
-   "assists": 1
-  },
-  {
-   "name": "Lacazette",
-   "club": "نيوم",
-   "pos": "مهاجم",
-   "price": "7.2",
-   "pts": 36,
-   "own": "23.6%",
+   "own": "14.9%",
    "goals": 3,
    "assists": 1
   },
@@ -273,7 +283,7 @@
    "pos": "مهاجم",
    "price": "7.2",
    "pts": 31,
-   "own": "35.1%",
+   "own": "35.0%",
    "goals": 3,
    "assists": 1
   },
@@ -303,7 +313,7 @@
    "pos": "مهاجم",
    "price": "9.0",
    "pts": 27,
-   "own": "12.2%",
+   "own": "12.3%",
    "goals": 3,
    "assists": 0
   },
@@ -313,7 +323,7 @@
    "pos": "مهاجم",
    "price": "4.8",
    "pts": 24,
-   "own": "21.2%",
+   "own": "21.4%",
    "goals": 3,
    "assists": 0
   },
@@ -322,7 +332,7 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "8.6",
-   "pts": 50,
+   "pts": 52,
    "own": "39.7%",
    "goals": 2,
    "assists": 5
@@ -333,7 +343,7 @@
    "pos": "مدافع",
    "price": "6.6",
    "pts": 44,
-   "own": "34.6%",
+   "own": "34.7%",
    "goals": 2,
    "assists": 1
   },
@@ -343,26 +353,16 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 39,
-   "own": "32.2%",
+   "own": "32.3%",
    "goals": 2,
    "assists": 2
-  },
-  {
-   "name": "A. Kone",
-   "club": "نيوم",
-   "pos": "خط وسط",
-   "price": "5.5",
-   "pts": 37,
-   "own": "7.1%",
-   "goals": 2,
-   "assists": 1
   },
   {
    "name": "Mandash",
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "6.0",
-   "pts": 36,
+   "pts": 37,
    "own": "5.1%",
    "goals": 2,
    "assists": 2
@@ -383,7 +383,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 34,
-   "own": "40.2%",
+   "own": "40.0%",
    "goals": 2,
    "assists": 3
   },
@@ -443,7 +443,7 @@
    "pos": "مهاجم",
    "price": "8.0",
    "pts": 23,
-   "own": "18.4%",
+   "own": "18.3%",
    "goals": 2,
    "assists": 0
   }
@@ -454,7 +454,7 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "8.6",
-   "pts": 50,
+   "pts": 52,
    "own": "39.7%",
    "goals": 2,
    "assists": 5
@@ -464,8 +464,8 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.1",
-   "pts": 55,
-   "own": "37.2%",
+   "pts": 59,
+   "own": "37.3%",
    "goals": 3,
    "assists": 3
   },
@@ -505,7 +505,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 34,
-   "own": "40.2%",
+   "own": "40.0%",
    "goals": 2,
    "assists": 3
   },
@@ -544,9 +544,19 @@
    "club": "الهلال",
    "pos": "مدافع",
    "price": "5.1",
-   "pts": 40,
-   "own": "22.5%",
+   "pts": 41,
+   "own": "22.6%",
    "goals": 0,
+   "assists": 2
+  },
+  {
+   "name": "Lacazette",
+   "club": "نيوم",
+   "pos": "مهاجم",
+   "price": "7.2",
+   "pts": 41,
+   "own": "23.7%",
+   "goals": 3,
    "assists": 2
   },
   {
@@ -555,7 +565,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 39,
-   "own": "32.2%",
+   "own": "32.3%",
    "goals": 2,
    "assists": 2
   },
@@ -565,7 +575,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 39,
-   "own": "20.6%",
+   "own": "20.7%",
    "goals": 3,
    "assists": 2
   },
@@ -574,7 +584,7 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "6.0",
-   "pts": 36,
+   "pts": 37,
    "own": "5.1%",
    "goals": 2,
    "assists": 2
@@ -614,7 +624,7 @@
    "club": "نيوم",
    "pos": "خط وسط",
    "price": "4.5",
-   "pts": 17,
+   "pts": 19,
    "own": "0.4%",
    "goals": 0,
    "assists": 2
@@ -634,18 +644,8 @@
    "club": "نيوم",
    "pos": "مهاجم",
    "price": "4.5",
-   "pts": 13,
+   "pts": 14,
    "own": "1.7%",
-   "goals": 0,
-   "assists": 2
-  },
-  {
-   "name": "A. Hamddan",
-   "club": "النصر",
-   "pos": "مهاجم",
-   "price": "4.9",
-   "pts": 12,
-   "own": "3.9%",
    "goals": 0,
    "assists": 2
   }
@@ -656,8 +656,8 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.1",
-   "pts": 55,
-   "own": "37.2%",
+   "pts": 59,
+   "own": "37.3%",
    "goals": 3,
    "assists": 3
   },
@@ -666,8 +666,8 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.6",
-   "pts": 53,
-   "own": "14.0%",
+   "pts": 56,
+   "own": "14.1%",
    "goals": 4,
    "assists": 1
   },
@@ -676,7 +676,7 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "8.6",
-   "pts": 50,
+   "pts": 52,
    "own": "39.7%",
    "goals": 2,
    "assists": 5
@@ -687,7 +687,7 @@
    "pos": "مهاجم",
    "price": "12.0",
    "pts": 48,
-   "own": "46.3%",
+   "own": "46.4%",
    "goals": 6,
    "assists": 0
   },
@@ -707,7 +707,7 @@
    "pos": "حارس المرمي",
    "price": "5.1",
    "pts": 44,
-   "own": "18.2%",
+   "own": "18.3%",
    "goals": 0,
    "assists": 0
   },
@@ -717,8 +717,28 @@
    "pos": "مدافع",
    "price": "6.6",
    "pts": 44,
-   "own": "34.6%",
+   "own": "34.7%",
    "goals": 2,
+   "assists": 1
+  },
+  {
+   "name": "Sarr",
+   "club": "نيوم",
+   "pos": "مدافع",
+   "price": "5.0",
+   "pts": 43,
+   "own": "5.9%",
+   "goals": 0,
+   "assists": 0
+  },
+  {
+   "name": "A. Kone",
+   "club": "نيوم",
+   "pos": "خط وسط",
+   "price": "5.5",
+   "pts": 43,
+   "own": "7.4%",
+   "goals": 3,
    "assists": 1
   },
   {
@@ -727,7 +747,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 42,
-   "own": "31.7%",
+   "own": "31.8%",
    "goals": 3,
    "assists": 1
   },
@@ -736,10 +756,30 @@
    "club": "الهلال",
    "pos": "مدافع",
    "price": "5.1",
-   "pts": 40,
-   "own": "22.5%",
+   "pts": 41,
+   "own": "22.6%",
    "goals": 0,
    "assists": 2
+  },
+  {
+   "name": "Lacazette",
+   "club": "نيوم",
+   "pos": "مهاجم",
+   "price": "7.2",
+   "pts": 41,
+   "own": "23.7%",
+   "goals": 3,
+   "assists": 2
+  },
+  {
+   "name": "Bulka",
+   "club": "نيوم",
+   "pos": "حارس المرمي",
+   "price": "4.5",
+   "pts": 40,
+   "own": "15.0%",
+   "goals": 0,
+   "assists": 0
   },
   {
    "name": "Spertsyan",
@@ -747,7 +787,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 39,
-   "own": "32.2%",
+   "own": "32.3%",
    "goals": 2,
    "assists": 2
   },
@@ -757,7 +797,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 39,
-   "own": "20.6%",
+   "own": "20.7%",
    "goals": 3,
    "assists": 2
   },
@@ -770,6 +810,16 @@
    "own": "41.7%",
    "goals": 0,
    "assists": 1
+  },
+  {
+   "name": "Mandash",
+   "club": "الهلال",
+   "pos": "خط وسط",
+   "price": "6.0",
+   "pts": 37,
+   "own": "5.1%",
+   "goals": 2,
+   "assists": 2
   },
   {
    "name": "Medrán",
@@ -787,19 +837,9 @@
    "pos": "مدافع",
    "price": "5.2",
    "pts": 37,
-   "own": "16.2%",
+   "own": "16.3%",
    "goals": 1,
    "assists": 0
-  },
-  {
-   "name": "A. Kone",
-   "club": "نيوم",
-   "pos": "خط وسط",
-   "price": "5.5",
-   "pts": 37,
-   "own": "7.1%",
-   "goals": 2,
-   "assists": 1
   },
   {
    "name": "Ibañez",
@@ -810,46 +850,6 @@
    "own": "34.3%",
    "goals": 0,
    "assists": 0
-  },
-  {
-   "name": "Koulibaly",
-   "club": "الهلال",
-   "pos": "مدافع",
-   "price": "5.0",
-   "pts": 36,
-   "own": "20.1%",
-   "goals": 0,
-   "assists": 1
-  },
-  {
-   "name": "Mandash",
-   "club": "الهلال",
-   "pos": "خط وسط",
-   "price": "6.0",
-   "pts": 36,
-   "own": "5.1%",
-   "goals": 2,
-   "assists": 2
-  },
-  {
-   "name": "Mane",
-   "club": "النصر",
-   "pos": "خط وسط",
-   "price": "9.1",
-   "pts": 36,
-   "own": "13.1%",
-   "goals": 2,
-   "assists": 3
-  },
-  {
-   "name": "Domingues",
-   "club": "الخلود",
-   "pos": "مهاجم",
-   "price": "6.1",
-   "pts": 36,
-   "own": "14.8%",
-   "goals": 3,
-   "assists": 1
   }
  ],
  "injuries": [
@@ -1597,8 +1597,8 @@
   },
   {
    "date": "الجولة 6",
-   "title": "متوسط النقاط 3 وأعلى نتيجة 56",
-   "body": "تصدّر دورينا «العالمي 777» بـ 490 نقطة."
+   "title": "متوسط النقاط 9 وأعلى نتيجة 66",
+   "body": "تصدّر دورينا «العالمي 777» بـ 502 نقطة."
   },
   {
    "date": "الجولة 6",
