@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 6,
- "updated": "08‏/09‏/2026، 12:16 م",
+ "updated": "08‏/09‏/2026، 3:20 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-09-11T15:20:00Z",
  "standings": [
@@ -56,8 +56,8 @@
    "lastRank": 7,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 17,
-   "total": 391
+   "gw": 14,
+   "total": 388
   },
   {
    "entry": 40539,
@@ -92,8 +92,8 @@
    "lastRank": 11,
    "team": "فارس نجد",
    "manager": "أبو محمد .",
-   "gw": 23,
-   "total": 350
+   "gw": 22,
+   "total": 349
   },
   {
    "entry": 22969,
@@ -105,17 +105,8 @@
    "total": 348
   },
   {
-   "entry": 15447,
-   "rank": 12,
-   "lastRank": 13,
-   "team": "Sharahili",
-   "manager": "Sharahili Sharahili",
-   "gw": 9,
-   "total": 308
-  },
-  {
    "entry": 12525,
-   "rank": 13,
+   "rank": 12,
    "lastRank": 14,
    "team": "Anas ball",
    "manager": "Yahya Asiri",
@@ -124,12 +115,21 @@
   },
   {
    "entry": 15386,
-   "rank": 14,
+   "rank": 13,
    "lastRank": 17,
    "team": "☝️السعاطير☠️",
    "manager": "MOHAMMED ASLRL",
    "gw": 22,
    "total": 306
+  },
+  {
+   "entry": 15447,
+   "rank": 14,
+   "lastRank": 13,
+   "team": "Sharahili",
+   "manager": "Sharahili Sharahili",
+   "gw": 6,
+   "total": 305
   },
   {
    "entry": 52745,
@@ -233,7 +233,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 44,
-   "own": "7.6%",
+   "own": "7.7%",
    "goals": 3,
    "assists": 1
   },
@@ -323,7 +323,7 @@
    "pos": "مهاجم",
    "price": "4.8",
    "pts": 24,
-   "own": "21.5%",
+   "own": "21.6%",
    "goals": 3,
    "assists": 0
   },
@@ -333,7 +333,7 @@
    "pos": "خط وسط",
    "price": "8.6",
    "pts": 52,
-   "own": "39.8%",
+   "own": "39.9%",
    "goals": 2,
    "assists": 5
   },
@@ -353,7 +353,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 39,
-   "own": "32.3%",
+   "own": "32.4%",
    "goals": 2,
    "assists": 2
   },
@@ -443,7 +443,7 @@
    "pos": "مهاجم",
    "price": "8.0",
    "pts": 23,
-   "own": "18.3%",
+   "own": "18.2%",
    "goals": 2,
    "assists": 0
   }
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.6",
    "pts": 52,
-   "own": "39.8%",
+   "own": "39.9%",
    "goals": 2,
    "assists": 5
   },
@@ -565,7 +565,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 39,
-   "own": "32.3%",
+   "own": "32.4%",
    "goals": 2,
    "assists": 2
   },
@@ -677,7 +677,7 @@
    "pos": "خط وسط",
    "price": "8.6",
    "pts": 52,
-   "own": "39.8%",
+   "own": "39.9%",
    "goals": 2,
    "assists": 5
   },
@@ -727,7 +727,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 44,
-   "own": "7.6%",
+   "own": "7.7%",
    "goals": 3,
    "assists": 1
   },
@@ -757,7 +757,7 @@
    "pos": "مدافع",
    "price": "5.0",
    "pts": 42,
-   "own": "6.2%",
+   "own": "6.3%",
    "goals": 0,
    "assists": 0
   },
@@ -787,7 +787,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 39,
-   "own": "32.3%",
+   "own": "32.4%",
    "goals": 2,
    "assists": 2
   },
