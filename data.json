@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 7,
- "updated": "12‏/09‏/2026، 3:18 م",
+ "updated": "12‏/09‏/2026، 6:13 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-09T13:45:00Z",
  "standings": [
@@ -233,7 +233,7 @@
    "pos": "مهاجم",
    "price": "5.0",
    "pts": 41,
-   "own": "30.4%",
+   "own": "30.5%",
    "goals": 4,
    "assists": 2
   },
@@ -333,7 +333,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 40,
-   "own": "11.6%",
+   "own": "11.7%",
    "goals": 3,
    "assists": 0
   },
@@ -353,7 +353,7 @@
    "pos": "مهاجم",
    "price": "7.1",
    "pts": 33,
-   "own": "28.2%",
+   "own": "28.1%",
    "goals": 3,
    "assists": 1
   },
@@ -393,7 +393,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 55,
-   "own": "15.8%",
+   "own": "15.9%",
    "goals": 2,
    "assists": 4
   },
@@ -465,7 +465,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 55,
-   "own": "15.8%",
+   "own": "15.9%",
    "goals": 2,
    "assists": 4
   },
@@ -525,7 +525,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 37,
-   "own": "11.6%",
+   "own": "11.5%",
    "goals": 1,
    "assists": 3
   },
@@ -565,7 +565,7 @@
    "pos": "خط وسط",
    "price": "5.0",
    "pts": 26,
-   "own": "1.1%",
+   "own": "1.0%",
    "goals": 0,
    "assists": 3
   },
@@ -625,7 +625,7 @@
    "pos": "مهاجم",
    "price": "5.0",
    "pts": 41,
-   "own": "30.4%",
+   "own": "30.5%",
    "goals": 4,
    "assists": 2
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 55,
-   "own": "15.8%",
+   "own": "15.9%",
    "goals": 2,
    "assists": 4
   },
@@ -1015,6 +1015,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Al Mufarrij",
+   "club": "التعاون",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Al Arini",
    "club": "التعاون",
    "status": "doubt",
@@ -1184,13 +1191,6 @@
   },
   {
    "name": "T. Hernandez",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Bono",
    "club": "الهلال",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
