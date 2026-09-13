@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 7,
- "updated": "13‏/09‏/2026، 3:22 ص",
+ "updated": "13‏/09‏/2026، 6:14 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-09T13:45:00Z",
  "standings": [
@@ -29,8 +29,8 @@
    "lastRank": 3,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 59,
-   "total": 534
+   "gw": 60,
+   "total": 535
   },
   {
    "entry": 23288,
@@ -101,8 +101,8 @@
    "lastRank": 8,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 41,
-   "total": 461
+   "gw": 42,
+   "total": 462
   },
   {
    "entry": 15386,
@@ -159,21 +159,21 @@
    "total": 385
   },
   {
-   "entry": 28276,
+   "entry": 16508,
    "rank": 18,
+   "lastRank": 19,
+   "team": "القوة العاشرة",
+   "manager": "jaber assiri",
+   "gw": 63,
+   "total": 377
+  },
+  {
+   "entry": 28276,
+   "rank": 19,
    "lastRank": 20,
    "team": "Rayan FC",
    "manager": "rayan Sap",
    "gw": 63,
-   "total": 376
-  },
-  {
-   "entry": 16508,
-   "rank": 19,
-   "lastRank": 19,
-   "team": "القوة العاشرة",
-   "manager": "jaber assiri",
-   "gw": 62,
    "total": 376
   },
   {
@@ -213,7 +213,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 59,
-   "own": "14.7%",
+   "own": "14.6%",
    "goals": 4,
    "assists": 1
   },
@@ -363,7 +363,7 @@
    "pos": "مهاجم",
    "price": "10.0",
    "pts": 37,
-   "own": "13.9%",
+   "own": "14.0%",
    "goals": 3,
    "assists": 2
   },
@@ -381,9 +381,9 @@
    "name": "Dembélé",
    "club": "الاتفاق",
    "pos": "مهاجم",
-   "price": "7.1",
+   "price": "7.0",
    "pts": 33,
-   "own": "27.4%",
+   "own": "27.3%",
    "goals": 3,
    "assists": 1
   },
@@ -433,7 +433,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 55,
-   "own": "16.4%",
+   "own": "16.5%",
    "goals": 2,
    "assists": 4
   },
@@ -475,7 +475,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 55,
-   "own": "16.4%",
+   "own": "16.5%",
    "goals": 2,
    "assists": 4
   },
@@ -514,7 +514,7 @@
    "club": "الهلال",
    "pos": "مدافع",
    "price": "5.2",
-   "pts": 45,
+   "pts": 46,
    "own": "25.5%",
    "goals": 0,
    "assists": 3
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 59,
-   "own": "14.7%",
+   "own": "14.6%",
    "goals": 4,
    "assists": 1
   },
@@ -707,7 +707,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 55,
-   "own": "16.4%",
+   "own": "16.5%",
    "goals": 2,
    "assists": 4
   },
@@ -752,6 +752,16 @@
    "assists": 0
   },
   {
+   "name": "Mahzari",
+   "club": "الهلال",
+   "pos": "مدافع",
+   "price": "5.2",
+   "pts": 46,
+   "own": "25.5%",
+   "goals": 0,
+   "assists": 3
+  },
+  {
    "name": "Nacho",
    "club": "القـادسيـة",
    "pos": "مدافع",
@@ -770,16 +780,6 @@
    "own": "31.4%",
    "goals": 2,
    "assists": 2
-  },
-  {
-   "name": "Mahzari",
-   "club": "الهلال",
-   "pos": "مدافع",
-   "price": "5.2",
-   "pts": 45,
-   "own": "25.5%",
-   "goals": 0,
-   "assists": 3
   },
   {
    "name": "Ibañez",
@@ -1604,7 +1604,7 @@
   },
   {
    "date": "الجولة 7",
-   "title": "متوسط النقاط 59 وأعلى نتيجة 136",
+   "title": "متوسط النقاط 59 وأعلى نتيجة 137",
    "body": "تصدّر دورينا «العالمي 777» بـ 639 نقطة."
   },
   {
