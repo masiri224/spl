@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 7,
- "updated": "16‏/09‏/2026، 12:15 م",
+ "updated": "16‏/09‏/2026، 3:19 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-09T13:45:00Z",
  "standings": [
@@ -373,7 +373,7 @@
    "pos": "مهاجم",
    "price": "10.0",
    "pts": 37,
-   "own": "15.3%",
+   "own": "15.4%",
    "goals": 3,
    "assists": 2
   },
@@ -889,6 +889,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Al Arini",
+   "club": "التعاون",
+   "status": "out",
+   "detail": "إصابة في الركبة - العودة المتوقعة: أواخر أوكتوبر",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Antunes",
    "club": "الرياض",
    "status": "out",
@@ -1002,13 +1009,6 @@
   },
   {
    "name": "Al Mufarrij",
-   "club": "التعاون",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Al Arini",
    "club": "التعاون",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1603,6 +1603,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "M. Al Dawsari",
+   "club": "نيوم",
+   "status": "gone",
+   "detail": "إعارة الى الرئد",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Al Oufi",
    "club": "نيوم",
    "status": "gone",
@@ -1640,8 +1647,8 @@
   },
   {
    "date": "إصابات",
-   "title": "14 لاعباً خارج الحسابات بالإصابة",
-   "body": "Rosier (أبها)، M. Al Dawsari (أبها)، Sharahili (الاتحاد)، H. Al Ghamdi (الاتحاد)، R. Fernandes (الاتحاد)، Antunes (الرياض)."
+   "title": "15 لاعباً خارج الحسابات بالإصابة",
+   "body": "Rosier (أبها)، M. Al Dawsari (أبها)، Sharahili (الاتحاد)، H. Al Ghamdi (الاتحاد)، R. Fernandes (الاتحاد)، Al Arini (التعاون)."
   }
  ]
 }
