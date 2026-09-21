@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 7,
- "updated": "21‏/09‏/2026، 3:27 م",
+ "updated": "21‏/09‏/2026، 10:55 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-09T13:45:00Z",
  "standings": [
@@ -777,7 +777,7 @@
    "pos": "حارس المرمي",
    "price": "5.1",
    "pts": 47,
-   "own": "17.0%",
+   "own": "17.1%",
    "goals": 0,
    "assists": 0
   },
@@ -1372,6 +1372,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "bin Zaydan",
+   "club": "الرياض",
+   "status": "gone",
+   "detail": "إعارة الى الجيل",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Al Bloushi",
    "club": "الرياض",
    "status": "gone",
@@ -1390,6 +1397,13 @@
    "club": "الشباب",
    "status": "gone",
    "detail": "إعارة الى النجمة",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "M. Abdullah",
+   "club": "الشباب",
+   "status": "gone",
+   "detail": "إعارة الى الوحدة",
    "back": "0% جاهزية"
   },
   {
@@ -1607,6 +1621,13 @@
    "club": "نيوم",
    "status": "gone",
    "detail": "إعارة الى الرئد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Ozaybi",
+   "club": "نيوم",
+   "status": "gone",
+   "detail": "إنتقال الى الرائد",
    "back": "0% جاهزية"
   },
   {
