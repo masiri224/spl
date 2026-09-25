@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 7,
- "updated": "25‏/09‏/2026، 7:20 ص",
+ "updated": "25‏/09‏/2026، 2:32 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-09T13:45:00Z",
  "standings": [
@@ -1198,6 +1198,13 @@
   },
   {
    "name": "Ayman Yahya",
+   "club": "النصر",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "N. Al Aqidi",
    "club": "النصر",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
