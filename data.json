@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 7,
- "updated": "28‏/09‏/2026، 4:26 م",
+ "updated": "29‏/09‏/2026، 12:09 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-09T13:45:00Z",
  "standings": [
@@ -525,7 +525,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 40,
-   "own": "11.2%",
+   "own": "11.1%",
    "goals": 2,
    "assists": 3
   },
@@ -974,6 +974,13 @@
   },
   {
    "name": "Al Julaydan",
+   "club": "الاتحاد",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Kadish",
    "club": "الاتحاد",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
