@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 7,
- "updated": "06‏/10‏/2026، 12:54 ص",
+ "updated": "06‏/10‏/2026، 8:46 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-09T13:45:00Z",
  "standings": [
@@ -523,7 +523,7 @@
    "name": "Mane",
    "club": "النصر",
    "pos": "خط وسط",
-   "price": "9.1",
+   "price": "9.0",
    "pts": 40,
    "own": "11.1%",
    "goals": 2,
@@ -605,7 +605,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 45,
-   "own": "30.7%",
+   "own": "30.6%",
    "goals": 2,
    "assists": 2
   },
@@ -805,7 +805,7 @@
    "name": "Sarr",
    "club": "نيوم",
    "pos": "مدافع",
-   "price": "5.1",
+   "price": "5.2",
    "pts": 46,
    "own": "12.7%",
    "goals": 0,
@@ -817,7 +817,7 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 45,
-   "own": "30.7%",
+   "own": "30.6%",
    "goals": 2,
    "assists": 2
   },
@@ -827,7 +827,7 @@
    "pos": "مدافع",
    "price": "6.5",
    "pts": 44,
-   "own": "35.0%",
+   "own": "34.9%",
    "goals": 0,
    "assists": 0
   },
