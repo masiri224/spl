@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 8,
- "updated": "11‏/10‏/2026، 3:27 م",
+ "updated": "13‏/10‏/2026، 7:49 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-15T13:35:00Z",
  "standings": [
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 75,
-   "total": 730
+   "gw": 74,
+   "total": 729
   },
   {
    "entry": 51585,
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "R3D",
    "manager": "Osama S",
-   "gw": 88,
-   "total": 676
+   "gw": 91,
+   "total": 679
   },
   {
    "entry": 14191,
@@ -29,8 +29,8 @@
    "lastRank": 3,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 65,
-   "total": 617
+   "gw": 68,
+   "total": 620
   },
   {
    "entry": 56753,
@@ -38,8 +38,8 @@
    "lastRank": 6,
    "team": "Homoud city",
    "manager": "Abu Abra",
-   "gw": 90,
-   "total": 608
+   "gw": 93,
+   "total": 611
   },
   {
    "entry": 23288,
@@ -56,89 +56,89 @@
    "lastRank": 5,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 71,
-   "total": 596
-  },
-  {
-   "entry": 24756,
-   "rank": 7,
-   "lastRank": 8,
-   "team": "فارس نجد",
-   "manager": "أبو محمد .",
-   "gw": 65,
-   "total": 543
-  },
-  {
-   "entry": 13303,
-   "rank": 8,
-   "lastRank": 10,
-   "team": "وائل العسيري",
-   "manager": "وائل العسيري",
-   "gw": 70,
-   "total": 542
+   "gw": 74,
+   "total": 599
   },
   {
    "entry": 22969,
-   "rank": 9,
+   "rank": 7,
    "lastRank": 9,
    "team": "Ten Persons",
    "manager": "Mohammed Alsanbaqi",
-   "gw": 69,
-   "total": 542
+   "gw": 92,
+   "total": 565
   },
   {
    "entry": 21367,
-   "rank": 10,
+   "rank": 8,
    "lastRank": 7,
    "team": "Heroes",
    "manager": "Saeed Heroes",
-   "gw": 52,
-   "total": 541
+   "gw": 70,
+   "total": 559
   },
   {
    "entry": 15463,
-   "rank": 11,
+   "rank": 9,
    "lastRank": 11,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 46,
-   "total": 514
+   "gw": 87,
+   "total": 555
   },
   {
-   "entry": 52745,
-   "rank": 12,
-   "lastRank": 14,
-   "team": "Avengers",
-   "manager": "Turki Mohammed",
-   "gw": 84,
-   "total": 508
+   "entry": 24756,
+   "rank": 10,
+   "lastRank": 8,
+   "team": "فارس نجد",
+   "manager": "أبو محمد .",
+   "gw": 73,
+   "total": 551
   },
   {
-   "entry": 12525,
-   "rank": 13,
-   "lastRank": 15,
-   "team": "Anas ball",
-   "manager": "Yahya Asiri",
-   "gw": 85,
-   "total": 505
-  },
-  {
-   "entry": 15447,
-   "rank": 14,
-   "lastRank": 13,
-   "team": "Sharahili",
-   "manager": "Sharahili Sharahili",
-   "gw": 67,
-   "total": 492
+   "entry": 13303,
+   "rank": 11,
+   "lastRank": 10,
+   "team": "وائل العسيري",
+   "manager": "وائل العسيري",
+   "gw": 71,
+   "total": 543
   },
   {
    "entry": 15386,
-   "rank": 15,
+   "rank": 12,
    "lastRank": 12,
    "team": "☝️السعاطير☠️",
    "manager": "MOHAMMED ASLRL",
-   "gw": 56,
-   "total": 489
+   "gw": 98,
+   "total": 531
+  },
+  {
+   "entry": 15447,
+   "rank": 13,
+   "lastRank": 13,
+   "team": "Sharahili",
+   "manager": "Sharahili Sharahili",
+   "gw": 86,
+   "total": 511
+  },
+  {
+   "entry": 52745,
+   "rank": 14,
+   "lastRank": 14,
+   "team": "Avengers",
+   "manager": "Turki Mohammed",
+   "gw": 85,
+   "total": 509
+  },
+  {
+   "entry": 12525,
+   "rank": 15,
+   "lastRank": 15,
+   "team": "Anas ball",
+   "manager": "Yahya Asiri",
+   "gw": 86,
+   "total": 506
   },
   {
    "entry": 85456,
@@ -146,17 +146,17 @@
    "lastRank": 17,
    "team": "المونديالي ✨",
    "manager": "احنا الملوك ASLRL",
-   "gw": 59,
-   "total": 449
+   "gw": 75,
+   "total": 465
   },
   {
-   "entry": 12580,
+   "entry": 45075,
    "rank": 17,
-   "lastRank": 20,
-   "team": "الساطي",
-   "manager": "hasan asiri",
-   "gw": 74,
-   "total": 448
+   "lastRank": 16,
+   "team": "العائدون من الموت",
+   "manager": "علي زايد",
+   "gw": 49,
+   "total": 454
   },
   {
    "entry": 16508,
@@ -164,8 +164,8 @@
    "lastRank": 19,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 54,
-   "total": 437
+   "gw": 69,
+   "total": 452
   },
   {
    "entry": 28276,
@@ -173,17 +173,17 @@
    "lastRank": 18,
    "team": "Rayan FC",
    "manager": "rayan Sap",
-   "gw": 44,
-   "total": 429
+   "gw": 64,
+   "total": 449
   },
   {
-   "entry": 45075,
+   "entry": 12580,
    "rank": 20,
-   "lastRank": 16,
-   "team": "العائدون من الموت",
-   "manager": "علي زايد",
-   "gw": 4,
-   "total": 409
+   "lastRank": 20,
+   "team": "الساطي",
+   "manager": "hasan asiri",
+   "gw": 75,
+   "total": 449
   },
   {
    "entry": 21311,
@@ -191,8 +191,8 @@
    "lastRank": 21,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 50,
-   "total": 407
+   "gw": 69,
+   "total": 426
   }
  ],
  "newEntries": [],
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "55.7%",
+   "own": "55.6%",
    "goals": 11,
    "assists": 2
   },
@@ -213,7 +213,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 60,
-   "own": "21.4%",
+   "own": "21.6%",
    "goals": 5,
    "assists": 3
   },
@@ -223,7 +223,7 @@
    "pos": "خط وسط",
    "price": "7.9",
    "pts": 59,
-   "own": "6.9%",
+   "own": "7.3%",
    "goals": 5,
    "assists": 2
   },
@@ -233,7 +233,7 @@
    "pos": "مهاجم",
    "price": "7.3",
    "pts": 57,
-   "own": "27.1%",
+   "own": "26.9%",
    "goals": 5,
    "assists": 1
   },
@@ -243,7 +243,7 @@
    "pos": "مهاجم",
    "price": "9.0",
    "pts": 49,
-   "own": "12.4%",
+   "own": "12.7%",
    "goals": 5,
    "assists": 1
   },
@@ -263,7 +263,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 59,
-   "own": "13.5%",
+   "own": "12.9%",
    "goals": 4,
    "assists": 1
   },
@@ -273,7 +273,7 @@
    "pos": "خط وسط",
    "price": "11.9",
    "pts": 57,
-   "own": "35.8%",
+   "own": "36.0%",
    "goals": 4,
    "assists": 4
   },
@@ -281,9 +281,9 @@
    "name": "Watkins",
    "club": "الهلال",
    "pos": "مهاجم",
-   "price": "10.1",
+   "price": "10.2",
    "pts": 53,
-   "own": "17.9%",
+   "own": "19.0%",
    "goals": 4,
    "assists": 4
   },
@@ -291,9 +291,9 @@
    "name": "Reijnders",
    "club": "القـادسيـة",
    "pos": "خط وسط",
-   "price": "7.1",
+   "price": "7.2",
    "pts": 49,
-   "own": "15.2%",
+   "own": "15.8%",
    "goals": 4,
    "assists": 0
   },
@@ -303,7 +303,7 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 47,
-   "own": "21.2%",
+   "own": "21.1%",
    "goals": 4,
    "assists": 0
   },
@@ -313,7 +313,7 @@
    "pos": "مهاجم",
    "price": "5.0",
    "pts": 41,
-   "own": "33.5%",
+   "own": "33.4%",
    "goals": 4,
    "assists": 2
   },
@@ -333,7 +333,7 @@
    "pos": "خط وسط",
    "price": "8.5",
    "pts": 32,
-   "own": "4.8%",
+   "own": "5.2%",
    "goals": 4,
    "assists": 0
   },
@@ -343,7 +343,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 76,
-   "own": "37.8%",
+   "own": "37.7%",
    "goals": 3,
    "assists": 5
   },
@@ -351,9 +351,9 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.8",
+   "price": "6.9",
    "pts": 76,
-   "own": "44.2%",
+   "own": "44.6%",
    "goals": 3,
    "assists": 4
   },
@@ -361,9 +361,9 @@
    "name": "Summerville",
    "club": "الهلال",
    "pos": "خط وسط",
-   "price": "8.6",
+   "price": "8.7",
    "pts": 70,
-   "own": "40.6%",
+   "own": "41.0%",
    "goals": 3,
    "assists": 6
   },
@@ -373,7 +373,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 56,
-   "own": "13.9%",
+   "own": "13.4%",
    "goals": 3,
    "assists": 2
   },
@@ -383,15 +383,25 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 55,
-   "own": "33.5%",
+   "own": "32.8%",
    "goals": 3,
    "assists": 3
+  },
+  {
+   "name": "Lázaro",
+   "club": "الفيحاء",
+   "pos": "خط وسط",
+   "price": "5.5",
+   "pts": 44,
+   "own": "2.2%",
+   "goals": 3,
+   "assists": 1
   },
   {
    "name": "Mandash",
    "club": "الهلال",
    "pos": "خط وسط",
-   "price": "6.0",
+   "price": "5.9",
    "pts": 44,
    "own": "4.0%",
    "goals": 3,
@@ -403,7 +413,7 @@
    "pos": "مهاجم",
    "price": "6.2",
    "pts": 44,
-   "own": "16.0%",
+   "own": "15.7%",
    "goals": 3,
    "assists": 2
   },
@@ -413,7 +423,7 @@
    "pos": "خط وسط",
    "price": "6.0",
    "pts": 42,
-   "own": "0.5%",
+   "own": "0.7%",
    "goals": 3,
    "assists": 0
   },
@@ -422,8 +432,8 @@
    "club": "الرياض",
    "pos": "خط وسط",
    "price": "5.5",
-   "pts": 36,
-   "own": "1.7%",
+   "pts": 39,
+   "own": "1.6%",
    "goals": 3,
    "assists": 0
   },
@@ -433,19 +443,9 @@
    "pos": "مهاجم",
    "price": "7.0",
    "pts": 35,
-   "own": "24.7%",
+   "own": "24.3%",
    "goals": 3,
    "assists": 1
-  },
-  {
-   "name": "Darwin Nunez",
-   "club": "الدرعية",
-   "pos": "مهاجم",
-   "price": "7.7",
-   "pts": 35,
-   "own": "9.7%",
-   "goals": 3,
-   "assists": 0
   }
  ],
  "assisters": [
@@ -453,9 +453,9 @@
    "name": "Summerville",
    "club": "الهلال",
    "pos": "خط وسط",
-   "price": "8.6",
+   "price": "8.7",
    "pts": 70,
-   "own": "40.6%",
+   "own": "41.0%",
    "goals": 3,
    "assists": 6
   },
@@ -465,7 +465,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 76,
-   "own": "37.8%",
+   "own": "37.7%",
    "goals": 3,
    "assists": 5
   },
@@ -473,9 +473,9 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.8",
+   "price": "6.9",
    "pts": 76,
-   "own": "44.2%",
+   "own": "44.6%",
    "goals": 3,
    "assists": 4
   },
@@ -485,7 +485,7 @@
    "pos": "خط وسط",
    "price": "6.3",
    "pts": 58,
-   "own": "19.3%",
+   "own": "19.4%",
    "goals": 2,
    "assists": 4
   },
@@ -495,17 +495,27 @@
    "pos": "خط وسط",
    "price": "11.9",
    "pts": 57,
-   "own": "35.8%",
+   "own": "36.0%",
    "goals": 4,
+   "assists": 4
+  },
+  {
+   "name": "Carrasco",
+   "club": "الشباب",
+   "pos": "خط وسط",
+   "price": "9.0",
+   "pts": 55,
+   "own": "10.6%",
+   "goals": 2,
    "assists": 4
   },
   {
    "name": "Watkins",
    "club": "الهلال",
    "pos": "مهاجم",
-   "price": "10.1",
+   "price": "10.2",
    "pts": 53,
-   "own": "17.9%",
+   "own": "19.0%",
    "goals": 4,
    "assists": 4
   },
@@ -515,7 +525,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 47,
-   "own": "10.4%",
+   "own": "10.3%",
    "goals": 2,
    "assists": 4
   },
@@ -525,7 +535,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 43,
-   "own": "37.0%",
+   "own": "36.7%",
    "goals": 2,
    "assists": 4
   },
@@ -535,7 +545,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 60,
-   "own": "21.4%",
+   "own": "21.6%",
    "goals": 5,
    "assists": 3
   },
@@ -545,7 +555,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 55,
-   "own": "33.5%",
+   "own": "32.8%",
    "goals": 3,
    "assists": 3
   },
@@ -555,7 +565,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 51,
-   "own": "29.9%",
+   "own": "29.5%",
    "goals": 2,
    "assists": 3
   },
@@ -575,17 +585,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 47,
-   "own": "3.6%",
-   "goals": 1,
-   "assists": 3
-  },
-  {
-   "name": "Carrasco",
-   "club": "الشباب",
-   "pos": "خط وسط",
-   "price": "9.0",
-   "pts": 40,
-   "own": "10.6%",
+   "own": "3.9%",
    "goals": 1,
    "assists": 3
   },
@@ -635,7 +635,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "55.7%",
+   "own": "55.6%",
    "goals": 11,
    "assists": 2
   },
@@ -645,7 +645,7 @@
    "pos": "خط وسط",
    "price": "7.9",
    "pts": 59,
-   "own": "6.9%",
+   "own": "7.3%",
    "goals": 5,
    "assists": 2
   }
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "55.7%",
+   "own": "55.6%",
    "goals": 11,
    "assists": 2
   },
@@ -667,7 +667,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 76,
-   "own": "37.8%",
+   "own": "37.7%",
    "goals": 3,
    "assists": 5
   },
@@ -675,9 +675,9 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.8",
+   "price": "6.9",
    "pts": 76,
-   "own": "44.2%",
+   "own": "44.6%",
    "goals": 3,
    "assists": 4
   },
@@ -685,9 +685,9 @@
    "name": "Summerville",
    "club": "الهلال",
    "pos": "خط وسط",
-   "price": "8.6",
+   "price": "8.7",
    "pts": 70,
-   "own": "40.6%",
+   "own": "41.0%",
    "goals": 3,
    "assists": 6
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 60,
-   "own": "21.4%",
+   "own": "21.6%",
    "goals": 5,
    "assists": 3
   },
@@ -707,7 +707,7 @@
    "pos": "خط وسط",
    "price": "7.9",
    "pts": 59,
-   "own": "6.9%",
+   "own": "7.3%",
    "goals": 5,
    "assists": 2
   },
@@ -717,7 +717,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 59,
-   "own": "13.5%",
+   "own": "12.9%",
    "goals": 4,
    "assists": 1
   },
@@ -727,7 +727,7 @@
    "pos": "خط وسط",
    "price": "6.3",
    "pts": 58,
-   "own": "19.3%",
+   "own": "19.4%",
    "goals": 2,
    "assists": 4
   },
@@ -737,7 +737,7 @@
    "pos": "خط وسط",
    "price": "11.9",
    "pts": 57,
-   "own": "35.8%",
+   "own": "36.0%",
    "goals": 4,
    "assists": 4
   },
@@ -747,7 +747,7 @@
    "pos": "مهاجم",
    "price": "7.3",
    "pts": 57,
-   "own": "27.1%",
+   "own": "26.9%",
    "goals": 5,
    "assists": 1
   },
@@ -757,7 +757,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 56,
-   "own": "13.9%",
+   "own": "13.4%",
    "goals": 3,
    "assists": 2
   },
@@ -767,17 +767,27 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 55,
-   "own": "33.5%",
+   "own": "32.8%",
    "goals": 3,
    "assists": 3
+  },
+  {
+   "name": "Carrasco",
+   "club": "الشباب",
+   "pos": "خط وسط",
+   "price": "9.0",
+   "pts": 55,
+   "own": "10.6%",
+   "goals": 2,
+   "assists": 4
   },
   {
    "name": "Watkins",
    "club": "الهلال",
    "pos": "مهاجم",
-   "price": "10.1",
+   "price": "10.2",
    "pts": 53,
-   "own": "17.9%",
+   "own": "19.0%",
    "goals": 4,
    "assists": 4
   },
@@ -787,7 +797,7 @@
    "pos": "مدافع",
    "price": "5.6",
    "pts": 53,
-   "own": "41.8%",
+   "own": "41.9%",
    "goals": 0,
    "assists": 1
   },
@@ -797,9 +807,19 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 51,
-   "own": "29.9%",
+   "own": "29.5%",
    "goals": 2,
    "assists": 3
+  },
+  {
+   "name": "Mailson",
+   "club": "التعاون",
+   "pos": "حارس المرمي",
+   "price": "5.2",
+   "pts": 51,
+   "own": "21.8%",
+   "goals": 0,
+   "assists": 0
   },
   {
    "name": "Sarr",
@@ -807,7 +827,7 @@
    "pos": "مدافع",
    "price": "5.2",
    "pts": 51,
-   "own": "13.9%",
+   "own": "14.3%",
    "goals": 0,
    "assists": 0
   },
@@ -822,34 +842,14 @@
    "assists": 3
   },
   {
-   "name": "Mailson",
-   "club": "التعاون",
-   "pos": "حارس المرمي",
-   "price": "5.2",
-   "pts": 50,
-   "own": "21.9%",
-   "goals": 0,
-   "assists": 0
-  },
-  {
    "name": "Retegui",
    "club": "القـادسيـة",
    "pos": "مهاجم",
    "price": "9.0",
    "pts": 49,
-   "own": "12.4%",
+   "own": "12.7%",
    "goals": 5,
    "assists": 1
-  },
-  {
-   "name": "Reijnders",
-   "club": "القـادسيـة",
-   "pos": "خط وسط",
-   "price": "7.1",
-   "pts": 49,
-   "own": "15.2%",
-   "goals": 4,
-   "assists": 0
   }
  ],
  "injuries": [
@@ -892,7 +892,7 @@
    "name": "Mendy",
    "club": "الأهلي",
    "status": "out",
-   "detail": "إصابة في الكتف - العودة المتوقغة: غير معروف",
+   "detail": "إصابة في الكتف - العودة المتوقعة: غير معروف",
    "back": "0% جاهزية"
   },
   {
@@ -987,6 +987,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Al Bulayhi",
+   "club": "الشباب",
+   "status": "ban",
+   "detail": "موقوف حتى 17 أوكتوبر",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "M. Al Dawsari",
    "club": "أبها",
    "status": "doubt",
@@ -1022,7 +1029,7 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Ibañez",
+   "name": "S. Al Shamat",
    "club": "الأهلي",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1127,7 +1134,7 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Mensah",
+   "name": "H. Majrashi",
    "club": "الرياض",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1157,6 +1164,13 @@
   {
    "name": "Y. Al Mozairib",
    "club": "الفيصلي",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Al Elewa",
+   "club": "القـادسيـة",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -1800,8 +1814,8 @@
   },
   {
    "date": "الجولة 8",
-   "title": "متوسط النقاط 67 وأعلى نتيجة 140",
-   "body": "تصدّر دورينا «العالمي 777» بـ 730 نقطة."
+   "title": "متوسط النقاط 76 وأعلى نتيجة 142",
+   "body": "تصدّر دورينا «العالمي 777» بـ 729 نقطة."
   },
   {
    "date": "الجولة 8",
@@ -1817,6 +1831,11 @@
    "date": "إصابات",
    "title": "19 لاعباً خارج الحسابات بالإصابة",
    "body": "Rosier (أبها)، Diallo (أبها)، H. Al Ghamdi (الاتحاد)، Kadish (الاتحاد)، R. Fernandes (الاتحاد)، Mendy (الأهلي)."
+  },
+  {
+   "date": "إيقافات",
+   "title": "1 لاعبين موقوفين",
+   "body": "Al Bulayhi (الشباب)."
   }
  ]
 }
