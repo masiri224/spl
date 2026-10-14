@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 8,
- "updated": "14‏/10‏/2026، 1:28 ص",
+ "updated": "14‏/10‏/2026، 7:20 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-15T13:35:00Z",
  "standings": [
@@ -241,9 +241,9 @@
    "name": "Retegui",
    "club": "القـادسيـة",
    "pos": "مهاجم",
-   "price": "9.0",
+   "price": "9.1",
    "pts": 49,
-   "own": "12.7%",
+   "own": "12.8%",
    "goals": 5,
    "assists": 1
   },
@@ -331,7 +331,7 @@
    "name": "Martinelli",
    "club": "الهلال",
    "pos": "خط وسط",
-   "price": "8.5",
+   "price": "8.6",
    "pts": 32,
    "own": "5.2%",
    "goals": 4,
@@ -363,7 +363,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 70,
-   "own": "41.0%",
+   "own": "40.9%",
    "goals": 3,
    "assists": 6
   },
@@ -381,7 +381,7 @@
    "name": "Ângelo",
    "club": "النصر",
    "pos": "خط وسط",
-   "price": "6.5",
+   "price": "6.4",
    "pts": 55,
    "own": "32.6%",
    "goals": 3,
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 70,
-   "own": "41.0%",
+   "own": "40.9%",
    "goals": 3,
    "assists": 6
   },
@@ -553,7 +553,7 @@
    "name": "Ângelo",
    "club": "النصر",
    "pos": "خط وسط",
-   "price": "6.5",
+   "price": "6.4",
    "pts": 55,
    "own": "32.6%",
    "goals": 3,
@@ -585,7 +585,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 47,
-   "own": "3.9%",
+   "own": "4.0%",
    "goals": 1,
    "assists": 3
   },
@@ -687,7 +687,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 70,
-   "own": "41.0%",
+   "own": "40.9%",
    "goals": 3,
    "assists": 6
   },
@@ -765,7 +765,7 @@
    "name": "Ângelo",
    "club": "النصر",
    "pos": "خط وسط",
-   "price": "6.5",
+   "price": "6.4",
    "pts": 55,
    "own": "32.6%",
    "goals": 3,
@@ -827,7 +827,7 @@
    "pos": "مدافع",
    "price": "5.2",
    "pts": 51,
-   "own": "14.3%",
+   "own": "14.4%",
    "goals": 0,
    "assists": 0
   },
@@ -845,9 +845,9 @@
    "name": "Retegui",
    "club": "القـادسيـة",
    "pos": "مهاجم",
-   "price": "9.0",
+   "price": "9.1",
    "pts": 49,
-   "own": "12.7%",
+   "own": "12.8%",
    "goals": 5,
    "assists": 1
   }
