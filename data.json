@@ -1,9 +1,9 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
- "gameweek": 8,
- "updated": "15‏/10‏/2026، 2:09 م",
+ "gameweek": 9,
+ "updated": "15‏/10‏/2026، 7:40 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
- "deadline": "2026-10-15T13:35:00Z",
+ "deadline": "2026-10-18T17:55:00Z",
  "standings": [
   {
    "entry": 19143,
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 74,
-   "total": 729
+   "gw": 10,
+   "total": 719
   },
   {
    "entry": 51585,
@@ -20,7 +20,7 @@
    "lastRank": 2,
    "team": "R3D",
    "manager": "Osama S",
-   "gw": 91,
+   "gw": 0,
    "total": 679
   },
   {
@@ -29,79 +29,79 @@
    "lastRank": 3,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 68,
-   "total": 620
-  },
-  {
-   "entry": 56753,
-   "rank": 4,
-   "lastRank": 6,
-   "team": "Homoud city",
-   "manager": "Abu Abra",
-   "gw": 93,
-   "total": 611
+   "gw": 1,
+   "total": 621
   },
   {
    "entry": 23288,
-   "rank": 5,
-   "lastRank": 4,
+   "rank": 4,
+   "lastRank": 5,
    "team": "الصقر13",
    "manager": "Abu Riyad AS",
-   "gw": 75,
-   "total": 605
+   "gw": 10,
+   "total": 611
+  },
+  {
+   "entry": 56753,
+   "rank": 5,
+   "lastRank": 4,
+   "team": "Homoud city",
+   "manager": "Abu Abra",
+   "gw": 5,
+   "total": 604
   },
   {
    "entry": 40539,
    "rank": 6,
-   "lastRank": 5,
+   "lastRank": 6,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 74,
+   "gw": 0,
    "total": 599
   },
   {
    "entry": 22969,
    "rank": 7,
-   "lastRank": 9,
+   "lastRank": 7,
    "team": "Ten Persons",
    "manager": "Mohammed Alsanbaqi",
-   "gw": 92,
+   "gw": 0,
    "total": 565
   },
   {
    "entry": 21367,
    "rank": 8,
-   "lastRank": 7,
+   "lastRank": 8,
    "team": "Heroes",
    "manager": "Saeed Heroes",
-   "gw": 70,
+   "gw": 0,
+   "total": 559
+  },
+  {
+   "entry": 24756,
+   "rank": 9,
+   "lastRank": 10,
+   "team": "فارس نجد",
+   "manager": "أبو محمد .",
+   "gw": 8,
    "total": 559
   },
   {
    "entry": 15463,
-   "rank": 9,
-   "lastRank": 11,
+   "rank": 10,
+   "lastRank": 9,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 87,
+   "gw": 0,
    "total": 555
-  },
-  {
-   "entry": 24756,
-   "rank": 10,
-   "lastRank": 8,
-   "team": "فارس نجد",
-   "manager": "أبو محمد .",
-   "gw": 73,
-   "total": 551
   },
   {
    "entry": 13303,
    "rank": 11,
-   "lastRank": 10,
+   "lastRank": 11,
    "team": "وائل العسيري",
    "manager": "وائل العسيري",
-   "gw": 71,
+   "gw": 0,
    "total": 543
   },
   {
@@ -110,79 +110,79 @@
    "lastRank": 12,
    "team": "☝️السعاطير☠️",
    "manager": "MOHAMMED ASLRL",
-   "gw": 98,
+   "gw": 0,
    "total": 531
   },
   {
-   "entry": 15447,
-   "rank": 13,
-   "lastRank": 13,
-   "team": "Sharahili",
-   "manager": "Sharahili Sharahili",
-   "gw": 86,
-   "total": 511
-  },
-  {
    "entry": 52745,
-   "rank": 14,
+   "rank": 13,
    "lastRank": 14,
    "team": "Avengers",
    "manager": "Turki Mohammed",
-   "gw": 85,
+   "gw": 0,
    "total": 509
   },
   {
    "entry": 12525,
-   "rank": 15,
+   "rank": 14,
    "lastRank": 15,
    "team": "Anas ball",
    "manager": "Yahya Asiri",
-   "gw": 86,
-   "total": 506
+   "gw": 1,
+   "total": 507
+  },
+  {
+   "entry": 15447,
+   "rank": 15,
+   "lastRank": 13,
+   "team": "Sharahili",
+   "manager": "Sharahili Sharahili",
+   "gw": 0,
+   "total": 495
   },
   {
    "entry": 85456,
    "rank": 16,
-   "lastRank": 17,
+   "lastRank": 16,
    "team": "المونديالي ✨",
    "manager": "احنا الملوك ASLRL",
-   "gw": 75,
+   "gw": 0,
    "total": 465
   },
   {
-   "entry": 45075,
-   "rank": 17,
-   "lastRank": 16,
-   "team": "العائدون من الموت",
-   "manager": "علي زايد",
-   "gw": 49,
-   "total": 454
-  },
-  {
    "entry": 16508,
-   "rank": 18,
-   "lastRank": 19,
+   "rank": 17,
+   "lastRank": 18,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 69,
-   "total": 452
-  },
-  {
-   "entry": 28276,
-   "rank": 19,
-   "lastRank": 18,
-   "team": "Rayan FC",
-   "manager": "rayan Sap",
-   "gw": 64,
-   "total": 449
+   "gw": 8,
+   "total": 460
   },
   {
    "entry": 12580,
-   "rank": 20,
+   "rank": 18,
    "lastRank": 20,
    "team": "الساطي",
    "manager": "hasan asiri",
-   "gw": 75,
+   "gw": 7,
+   "total": 456
+  },
+  {
+   "entry": 45075,
+   "rank": 19,
+   "lastRank": 17,
+   "team": "العائدون من الموت",
+   "manager": "علي زايد",
+   "gw": 0,
+   "total": 454
+  },
+  {
+   "entry": 28276,
+   "rank": 20,
+   "lastRank": 19,
+   "team": "Rayan FC",
+   "manager": "rayan Sap",
+   "gw": 0,
    "total": 449
   },
   {
@@ -191,8 +191,8 @@
    "lastRank": 21,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 69,
-   "total": 426
+   "gw": 1,
+   "total": 427
   }
  ],
  "newEntries": [],
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "51.3%",
+   "own": "53.3%",
    "goals": 11,
    "assists": 2
   },
@@ -213,7 +213,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 60,
-   "own": "19.8%",
+   "own": "20.2%",
    "goals": 5,
    "assists": 3
   },
@@ -223,7 +223,7 @@
    "pos": "خط وسط",
    "price": "7.9",
    "pts": 59,
-   "own": "6.9%",
+   "own": "7.1%",
    "goals": 5,
    "assists": 2
   },
@@ -233,7 +233,7 @@
    "pos": "مهاجم",
    "price": "7.3",
    "pts": 57,
-   "own": "30.0%",
+   "own": "28.9%",
    "goals": 5,
    "assists": 1
   },
@@ -243,7 +243,7 @@
    "pos": "مهاجم",
    "price": "9.1",
    "pts": 49,
-   "own": "16.4%",
+   "own": "14.2%",
    "goals": 5,
    "assists": 1
   },
@@ -263,7 +263,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 59,
-   "own": "11.9%",
+   "own": "12.1%",
    "goals": 4,
    "assists": 1
   },
@@ -273,7 +273,7 @@
    "pos": "خط وسط",
    "price": "11.9",
    "pts": 57,
-   "own": "39.4%",
+   "own": "38.2%",
    "goals": 4,
    "assists": 4
   },
@@ -283,7 +283,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 53,
-   "own": "17.2%",
+   "own": "17.7%",
    "goals": 4,
    "assists": 4
   },
@@ -293,9 +293,19 @@
    "pos": "خط وسط",
    "price": "7.2",
    "pts": 49,
-   "own": "19.1%",
+   "own": "17.9%",
    "goals": 4,
    "assists": 0
+  },
+  {
+   "name": "Domingues",
+   "club": "الخلود",
+   "pos": "مهاجم",
+   "price": "6.2",
+   "pts": 48,
+   "own": "16.9%",
+   "goals": 4,
+   "assists": 2
   },
   {
    "name": "Ronaldo",
@@ -303,9 +313,19 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 47,
-   "own": "20.2%",
+   "own": "20.4%",
    "goals": 4,
    "assists": 0
+  },
+  {
+   "name": "A. Mendy",
+   "club": "الفيصلي",
+   "pos": "مهاجم",
+   "price": "5.4",
+   "pts": 42,
+   "own": "3.1%",
+   "goals": 4,
+   "assists": 1
   },
   {
    "name": "Ilenikhena",
@@ -313,7 +333,7 @@
    "pos": "مهاجم",
    "price": "5.0",
    "pts": 41,
-   "own": "29.8%",
+   "own": "30.8%",
    "goals": 4,
    "assists": 2
   },
@@ -322,8 +342,8 @@
    "club": "الخلود",
    "pos": "خط وسط",
    "price": "5.2",
-   "pts": 39,
-   "own": "7.8%",
+   "pts": 41,
+   "own": "8.2%",
    "goals": 4,
    "assists": 1
   },
@@ -333,7 +353,7 @@
    "pos": "خط وسط",
    "price": "8.6",
    "pts": 32,
-   "own": "4.7%",
+   "own": "4.9%",
    "goals": 4,
    "assists": 0
   },
@@ -343,7 +363,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 76,
-   "own": "35.5%",
+   "own": "36.5%",
    "goals": 3,
    "assists": 5
   },
@@ -353,7 +373,7 @@
    "pos": "مدافع",
    "price": "6.9",
    "pts": 76,
-   "own": "46.4%",
+   "own": "45.5%",
    "goals": 3,
    "assists": 4
   },
@@ -363,7 +383,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 70,
-   "own": "38.0%",
+   "own": "39.5%",
    "goals": 3,
    "assists": 6
   },
@@ -373,7 +393,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 56,
-   "own": "12.6%",
+   "own": "13.0%",
    "goals": 3,
    "assists": 2
   },
@@ -383,7 +403,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 55,
-   "own": "29.5%",
+   "own": "30.2%",
    "goals": 3,
    "assists": 3
   },
@@ -392,8 +412,8 @@
    "club": "الفيحاء",
    "pos": "خط وسط",
    "price": "5.6",
-   "pts": 44,
-   "own": "4.8%",
+   "pts": 45,
+   "own": "4.5%",
    "goals": 3,
    "assists": 1
   },
@@ -404,16 +424,6 @@
    "price": "5.9",
    "pts": 44,
    "own": "3.8%",
-   "goals": 3,
-   "assists": 2
-  },
-  {
-   "name": "Domingues",
-   "club": "الخلود",
-   "pos": "مهاجم",
-   "price": "6.2",
-   "pts": 44,
-   "own": "16.8%",
    "goals": 3,
    "assists": 2
   },
@@ -436,16 +446,6 @@
    "own": "1.6%",
    "goals": 3,
    "assists": 0
-  },
-  {
-   "name": "Dembélé",
-   "club": "الاتفاق",
-   "pos": "مهاجم",
-   "price": "7.0",
-   "pts": 35,
-   "own": "24.3%",
-   "goals": 3,
-   "assists": 1
   }
  ],
  "assisters": [
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 70,
-   "own": "38.0%",
+   "own": "39.5%",
    "goals": 3,
    "assists": 6
   },
@@ -465,7 +465,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 76,
-   "own": "35.5%",
+   "own": "36.5%",
    "goals": 3,
    "assists": 5
   },
@@ -475,7 +475,7 @@
    "pos": "مدافع",
    "price": "6.9",
    "pts": 76,
-   "own": "46.4%",
+   "own": "45.5%",
    "goals": 3,
    "assists": 4
   },
@@ -485,7 +485,7 @@
    "pos": "خط وسط",
    "price": "6.3",
    "pts": 58,
-   "own": "20.8%",
+   "own": "20.0%",
    "goals": 2,
    "assists": 4
   },
@@ -495,7 +495,7 @@
    "pos": "خط وسط",
    "price": "11.9",
    "pts": 57,
-   "own": "39.4%",
+   "own": "38.2%",
    "goals": 4,
    "assists": 4
   },
@@ -505,7 +505,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 55,
-   "own": "9.8%",
+   "own": "10.0%",
    "goals": 2,
    "assists": 4
   },
@@ -515,7 +515,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 53,
-   "own": "17.2%",
+   "own": "17.7%",
    "goals": 4,
    "assists": 4
   },
@@ -535,7 +535,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 43,
-   "own": "34.8%",
+   "own": "35.2%",
    "goals": 2,
    "assists": 4
   },
@@ -545,7 +545,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 60,
-   "own": "19.8%",
+   "own": "20.2%",
    "goals": 5,
    "assists": 3
   },
@@ -555,7 +555,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 55,
-   "own": "29.5%",
+   "own": "30.2%",
    "goals": 3,
    "assists": 3
   },
@@ -565,7 +565,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 51,
-   "own": "26.8%",
+   "own": "27.3%",
    "goals": 2,
    "assists": 3
   },
@@ -575,7 +575,7 @@
    "pos": "مدافع",
    "price": "5.2",
    "pts": 50,
-   "own": "24.0%",
+   "own": "25.1%",
    "goals": 0,
    "assists": 3
   },
@@ -585,7 +585,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 47,
-   "own": "6.0%",
+   "own": "4.3%",
    "goals": 1,
    "assists": 3
   },
@@ -595,7 +595,7 @@
    "pos": "مدافع",
    "price": "4.9",
    "pts": 34,
-   "own": "2.4%",
+   "own": "2.5%",
    "goals": 0,
    "assists": 3
   },
@@ -604,8 +604,8 @@
    "club": "الخلود",
    "pos": "خط وسط",
    "price": "5.0",
-   "pts": 29,
-   "own": "1.0%",
+   "pts": 32,
+   "own": "1.1%",
    "goals": 0,
    "assists": 3
   },
@@ -615,7 +615,7 @@
    "pos": "خط وسط",
    "price": "4.5",
    "pts": 23,
-   "own": "0.8%",
+   "own": "0.7%",
    "goals": 1,
    "assists": 3
   },
@@ -635,7 +635,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "51.3%",
+   "own": "53.3%",
    "goals": 11,
    "assists": 2
   },
@@ -645,7 +645,7 @@
    "pos": "خط وسط",
    "price": "7.9",
    "pts": 59,
-   "own": "6.9%",
+   "own": "7.1%",
    "goals": 5,
    "assists": 2
   }
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "51.3%",
+   "own": "53.3%",
    "goals": 11,
    "assists": 2
   },
@@ -667,7 +667,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 76,
-   "own": "35.5%",
+   "own": "36.5%",
    "goals": 3,
    "assists": 5
   },
@@ -677,7 +677,7 @@
    "pos": "مدافع",
    "price": "6.9",
    "pts": 76,
-   "own": "46.4%",
+   "own": "45.5%",
    "goals": 3,
    "assists": 4
   },
@@ -687,7 +687,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 70,
-   "own": "38.0%",
+   "own": "39.5%",
    "goals": 3,
    "assists": 6
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 60,
-   "own": "19.8%",
+   "own": "20.2%",
    "goals": 5,
    "assists": 3
   },
@@ -707,7 +707,7 @@
    "pos": "خط وسط",
    "price": "7.9",
    "pts": 59,
-   "own": "6.9%",
+   "own": "7.1%",
    "goals": 5,
    "assists": 2
   },
@@ -717,7 +717,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 59,
-   "own": "11.9%",
+   "own": "12.1%",
    "goals": 4,
    "assists": 1
   },
@@ -727,7 +727,7 @@
    "pos": "خط وسط",
    "price": "6.3",
    "pts": 58,
-   "own": "20.8%",
+   "own": "20.0%",
    "goals": 2,
    "assists": 4
   },
@@ -737,7 +737,7 @@
    "pos": "خط وسط",
    "price": "11.9",
    "pts": 57,
-   "own": "39.4%",
+   "own": "38.2%",
    "goals": 4,
    "assists": 4
   },
@@ -747,7 +747,7 @@
    "pos": "مهاجم",
    "price": "7.3",
    "pts": 57,
-   "own": "30.0%",
+   "own": "28.9%",
    "goals": 5,
    "assists": 1
   },
@@ -757,7 +757,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 56,
-   "own": "12.6%",
+   "own": "13.0%",
    "goals": 3,
    "assists": 2
   },
@@ -767,7 +767,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 55,
-   "own": "29.5%",
+   "own": "30.2%",
    "goals": 3,
    "assists": 3
   },
@@ -777,7 +777,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 55,
-   "own": "9.8%",
+   "own": "10.0%",
    "goals": 2,
    "assists": 4
   },
@@ -787,7 +787,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 53,
-   "own": "17.2%",
+   "own": "17.7%",
    "goals": 4,
    "assists": 4
   },
@@ -797,7 +797,7 @@
    "pos": "مدافع",
    "price": "5.7",
    "pts": 53,
-   "own": "43.5%",
+   "own": "41.8%",
    "goals": 0,
    "assists": 1
   },
@@ -807,7 +807,7 @@
    "pos": "خط وسط",
    "price": "7.1",
    "pts": 51,
-   "own": "26.8%",
+   "own": "27.3%",
    "goals": 2,
    "assists": 3
   },
@@ -817,7 +817,7 @@
    "pos": "حارس المرمي",
    "price": "5.2",
    "pts": 51,
-   "own": "22.2%",
+   "own": "22.1%",
    "goals": 0,
    "assists": 0
   },
@@ -827,7 +827,7 @@
    "pos": "مدافع",
    "price": "5.3",
    "pts": 51,
-   "own": "16.7%",
+   "own": "15.6%",
    "goals": 0,
    "assists": 0
   },
@@ -837,7 +837,7 @@
    "pos": "مدافع",
    "price": "5.2",
    "pts": 50,
-   "own": "24.0%",
+   "own": "25.1%",
    "goals": 0,
    "assists": 3
   },
@@ -847,7 +847,7 @@
    "pos": "مهاجم",
    "price": "9.1",
    "pts": 49,
-   "own": "16.4%",
+   "own": "14.2%",
    "goals": 5,
    "assists": 1
   }
@@ -868,10 +868,227 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Hazazi",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Rashidi",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Y. Al Jaber",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Hazazi",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Bishri",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "N. Al Jadaani",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "R. Fernandes",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Doumbia",
+   "club": "الاتحاد",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Maghfoury",
+   "club": "الاتفاق",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Nabza",
+   "club": "الاتفاق",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Musallam",
+   "club": "الاتفاق",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "J. Al Salem",
+   "club": "الاتفاق",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Essa",
+   "club": "الاتفاق",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "M. Al Kadi",
+   "club": "الاتفاق",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Abdullah",
+   "club": "الاتفاق",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Bello",
+   "club": "الأهلي",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Salami",
+   "club": "الأهلي",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Refai",
+   "club": "الأهلي",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Al Ghamdi",
+   "club": "التعاون",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Al Arini",
    "club": "التعاون",
    "status": "out",
    "detail": "إصابة في الرباط الصليبي - العودة المتوقعة : منتصف يونيو",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "B. Al Hamad",
+   "club": "التعاون",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Oumarou",
+   "club": "الحزم",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Begheel",
+   "club": "الحزم",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Asiri",
+   "club": "الحزم",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "R. Al Sharekh",
+   "club": "الحزم",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Awaji",
+   "club": "الحزم",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Darwish",
+   "club": "الحزم",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Subaie",
+   "club": "الحزم",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "R. Al Mutairi",
+   "club": "الخلود",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Al Harbi",
+   "club": "الخلود",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Al Otaibi",
+   "club": "الخلود",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Mosawa",
+   "club": "الخلود",
+   "status": "out",
+   "detail": "غير مقيّد",
    "back": "0% جاهزية"
   },
   {
@@ -882,8 +1099,176 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Al Khathami",
+   "club": "الخليج",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Kaabi",
+   "club": "الخليج",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Al Ammar",
+   "club": "الخليج",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Z. Al Qahtani",
+   "club": "الدرعية",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Laborde",
    "club": "الدرعية",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "F. Al Mutairi",
+   "club": "الدرعية",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Obaid",
+   "club": "الدرعية",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Tarmin",
+   "club": "الرياض",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Abu Khalifa",
+   "club": "الرياض",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Y. Al Shehri",
+   "club": "الرياض",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "N. Al Bishi",
+   "club": "الرياض",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Sackey",
+   "club": "الرياض",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "N. Hawsawi",
+   "club": "الرياض",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Shubili",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Harboush",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Haraj",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Mishal Saad",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Daghar",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "N. Al Bishi",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Sadi",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Jaman",
+   "club": "الشباب",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Hudaybi",
+   "club": "الفتح",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Dabbas",
+   "club": "الفتح",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Aklabi",
+   "club": "الفيحاء",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Nakhli",
+   "club": "الفيحاء",
    "status": "out",
    "detail": "غير مقيّد",
    "back": "0% جاهزية"
@@ -903,6 +1288,34 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Issa",
+   "club": "الفيصلي",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Muhaimeed",
+   "club": "الفيصلي",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Oqil",
+   "club": "الفيصلي",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Idris",
+   "club": "الفيصلي",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "W. Al Ahmed",
    "club": "القـادسيـة",
    "status": "out",
@@ -917,10 +1330,87 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "M. Al Shammari",
+   "club": "القـادسيـة",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Al Mutairi",
+   "club": "القـادسيـة",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "R. Al Najjar",
    "club": "النصر",
    "status": "out",
    "detail": "إصابة في الرباط الصليبي - العودة المتوقعة : غير معروف",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Buainain",
+   "club": "النصر",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Hawsawi",
+   "club": "النصر",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "A. Al Ghamdi",
+   "club": "الهلال",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Mahdawi",
+   "club": "الهلال",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Muhaysh",
+   "club": "الهلال",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Ghamdi",
+   "club": "الهلال",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "S. Barnawi",
+   "club": "الهلال",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "S. Harun",
+   "club": "الهلال",
+   "status": "out",
+   "detail": "غير مقيّد",
+   "back": "0% جاهزية"
+  },
+  {
+   "name": "Al Ghamil",
+   "club": "الهلال",
+   "status": "out",
+   "detail": "غير مقيّد",
    "back": "0% جاهزية"
   },
   {
@@ -952,13 +1442,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Hazazi",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "O. Al Mermesh",
    "club": "الاتحاد",
    "status": "doubt",
@@ -967,27 +1450,6 @@
   },
   {
    "name": "Barnawi",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Al Rashidi",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Y. Al Jaber",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "A. Hazazi",
    "club": "الاتحاد",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -1036,21 +1498,7 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Bishri",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "M. Al Sahafi",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "N. Al Jadaani",
    "club": "الاتحاد",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -1113,21 +1561,7 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "R. Fernandes",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Faris Abdi",
-   "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Doumbia",
    "club": "الاتحاد",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -1316,13 +1750,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Bello",
-   "club": "الأهلي",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Azzam",
    "club": "الأهلي",
    "status": "doubt",
@@ -1365,13 +1792,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Salami",
-   "club": "الأهلي",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "S. Abdullah",
    "club": "الأهلي",
    "status": "doubt",
@@ -1394,13 +1814,6 @@
   },
   {
    "name": "Moussa",
-   "club": "الأهلي",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Al Refai",
    "club": "الأهلي",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -1463,48 +1876,6 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Al Dakheel",
-   "club": "الحزم",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Oumarou",
-   "club": "الحزم",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "A. Al Shamrani",
-   "club": "الحزم",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "R. Solan",
-   "club": "الخلود",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "A. Al Harbi",
-   "club": "الخلود",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Pinas",
-   "club": "الخلود",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
    "name": "Utkus",
    "club": "الخلود",
    "status": "doubt",
@@ -1554,20 +1925,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Tarmin",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Abu Khalifa",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Petek",
    "club": "الرياض",
    "status": "doubt",
@@ -1610,13 +1967,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Y. Al Shehri",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Bahri",
    "club": "الرياض",
    "status": "doubt",
@@ -1638,21 +1988,7 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "N. Al Bishi",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Al Matar",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Sackey",
    "club": "الرياض",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -1702,13 +2038,6 @@
   },
   {
    "name": "B. Al Harthi",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "N. Hawsawi",
    "club": "الرياض",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -1813,13 +2142,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Shubili",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Barry",
    "club": "الشباب",
    "status": "doubt",
@@ -1827,28 +2149,7 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Harboush",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Haraj",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Olwani",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Mishal Saad",
    "club": "الشباب",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -1897,13 +2198,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Daghar",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Al Nashri",
    "club": "الشباب",
    "status": "doubt",
@@ -1918,28 +2212,7 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "N. Al Bishi",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Matuq",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Al Sadi",
-   "club": "الشباب",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Jaman",
    "club": "الشباب",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -2074,20 +2347,6 @@
   {
    "name": "Sorriso",
    "club": "الفتح",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Issa",
-   "club": "الفيصلي",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Al Mogren",
-   "club": "الفيصلي",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -2324,20 +2583,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Buainain",
-   "club": "النصر",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "A. Hawsawi",
-   "club": "النصر",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Samu",
    "club": "النصر",
    "status": "doubt",
@@ -2352,13 +2597,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "A. Al Ghamdi",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Sufuq",
    "club": "الهلال",
    "status": "doubt",
@@ -2367,13 +2605,6 @@
   },
   {
    "name": "A. Lajami",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Al Mahdawi",
    "club": "الهلال",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -2457,13 +2688,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Muhaysh",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "M. Al Harbi",
    "club": "الهلال",
    "status": "doubt",
@@ -2499,13 +2723,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Ghamdi",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Neves",
    "club": "الهلال",
    "status": "doubt",
@@ -2534,21 +2751,7 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "S. Barnawi",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Salem",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "S. Harun",
    "club": "الهلال",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -2577,13 +2780,6 @@
   },
   {
    "name": "T. Hernandez",
-   "club": "الهلال",
-   "status": "doubt",
-   "detail": "المباراة مؤجلة",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Al Ghamil",
    "club": "الهلال",
    "status": "doubt",
    "detail": "المباراة مؤجلة",
@@ -3194,29 +3390,29 @@
  ],
  "news": [
   {
-   "date": "الجولة 9",
-   "title": "الموعد النهائي: الخميس، 15 أكتوبر 2026 في 4:35 م",
+   "date": "الجولة 10",
+   "title": "الموعد النهائي: الأحد، 18 أكتوبر 2026 في 8:55 م",
    "body": "آخر فرصة للانتقالات وتغيير القائد قبل انطلاق الجولة."
   },
   {
-   "date": "الجولة 8",
-   "title": "متوسط النقاط 76 وأعلى نتيجة 142",
-   "body": "تصدّر دورينا «العالمي 777» بـ 729 نقطة."
+   "date": "الجولة 9",
+   "title": "متوسط النقاط 3 وأعلى نتيجة 73",
+   "body": "تصدّر دورينا «العالمي 777» بـ 719 نقطة."
   },
   {
-   "date": "الجولة 8",
+   "date": "الجولة 9",
    "title": "Toney الأكثر اختياراً كقائد",
    "body": "شارة القيادة ذهبت إليه أكثر من أي لاعب آخر هذه الجولة."
   },
   {
    "date": "سوق الانتقالات",
-   "title": "Ilenikhena الأكثر شراءً",
+   "title": "Reijnders الأكثر شراءً",
    "body": "أكثر لاعب دخل فرق المشاركين هذه الجولة."
   },
   {
    "date": "إصابات",
-   "title": "12 لاعباً خارج الحسابات بالإصابة",
-   "body": "Diallo (أبها)، Al Sayyali (أبها)، Al Arini (التعاون)، Enrique (الخلود)، Laborde (الدرعية)، A. Al Khaibari (الفيحاء)."
+   "title": "82 لاعباً خارج الحسابات بالإصابة",
+   "body": "Diallo (أبها)، Al Sayyali (أبها)، Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)، A. Hazazi (الاتحاد)."
   }
  ]
 }
