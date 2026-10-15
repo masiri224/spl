@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 9,
- "updated": "15‏/10‏/2026، 7:40 م",
+ "updated": "16‏/10‏/2026، 12:09 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-18T17:55:00Z",
  "standings": [
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 10,
-   "total": 719
+   "gw": 11,
+   "total": 720
   },
   {
    "entry": 51585,
@@ -29,8 +29,8 @@
    "lastRank": 3,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 1,
-   "total": 621
+   "gw": 2,
+   "total": 622
   },
   {
    "entry": 23288,
@@ -38,8 +38,8 @@
    "lastRank": 5,
    "team": "الصقر13",
    "manager": "Abu Riyad AS",
-   "gw": 10,
-   "total": 611
+   "gw": 16,
+   "total": 617
   },
   {
    "entry": 56753,
@@ -69,21 +69,21 @@
    "total": 565
   },
   {
-   "entry": 21367,
+   "entry": 24756,
    "rank": 8,
+   "lastRank": 10,
+   "team": "فارس نجد",
+   "manager": "أبو محمد .",
+   "gw": 10,
+   "total": 561
+  },
+  {
+   "entry": 21367,
+   "rank": 9,
    "lastRank": 8,
    "team": "Heroes",
    "manager": "Saeed Heroes",
    "gw": 0,
-   "total": 559
-  },
-  {
-   "entry": 24756,
-   "rank": 9,
-   "lastRank": 10,
-   "team": "فارس نجد",
-   "manager": "أبو محمد .",
-   "gw": 8,
    "total": 559
   },
   {
@@ -155,8 +155,8 @@
    "lastRank": 18,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 8,
-   "total": 460
+   "gw": 11,
+   "total": 463
   },
   {
    "entry": 12580,
@@ -191,8 +191,8 @@
    "lastRank": 21,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 1,
-   "total": 427
+   "gw": 5,
+   "total": 431
   }
  ],
  "newEntries": [],
@@ -283,7 +283,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 53,
-   "own": "17.7%",
+   "own": "17.8%",
    "goals": 4,
    "assists": 4
   },
@@ -413,7 +413,7 @@
    "pos": "خط وسط",
    "price": "5.6",
    "pts": 45,
-   "own": "4.5%",
+   "own": "4.4%",
    "goals": 3,
    "assists": 1
   },
@@ -515,7 +515,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 53,
-   "own": "17.7%",
+   "own": "17.8%",
    "goals": 4,
    "assists": 4
   },
@@ -580,6 +580,16 @@
    "assists": 3
   },
   {
+   "name": "Batna",
+   "club": "الفتح",
+   "pos": "خط وسط",
+   "price": "7.4",
+   "pts": 48,
+   "own": "6.2%",
+   "goals": 2,
+   "assists": 3
+  },
+  {
    "name": "Bonsu Baah",
    "club": "القـادسيـة",
    "pos": "خط وسط",
@@ -637,16 +647,6 @@
    "pts": 90,
    "own": "53.3%",
    "goals": 11,
-   "assists": 2
-  },
-  {
-   "name": "Trincao",
-   "club": "الأهلي",
-   "pos": "خط وسط",
-   "price": "7.9",
-   "pts": 59,
-   "own": "7.1%",
-   "goals": 5,
    "assists": 2
   }
  ],
@@ -787,7 +787,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 53,
-   "own": "17.7%",
+   "own": "17.8%",
    "goals": 4,
    "assists": 4
   },
@@ -3396,8 +3396,8 @@
   },
   {
    "date": "الجولة 9",
-   "title": "متوسط النقاط 3 وأعلى نتيجة 73",
-   "body": "تصدّر دورينا «العالمي 777» بـ 719 نقطة."
+   "title": "متوسط النقاط 5 وأعلى نتيجة 77",
+   "body": "تصدّر دورينا «العالمي 777» بـ 720 نقطة."
   },
   {
    "date": "الجولة 9",
