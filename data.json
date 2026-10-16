@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 9,
- "updated": "16‏/10‏/2026، 6:58 ص",
+ "updated": "16‏/10‏/2026، 2:04 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-18T17:55:00Z",
  "standings": [
@@ -585,7 +585,7 @@
    "pos": "خط وسط",
    "price": "7.4",
    "pts": 48,
-   "own": "6.2%",
+   "own": "6.3%",
    "goals": 2,
    "assists": 3
   },
@@ -1428,6 +1428,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Boateng",
+   "club": "الفتح",
+   "status": "ban",
+   "detail": "موقوف حتى 19 أوكتوبر",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Mukhtar",
    "club": "الاتحاد",
    "status": "doubt",
@@ -1876,6 +1883,27 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Al Duwaihi",
+   "club": "الحزم",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "A. Al Harbi",
+   "club": "الحزم",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Al Shanqeeti",
+   "club": "الخلود",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Utkus",
    "club": "الخلود",
    "status": "doubt",
@@ -1905,6 +1933,13 @@
   },
   {
    "name": "Welson Diogo",
+   "club": "الخليج",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "F. Al Rashidi",
    "club": "الخليج",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -2347,6 +2382,13 @@
   {
    "name": "Sorriso",
    "club": "الفتح",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Lázaro",
+   "club": "الفيحاء",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -3413,6 +3455,11 @@
    "date": "إصابات",
    "title": "82 لاعباً خارج الحسابات بالإصابة",
    "body": "Diallo (أبها)، Al Sayyali (أبها)، Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)، A. Hazazi (الاتحاد)."
+  },
+  {
+   "date": "إيقافات",
+   "title": "1 لاعبين موقوفين",
+   "body": "Boateng (الفتح)."
   }
  ]
 }
