@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 9,
- "updated": "17‏/10‏/2026، 6:49 ص",
+ "updated": "17‏/10‏/2026، 1:24 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-18T17:55:00Z",
  "standings": [
@@ -1435,6 +1435,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "K. Al Shamrani",
+   "club": "أبها",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Mukhtar",
    "club": "الاتحاد",
    "status": "doubt",
@@ -2401,7 +2408,21 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Retegui",
+   "club": "القـادسيـة",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Al Elewa",
+   "club": "القـادسيـة",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Diabate",
    "club": "القـادسيـة",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
