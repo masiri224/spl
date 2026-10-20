@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 10,
- "updated": "20‏/10‏/2026، 3:09 ص",
+ "updated": "20‏/10‏/2026، 11:20 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-22T13:35:00Z",
  "standings": [
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 26,
-   "total": 778
+   "gw": 25,
+   "total": 777
   },
   {
    "entry": 51585,
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "R3D",
    "manager": "Osama S",
-   "gw": 19,
-   "total": 706
+   "gw": 18,
+   "total": 705
   },
   {
    "entry": 14191,
@@ -38,8 +38,8 @@
    "lastRank": 4,
    "team": "الصقر13",
    "manager": "Abu Riyad AS",
-   "gw": 47,
-   "total": 686
+   "gw": 46,
+   "total": 685
   },
   {
    "entry": 56753,
@@ -56,8 +56,8 @@
    "lastRank": 6,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 18,
-   "total": 644
+   "gw": 17,
+   "total": 643
   },
   {
    "entry": 21367,
@@ -74,8 +74,8 @@
    "lastRank": 7,
    "team": "فارس نجد",
    "manager": "أبو محمد .",
-   "gw": 7,
-   "total": 614
+   "gw": 8,
+   "total": 615
   },
   {
    "entry": 22969,
@@ -92,8 +92,8 @@
    "lastRank": 10,
    "team": "Avengers",
    "manager": "Turki Mohammed",
-   "gw": 23,
-   "total": 603
+   "gw": 22,
+   "total": 602
   },
   {
    "entry": 13303,
@@ -101,8 +101,8 @@
    "lastRank": 12,
    "team": "وائل العسيري",
    "manager": "وائل العسيري",
-   "gw": 21,
-   "total": 586
+   "gw": 20,
+   "total": 585
   },
   {
    "entry": 15463,
@@ -191,8 +191,8 @@
    "lastRank": 21,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 10,
-   "total": 443
+   "gw": 9,
+   "total": 442
   }
  ],
  "newEntries": [],
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "47.5%",
+   "own": "47.3%",
    "goals": 11,
    "assists": 2
   },
@@ -223,7 +223,7 @@
    "pos": "خط وسط",
    "price": "8.0",
    "pts": 61,
-   "own": "9.8%",
+   "own": "9.9%",
    "goals": 5,
    "assists": 2
   },
@@ -273,7 +273,7 @@
    "pos": "خط وسط",
    "price": "8.6",
    "pts": 40,
-   "own": "6.2%",
+   "own": "6.3%",
    "goals": 5,
    "assists": 0
   },
@@ -281,7 +281,7 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.9",
+   "price": "7.0",
    "pts": 90,
    "own": "46.5%",
    "goals": 4,
@@ -343,7 +343,7 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 47,
-   "own": "22.0%",
+   "own": "22.1%",
    "goals": 4,
    "assists": 0
   },
@@ -353,7 +353,7 @@
    "pos": "مهاجم",
    "price": "5.0",
    "pts": 41,
-   "own": "31.5%",
+   "own": "31.6%",
    "goals": 4,
    "assists": 2
   },
@@ -373,7 +373,7 @@
    "pos": "خط وسط",
    "price": "5.3",
    "pts": 41,
-   "own": "6.7%",
+   "own": "6.6%",
    "goals": 4,
    "assists": 1
   },
@@ -382,7 +382,7 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.2",
-   "pts": 82,
+   "pts": 81,
    "own": "36.7%",
    "goals": 3,
    "assists": 5
@@ -393,7 +393,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 73,
-   "own": "40.6%",
+   "own": "40.5%",
    "goals": 3,
    "assists": 6
   },
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 64,
-   "own": "4.9%",
+   "own": "5.0%",
    "goals": 3,
    "assists": 2
   },
@@ -411,9 +411,9 @@
    "name": "A. Kone",
    "club": "نيوم",
    "pos": "خط وسط",
-   "price": "5.7",
+   "price": "5.6",
    "pts": 56,
-   "own": "12.0%",
+   "own": "11.9%",
    "goals": 3,
    "assists": 2
   },
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 73,
-   "own": "40.6%",
+   "own": "40.5%",
    "goals": 3,
    "assists": 6
   },
@@ -464,7 +464,7 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.2",
-   "pts": 82,
+   "pts": 81,
    "own": "36.7%",
    "goals": 3,
    "assists": 5
@@ -473,7 +473,7 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.9",
+   "price": "7.0",
    "pts": 90,
    "own": "46.5%",
    "goals": 4,
@@ -495,7 +495,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 58,
-   "own": "17.8%",
+   "own": "17.7%",
    "goals": 2,
    "assists": 4
   },
@@ -645,7 +645,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "47.5%",
+   "own": "47.3%",
    "goals": 11,
    "assists": 2
   }
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 90,
-   "own": "47.5%",
+   "own": "47.3%",
    "goals": 11,
    "assists": 2
   },
@@ -665,7 +665,7 @@
    "name": "M. Al Shamat",
    "club": "القـادسيـة",
    "pos": "مدافع",
-   "price": "6.9",
+   "price": "7.0",
    "pts": 90,
    "own": "46.5%",
    "goals": 4,
@@ -676,7 +676,7 @@
    "club": "الهلال",
    "pos": "خط وسط",
    "price": "9.2",
-   "pts": 82,
+   "pts": 81,
    "own": "36.7%",
    "goals": 3,
    "assists": 5
@@ -687,7 +687,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 73,
-   "own": "40.6%",
+   "own": "40.5%",
    "goals": 3,
    "assists": 6
   },
@@ -707,7 +707,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 64,
-   "own": "4.9%",
+   "own": "5.0%",
    "goals": 3,
    "assists": 2
   },
@@ -727,7 +727,7 @@
    "pos": "خط وسط",
    "price": "8.0",
    "pts": 61,
-   "own": "9.8%",
+   "own": "9.9%",
    "goals": 5,
    "assists": 2
   },
@@ -757,7 +757,7 @@
    "pos": "مدافع",
    "price": "4.6",
    "pts": 59,
-   "own": "6.4%",
+   "own": "6.5%",
    "goals": 1,
    "assists": 1
   },
@@ -767,7 +767,7 @@
    "pos": "خط وسط",
    "price": "6.2",
    "pts": 58,
-   "own": "17.8%",
+   "own": "17.7%",
    "goals": 2,
    "assists": 4
   },
@@ -835,9 +835,9 @@
    "name": "A. Kone",
    "club": "نيوم",
    "pos": "خط وسط",
-   "price": "5.7",
+   "price": "5.6",
    "pts": 56,
-   "own": "12.0%",
+   "own": "11.9%",
    "goals": 3,
    "assists": 2
   },
@@ -1470,13 +1470,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Al Bulayhi",
-   "club": "الشباب",
-   "status": "ban",
-   "detail": "موقوف حتى 20 أوكتوبر",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Rosier",
    "club": "أبها",
    "status": "doubt",
@@ -1730,6 +1723,13 @@
   },
   {
    "name": "Z. Hawsawi",
+   "club": "الأهلي",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Al Johani",
    "club": "الأهلي",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -2647,8 +2647,8 @@
   },
   {
    "date": "الجولة 10",
-   "title": "متوسط النقاط 20 وأعلى نتيجة 85",
-   "body": "تصدّر دورينا «العالمي 777» بـ 778 نقطة."
+   "title": "متوسط النقاط 19 وأعلى نتيجة 85",
+   "body": "تصدّر دورينا «العالمي 777» بـ 777 نقطة."
   },
   {
    "date": "الجولة 10",
@@ -2664,11 +2664,6 @@
    "date": "إصابات",
    "title": "88 لاعباً خارج الحسابات بالإصابة",
    "body": "Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)، A. Hazazi (الاتحاد)، H. Al Ghamdi (الاتحاد)، Al Bishri (الاتحاد)."
-  },
-  {
-   "date": "إيقافات",
-   "title": "1 لاعبين موقوفين",
-   "body": "Al Bulayhi (الشباب)."
   }
  ]
 }
