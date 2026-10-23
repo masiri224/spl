@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 11,
- "updated": "23‏/10‏/2026، 7:10 ص",
+ "updated": "23‏/10‏/2026، 2:19 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-10-27T12:35:00Z",
  "standings": [
@@ -233,7 +233,7 @@
    "pos": "خط وسط",
    "price": "7.3",
    "pts": 71,
-   "own": "21.1%",
+   "own": "21.2%",
    "goals": 5,
    "assists": 1
   },
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 69,
-   "own": "8.1%",
+   "own": "8.2%",
    "goals": 3,
    "assists": 2
   },
@@ -515,7 +515,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 60,
-   "own": "4.5%",
+   "own": "4.6%",
    "goals": 1,
    "assists": 4
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "7.3",
    "pts": 71,
-   "own": "21.1%",
+   "own": "21.2%",
    "goals": 5,
    "assists": 1
   },
@@ -707,7 +707,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 69,
-   "own": "8.1%",
+   "own": "8.2%",
    "goals": 3,
    "assists": 2
   },
@@ -817,7 +817,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 60,
-   "own": "4.5%",
+   "own": "4.6%",
    "goals": 1,
    "assists": 4
   },
@@ -1477,6 +1477,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Al Jari",
+   "club": "الفتح",
+   "status": "ban",
+   "detail": "موقوف حتى 1 نوفمبر",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Sharahili",
    "club": "الاتحاد",
    "status": "doubt",
@@ -1589,6 +1596,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "A. Al Harbi",
+   "club": "الحزم",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "S. Al Rashid",
    "club": "الحزم",
    "status": "doubt",
@@ -1631,7 +1645,28 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Podence",
+   "club": "الشباب",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Al Hammami",
+   "club": "الشباب",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Adli",
+   "club": "الشباب",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Carrasco",
    "club": "الشباب",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1646,6 +1681,13 @@
   },
   {
    "name": "A. Al Qahtani",
+   "club": "الفيحاء",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Bamasud",
    "club": "الفيحاء",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -2352,8 +2394,8 @@
   },
   {
    "date": "إيقافات",
-   "title": "1 لاعبين موقوفين",
-   "body": "Kante (الاتفاق)."
+   "title": "2 لاعبين موقوفين",
+   "body": "Kante (الاتفاق)، Al Jari (الفتح)."
   }
  ]
 }
