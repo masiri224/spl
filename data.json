@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 12,
- "updated": "27‏/10‏/2026، 6:14 م",
+ "updated": "28‏/10‏/2026، 12:59 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-11-05T13:20:00Z",
  "standings": [
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "47.6%",
+   "own": "47.7%",
    "goals": 13,
    "assists": 3
   },
@@ -273,7 +273,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 80,
-   "own": "11.8%",
+   "own": "11.9%",
    "goals": 5,
    "assists": 2
   },
@@ -303,7 +303,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 62,
-   "own": "20.6%",
+   "own": "20.5%",
    "goals": 5,
    "assists": 3
   },
@@ -423,7 +423,7 @@
    "pos": "خط وسط",
    "price": "5.6",
    "pts": 69,
-   "own": "9.8%",
+   "own": "9.9%",
    "goals": 3,
    "assists": 2
   },
@@ -615,7 +615,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "47.6%",
+   "own": "47.7%",
    "goals": 13,
    "assists": 3
   },
@@ -635,7 +635,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 62,
-   "own": "20.6%",
+   "own": "20.5%",
    "goals": 5,
    "assists": 3
   },
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "47.6%",
+   "own": "47.7%",
    "goals": 13,
    "assists": 3
   },
@@ -687,7 +687,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 80,
-   "own": "11.8%",
+   "own": "11.9%",
    "goals": 5,
    "assists": 2
   },
@@ -767,7 +767,7 @@
    "pos": "خط وسط",
    "price": "5.6",
    "pts": 69,
-   "own": "9.8%",
+   "own": "9.9%",
    "goals": 3,
    "assists": 2
   },
@@ -847,7 +847,7 @@
    "pos": "خط وسط",
    "price": "8.2",
    "pts": 62,
-   "own": "20.6%",
+   "own": "20.5%",
    "goals": 5,
    "assists": 3
   }
@@ -1513,6 +1513,27 @@
   },
   {
    "name": "Diallo",
+   "club": "أبها",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Nkoudou",
+   "club": "أبها",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Fekir",
+   "club": "أبها",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "K. Al Shamrani",
    "club": "أبها",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
