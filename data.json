@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 12,
- "updated": "30‏/10‏/2026، 3:41 ص",
+ "updated": "30‏/10‏/2026، 12:47 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-11-05T13:20:00Z",
  "standings": [
@@ -92,8 +92,8 @@
    "lastRank": 10,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 51,
-   "total": 752
+   "gw": 52,
+   "total": 753
   },
   {
    "entry": 52745,
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "48.2%",
+   "own": "48.3%",
    "goals": 13,
    "assists": 3
   },
@@ -211,9 +211,9 @@
    "name": "Reijnders",
    "club": "القـادسيـة",
    "pos": "خط وسط",
-   "price": "7.4",
+   "price": "7.5",
    "pts": 104,
-   "own": "25.0%",
+   "own": "25.3%",
    "goals": 8,
    "assists": 3
   },
@@ -223,7 +223,7 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 80,
-   "own": "22.3%",
+   "own": "22.4%",
    "goals": 8,
    "assists": 0
   },
@@ -283,7 +283,7 @@
    "pos": "مهاجم",
    "price": "6.2",
    "pts": 66,
-   "own": "12.1%",
+   "own": "12.2%",
    "goals": 6,
    "assists": 3
   },
@@ -323,7 +323,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 75,
-   "own": "30.2%",
+   "own": "30.3%",
    "goals": 5,
    "assists": 4
   },
@@ -373,7 +373,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 90,
-   "own": "37.8%",
+   "own": "37.7%",
    "goals": 4,
    "assists": 5
   },
@@ -383,7 +383,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 60,
-   "own": "25.8%",
+   "own": "25.7%",
    "goals": 4,
    "assists": 5
   },
@@ -413,7 +413,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 76,
-   "own": "38.8%",
+   "own": "38.7%",
    "goals": 3,
    "assists": 6
   },
@@ -423,7 +423,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 75,
-   "own": "37.5%",
+   "own": "37.6%",
    "goals": 3,
    "assists": 9
   },
@@ -433,7 +433,7 @@
    "pos": "خط وسط",
    "price": "5.6",
    "pts": 69,
-   "own": "10.2%",
+   "own": "10.3%",
    "goals": 3,
    "assists": 2
   },
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 75,
-   "own": "37.5%",
+   "own": "37.6%",
    "goals": 3,
    "assists": 9
   },
@@ -475,7 +475,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 76,
-   "own": "38.8%",
+   "own": "38.7%",
    "goals": 3,
    "assists": 6
   },
@@ -495,7 +495,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 90,
-   "own": "37.8%",
+   "own": "37.7%",
    "goals": 4,
    "assists": 5
   },
@@ -505,7 +505,7 @@
    "pos": "مهاجم",
    "price": "10.2",
    "pts": 60,
-   "own": "25.8%",
+   "own": "25.7%",
    "goals": 4,
    "assists": 5
   },
@@ -535,8 +535,18 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 75,
-   "own": "30.2%",
+   "own": "30.3%",
    "goals": 5,
+   "assists": 4
+  },
+  {
+   "name": "Bonsu Baah",
+   "club": "القـادسيـة",
+   "pos": "خط وسط",
+   "price": "6.5",
+   "pts": 66,
+   "own": "4.6%",
+   "goals": 1,
    "assists": 4
   },
   {
@@ -547,16 +557,6 @@
    "pts": 65,
    "own": "26.4%",
    "goals": 0,
-   "assists": 4
-  },
-  {
-   "name": "Bonsu Baah",
-   "club": "القـادسيـة",
-   "pos": "خط وسط",
-   "price": "6.5",
-   "pts": 65,
-   "own": "4.6%",
-   "goals": 1,
    "assists": 4
   },
   {
@@ -575,7 +575,7 @@
    "pos": "خط وسط",
    "price": "6.1",
    "pts": 58,
-   "own": "14.1%",
+   "own": "14.0%",
    "goals": 2,
    "assists": 4
   },
@@ -595,7 +595,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 55,
-   "own": "8.8%",
+   "own": "8.7%",
    "goals": 2,
    "assists": 4
   },
@@ -645,7 +645,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "48.2%",
+   "own": "48.3%",
    "goals": 13,
    "assists": 3
   }
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "48.2%",
+   "own": "48.3%",
    "goals": 13,
    "assists": 3
   },
@@ -675,9 +675,9 @@
    "name": "Reijnders",
    "club": "القـادسيـة",
    "pos": "خط وسط",
-   "price": "7.4",
+   "price": "7.5",
    "pts": 104,
-   "own": "25.0%",
+   "own": "25.3%",
    "goals": 8,
    "assists": 3
   },
@@ -687,7 +687,7 @@
    "pos": "خط وسط",
    "price": "9.2",
    "pts": 90,
-   "own": "37.8%",
+   "own": "37.7%",
    "goals": 4,
    "assists": 5
   },
@@ -717,7 +717,7 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 80,
-   "own": "22.3%",
+   "own": "22.4%",
    "goals": 8,
    "assists": 0
   },
@@ -727,7 +727,7 @@
    "pos": "خط وسط",
    "price": "8.7",
    "pts": 76,
-   "own": "38.8%",
+   "own": "38.7%",
    "goals": 3,
    "assists": 6
   },
@@ -747,7 +747,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 75,
-   "own": "37.5%",
+   "own": "37.6%",
    "goals": 3,
    "assists": 9
   },
@@ -757,7 +757,7 @@
    "pos": "خط وسط",
    "price": "6.4",
    "pts": 75,
-   "own": "30.2%",
+   "own": "30.3%",
    "goals": 5,
    "assists": 4
   },
@@ -777,7 +777,7 @@
    "pos": "مدافع",
    "price": "5.4",
    "pts": 71,
-   "own": "17.8%",
+   "own": "17.9%",
    "goals": 0,
    "assists": 0
   },
@@ -787,7 +787,7 @@
    "pos": "مدافع",
    "price": "4.7",
    "pts": 71,
-   "own": "11.3%",
+   "own": "11.4%",
    "goals": 1,
    "assists": 1
   },
@@ -807,7 +807,7 @@
    "pos": "خط وسط",
    "price": "5.6",
    "pts": 69,
-   "own": "10.2%",
+   "own": "10.3%",
    "goals": 3,
    "assists": 2
   },
@@ -817,7 +817,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 69,
-   "own": "7.8%",
+   "own": "7.9%",
    "goals": 0,
    "assists": 1
   },
@@ -832,24 +832,24 @@
    "assists": 6
   },
   {
+   "name": "Bonsu Baah",
+   "club": "القـادسيـة",
+   "pos": "خط وسط",
+   "price": "6.5",
+   "pts": 66,
+   "own": "4.6%",
+   "goals": 1,
+   "assists": 4
+  },
+  {
    "name": "Domingues",
    "club": "الخلود",
    "pos": "مهاجم",
    "price": "6.2",
    "pts": 66,
-   "own": "12.1%",
+   "own": "12.2%",
    "goals": 6,
    "assists": 3
-  },
-  {
-   "name": "Mahzari",
-   "club": "الهلال",
-   "pos": "مدافع",
-   "price": "5.2",
-   "pts": 65,
-   "own": "26.4%",
-   "goals": 0,
-   "assists": 4
   }
  ],
  "injuries": [
@@ -1484,6 +1484,13 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Ben Hamida",
+   "club": "الحزم",
+   "status": "ban",
+   "detail": "موقوف حتى 7 نوفمبر",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Benegas",
    "club": "الخليج",
    "status": "ban",
@@ -1502,13 +1509,6 @@
    "club": "الفتح",
    "status": "ban",
    "detail": "موقوف حتى 1 نوفمبر",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Samu",
-   "club": "النصر",
-   "status": "ban",
-   "detail": "موقوف حتى 30 أوكتوبر",
    "back": "0% جاهزية"
   },
   {
@@ -1659,8 +1659,22 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Pinas",
+   "club": "الخلود",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Utkus",
    "club": "الخلود",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Barrow",
+   "club": "الخليج",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -1681,6 +1695,13 @@
   },
   {
    "name": "M. Al Khaibari",
+   "club": "الرياض",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Lekhal",
    "club": "الرياض",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1744,6 +1765,13 @@
   },
   {
    "name": "Nacho",
+   "club": "القـادسيـة",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "J. Thakri",
    "club": "القـادسيـة",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -2402,7 +2430,7 @@
   {
    "date": "إيقافات",
    "title": "4 لاعبين موقوفين",
-   "body": "Benegas (الخليج)، Al Malki (الدرعية)، Al Jari (الفتح)، Samu (النصر)."
+   "body": "Ben Hamida (الحزم)، Benegas (الخليج)، Al Malki (الدرعية)، Al Jari (الفتح)."
   }
  ]
 }
