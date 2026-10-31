@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 12,
- "updated": "31‏/10‏/2026، 7:55 ص",
+ "updated": "31‏/10‏/2026، 2:57 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-11-05T13:20:00Z",
  "standings": [
@@ -63,7 +63,7 @@
    "entry": 22969,
    "rank": 7,
    "lastRank": 8,
-   "team": "Ten Persons",
+   "team": "Artifi Intelligence",
    "manager": "Mohammed Alsanbaqi",
    "gw": 84,
    "total": 808
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "48.3%",
+   "own": "48.2%",
    "goals": 13,
    "assists": 3
   },
@@ -213,7 +213,7 @@
    "pos": "خط وسط",
    "price": "7.5",
    "pts": 104,
-   "own": "26.1%",
+   "own": "26.2%",
    "goals": 8,
    "assists": 3
   },
@@ -223,7 +223,7 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 80,
-   "own": "22.6%",
+   "own": "22.7%",
    "goals": 8,
    "assists": 0
   },
@@ -263,7 +263,7 @@
    "pos": "خط وسط",
    "price": "12.0",
    "pts": 83,
-   "own": "34.7%",
+   "own": "34.6%",
    "goals": 6,
    "assists": 6
   },
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "7.3",
    "pts": 59,
-   "own": "10.6%",
+   "own": "10.7%",
    "goals": 4,
    "assists": 3
   },
@@ -413,7 +413,7 @@
    "pos": "خط وسط",
    "price": "5.5",
    "pts": 49,
-   "own": "1.4%",
+   "own": "1.5%",
    "goals": 4,
    "assists": 0
   },
@@ -423,7 +423,7 @@
    "pos": "مهاجم",
    "price": "4.3",
    "pts": 47,
-   "own": "1.8%",
+   "own": "1.9%",
    "goals": 4,
    "assists": 3
   },
@@ -433,7 +433,7 @@
    "pos": "خط وسط",
    "price": "5.3",
    "pts": 45,
-   "own": "5.5%",
+   "own": "5.4%",
    "goals": 4,
    "assists": 1
   },
@@ -455,7 +455,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 75,
-   "own": "37.7%",
+   "own": "37.8%",
    "goals": 3,
    "assists": 9
   },
@@ -465,7 +465,7 @@
    "pos": "خط وسط",
    "price": "12.0",
    "pts": 83,
-   "own": "34.7%",
+   "own": "34.6%",
    "goals": 6,
    "assists": 6
   },
@@ -645,7 +645,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "48.3%",
+   "own": "48.2%",
    "goals": 13,
    "assists": 3
   }
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.2",
    "pts": 109,
-   "own": "48.3%",
+   "own": "48.2%",
    "goals": 13,
    "assists": 3
   },
@@ -677,7 +677,7 @@
    "pos": "خط وسط",
    "price": "7.5",
    "pts": 104,
-   "own": "26.1%",
+   "own": "26.2%",
    "goals": 8,
    "assists": 3
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "12.0",
    "pts": 83,
-   "own": "34.7%",
+   "own": "34.6%",
    "goals": 6,
    "assists": 6
   },
@@ -717,7 +717,7 @@
    "pos": "مهاجم",
    "price": "12.5",
    "pts": 80,
-   "own": "22.6%",
+   "own": "22.7%",
    "goals": 8,
    "assists": 0
   },
@@ -747,7 +747,7 @@
    "pos": "مدافع",
    "price": "5.4",
    "pts": 78,
-   "own": "18.1%",
+   "own": "18.2%",
    "goals": 0,
    "assists": 0
   },
@@ -777,7 +777,7 @@
    "pos": "خط وسط",
    "price": "10.5",
    "pts": 75,
-   "own": "37.7%",
+   "own": "37.8%",
    "goals": 3,
    "assists": 9
   },
@@ -827,7 +827,7 @@
    "pos": "مدافع",
    "price": "5.1",
    "pts": 69,
-   "own": "8.0%",
+   "own": "8.1%",
    "goals": 0,
    "assists": 1
   },
@@ -1540,6 +1540,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Ríos",
+   "club": "الاتحاد",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Medrán",
    "club": "الاتفاق",
    "status": "doubt",
@@ -1575,6 +1582,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Toney",
+   "club": "الأهلي",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Mendy",
    "club": "الأهلي",
    "status": "doubt",
@@ -1604,6 +1618,13 @@
   },
   {
    "name": "Z. Hawsawi",
+   "club": "الأهلي",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Abdulrahman",
    "club": "الأهلي",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1689,6 +1710,13 @@
   {
    "name": "Lekhal",
    "club": "الرياض",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Jedvaj",
+   "club": "الشباب",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -1801,6 +1829,13 @@
   {
    "name": "Martinelli",
    "club": "الهلال",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "I. Hawsawi",
+   "club": "نيوم",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
