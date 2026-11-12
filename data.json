@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 12,
- "updated": "12‏/11‏/2026، 8:27 م",
+ "updated": "13‏/11‏/2026، 2:23 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-11-20T17:25:00Z",
  "standings": [
@@ -353,7 +353,7 @@
    "pos": "مهاجم",
    "price": "10.3",
    "pts": 68,
-   "own": "26.2%",
+   "own": "26.1%",
    "goals": 5,
    "assists": 5
   },
@@ -475,7 +475,7 @@
    "pos": "خط وسط",
    "price": "8.6",
    "pts": 79,
-   "own": "37.5%",
+   "own": "37.4%",
    "goals": 3,
    "assists": 6
   },
@@ -515,7 +515,7 @@
    "pos": "مهاجم",
    "price": "10.3",
    "pts": 68,
-   "own": "26.2%",
+   "own": "26.1%",
    "goals": 5,
    "assists": 5
   },
@@ -717,7 +717,7 @@
    "pos": "مدافع",
    "price": "4.9",
    "pts": 82,
-   "own": "13.5%",
+   "own": "13.6%",
    "goals": 2,
    "assists": 1
   },
@@ -747,7 +747,7 @@
    "pos": "خط وسط",
    "price": "8.6",
    "pts": 79,
-   "own": "37.5%",
+   "own": "37.4%",
    "goals": 3,
    "assists": 6
   },
@@ -847,7 +847,7 @@
    "pos": "مهاجم",
    "price": "10.3",
    "pts": 68,
-   "own": "26.2%",
+   "own": "26.1%",
    "goals": 5,
    "assists": 5
   }
@@ -1050,10 +1050,10 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Dorley",
+   "name": "Guiagon",
    "club": "التعاون",
    "status": "out",
-   "detail": "إصابة في العضلة الخلفية - العودة المتوقعة: أواخر نوفمبر",
+   "detail": "إصابة عضلية - العودة المتوقعة: غير معروف",
    "back": "0% جاهزية"
   },
   {
@@ -1631,7 +1631,7 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Al Kuwaykibi",
+   "name": "Basaam",
    "club": "التعاون",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1646,6 +1646,13 @@
   },
   {
    "name": "Al Tulayhi",
+   "club": "التعاون",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Dorley",
    "club": "التعاون",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
