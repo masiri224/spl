@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "20‏/11‏/2026، 10:49 م",
+ "updated": "21‏/11‏/2026، 5:02 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -24,22 +24,22 @@
    "total": 922
   },
   {
-   "entry": 51585,
+   "entry": 22969,
    "rank": 3,
+   "lastRank": 7,
+   "team": "Artifi Intelligence",
+   "manager": "Mohammed Alsanbaqi",
+   "gw": 50,
+   "total": 883
+  },
+  {
+   "entry": 51585,
+   "rank": 4,
    "lastRank": 3,
    "team": "R3D",
    "manager": "Osama S",
    "gw": 15,
    "total": 882
-  },
-  {
-   "entry": 22969,
-   "rank": 4,
-   "lastRank": 7,
-   "team": "Artifi Intelligence",
-   "manager": "Mohammed Alsanbaqi",
-   "gw": 47,
-   "total": 880
   },
   {
    "entry": 56753,
@@ -74,8 +74,8 @@
    "lastRank": 9,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 25,
-   "total": 838
+   "gw": 27,
+   "total": 840
   },
   {
    "entry": 13303,
@@ -119,8 +119,8 @@
    "lastRank": 13,
    "team": "Anas ball",
    "manager": "Yahya Asiri",
-   "gw": 21,
-   "total": 781
+   "gw": 23,
+   "total": 783
   },
   {
    "entry": 15386,
@@ -128,8 +128,8 @@
    "lastRank": 14,
    "team": "☝️السعاطير☠️",
    "manager": "MOHAMMED ASLRL",
-   "gw": 13,
-   "total": 763
+   "gw": 15,
+   "total": 765
   },
   {
    "entry": 12580,
@@ -137,8 +137,8 @@
    "lastRank": 17,
    "team": "الساطي",
    "manager": "hasan asiri",
-   "gw": 37,
-   "total": 737
+   "gw": 39,
+   "total": 739
   },
   {
    "entry": 16508,
@@ -146,8 +146,8 @@
    "lastRank": 15,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 13,
-   "total": 729
+   "gw": 16,
+   "total": 732
   },
   {
    "entry": 45075,
@@ -155,26 +155,26 @@
    "lastRank": 16,
    "team": "العائدون من الموت",
    "manager": "علي زايد",
-   "gw": 9,
-   "total": 713
+   "gw": 11,
+   "total": 715
+  },
+  {
+   "entry": 85456,
+   "rank": 18,
+   "lastRank": 18,
+   "team": "المونديالي ✨",
+   "manager": "احنا الملوك ASLRL",
+   "gw": 17,
+   "total": 697
   },
   {
    "entry": 15447,
-   "rank": 18,
+   "rank": 19,
    "lastRank": 19,
    "team": "Sharahili",
    "manager": "Sharahili Sharahili",
    "gw": 26,
    "total": 696
-  },
-  {
-   "entry": 85456,
-   "rank": 19,
-   "lastRank": 18,
-   "team": "المونديالي ✨",
-   "manager": "احنا الملوك ASLRL",
-   "gw": 15,
-   "total": 695
   },
   {
    "entry": 28276,
@@ -313,7 +313,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 99,
-   "own": "31.7%",
+   "own": "31.6%",
    "goals": 5,
    "assists": 5
   },
@@ -323,7 +323,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 87,
-   "own": "12.0%",
+   "own": "12.1%",
    "goals": 5,
    "assists": 3
   },
@@ -353,7 +353,7 @@
    "pos": "مهاجم",
    "price": "10.3",
    "pts": 68,
-   "own": "24.4%",
+   "own": "24.5%",
    "goals": 5,
    "assists": 5
   },
@@ -413,7 +413,7 @@
    "pos": "خط وسط",
    "price": "7.3",
    "pts": 59,
-   "own": "10.8%",
+   "own": "10.9%",
    "goals": 4,
    "assists": 3
   },
@@ -495,7 +495,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 99,
-   "own": "31.7%",
+   "own": "31.6%",
    "goals": 5,
    "assists": 5
   },
@@ -515,7 +515,7 @@
    "pos": "مهاجم",
    "price": "10.3",
    "pts": 68,
-   "own": "24.4%",
+   "own": "24.5%",
    "goals": 5,
    "assists": 5
   },
@@ -687,7 +687,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 99,
-   "own": "31.7%",
+   "own": "31.6%",
    "goals": 5,
    "assists": 5
   },
@@ -697,7 +697,7 @@
    "pos": "خط وسط",
    "price": "9.6",
    "pts": 87,
-   "own": "12.0%",
+   "own": "12.1%",
    "goals": 5,
    "assists": 3
   },
@@ -727,7 +727,7 @@
    "pos": "مدافع",
    "price": "4.9",
    "pts": 82,
-   "own": "13.9%",
+   "own": "14.0%",
    "goals": 2,
    "assists": 1
   },
@@ -847,7 +847,7 @@
    "pos": "مهاجم",
    "price": "10.3",
    "pts": 68,
-   "own": "24.4%",
+   "own": "24.5%",
    "goals": 5,
    "assists": 5
   }
@@ -2402,7 +2402,7 @@
   },
   {
    "date": "الجولة 13",
-   "title": "متوسط النقاط 18 وأعلى نتيجة 65",
+   "title": "متوسط النقاط 19 وأعلى نتيجة 71",
    "body": "تصدّر دورينا «العالمي 777» بـ 993 نقطة."
   },
   {
