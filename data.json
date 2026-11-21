@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "21‏/11‏/2026، 5:02 ص",
+ "updated": "21‏/11‏/2026، 1:48 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 2,
-   "total": 922
+   "gw": 3,
+   "total": 923
   },
   {
    "entry": 22969,
@@ -29,8 +29,8 @@
    "lastRank": 7,
    "team": "Artifi Intelligence",
    "manager": "Mohammed Alsanbaqi",
-   "gw": 50,
-   "total": 883
+   "gw": 51,
+   "total": 884
   },
   {
    "entry": 51585,
@@ -47,8 +47,8 @@
    "lastRank": 4,
    "team": "Homoud city",
    "manager": "Abu Abra",
-   "gw": 39,
-   "total": 880
+   "gw": 40,
+   "total": 881
   },
   {
    "entry": 23288,
@@ -110,8 +110,8 @@
    "lastRank": 11,
    "team": "Heroes",
    "manager": "Saeed Heroes",
-   "gw": 16,
-   "total": 805
+   "gw": 17,
+   "total": 806
   },
   {
    "entry": 12525,
@@ -137,8 +137,8 @@
    "lastRank": 17,
    "team": "الساطي",
    "manager": "hasan asiri",
-   "gw": 39,
-   "total": 739
+   "gw": 40,
+   "total": 740
   },
   {
    "entry": 16508,
@@ -146,8 +146,8 @@
    "lastRank": 15,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 16,
-   "total": 732
+   "gw": 17,
+   "total": 733
   },
   {
    "entry": 45075,
@@ -201,9 +201,9 @@
    "name": "Toney",
    "club": "الأهلي",
    "pos": "مهاجم",
-   "price": "12.2",
+   "price": "12.3",
    "pts": 121,
-   "own": "51.9%",
+   "own": "52.0%",
    "goals": 14,
    "assists": 4
   },
@@ -241,7 +241,7 @@
    "name": "Retegui",
    "club": "القـادسيـة",
    "pos": "مهاجم",
-   "price": "9.1",
+   "price": "9.0",
    "pts": 65,
    "own": "10.4%",
    "goals": 7,
@@ -251,7 +251,7 @@
    "name": "En-Nesyri",
    "club": "الاتحاد",
    "pos": "مهاجم",
-   "price": "8.4",
+   "price": "8.3",
    "pts": 63,
    "own": "7.3%",
    "goals": 7,
@@ -271,7 +271,7 @@
    "name": "Trincao",
    "club": "الأهلي",
    "pos": "خط وسط",
-   "price": "8.0",
+   "price": "8.1",
    "pts": 80,
    "own": "16.0%",
    "goals": 6,
@@ -283,7 +283,7 @@
    "pos": "مهاجم",
    "price": "6.3",
    "pts": 66,
-   "own": "13.2%",
+   "own": "13.3%",
    "goals": 6,
    "assists": 3
   },
@@ -341,7 +341,7 @@
    "name": "Ângelo",
    "club": "النصر",
    "pos": "خط وسط",
-   "price": "6.4",
+   "price": "6.5",
    "pts": 76,
    "own": "32.9%",
    "goals": 5,
@@ -371,7 +371,7 @@
    "name": "A. Mendy",
    "club": "الفيصلي",
    "pos": "مهاجم",
-   "price": "5.6",
+   "price": "5.5",
    "pts": 55,
    "own": "8.6%",
    "goals": 5,
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "5.1",
    "pts": 66,
-   "own": "3.9%",
+   "own": "4.0%",
    "goals": 4,
    "assists": 1
   },
@@ -431,7 +431,7 @@
    "name": "Mathias",
    "club": "الشباب",
    "pos": "مهاجم",
-   "price": "4.4",
+   "price": "4.5",
    "pts": 47,
    "own": "5.7%",
    "goals": 4,
@@ -485,7 +485,7 @@
    "pos": "خط وسط",
    "price": "9.0",
    "pts": 67,
-   "own": "8.8%",
+   "own": "8.7%",
    "goals": 3,
    "assists": 6
   },
@@ -543,9 +543,9 @@
    "name": "Toney",
    "club": "الأهلي",
    "pos": "مهاجم",
-   "price": "12.2",
+   "price": "12.3",
    "pts": 121,
-   "own": "51.9%",
+   "own": "52.0%",
    "goals": 14,
    "assists": 4
   },
@@ -573,7 +573,7 @@
    "name": "Ângelo",
    "club": "النصر",
    "pos": "خط وسط",
-   "price": "6.4",
+   "price": "6.5",
    "pts": 76,
    "own": "32.9%",
    "goals": 5,
@@ -633,7 +633,7 @@
    "name": "Belobaid",
    "club": "الأهلي",
    "pos": "مدافع",
-   "price": "4.9",
+   "price": "5.0",
    "pts": 43,
    "own": "4.1%",
    "goals": 0,
@@ -655,9 +655,9 @@
    "name": "Toney",
    "club": "الأهلي",
    "pos": "مهاجم",
-   "price": "12.2",
+   "price": "12.3",
    "pts": 121,
-   "own": "51.9%",
+   "own": "52.0%",
    "goals": 14,
    "assists": 4
   },
@@ -735,7 +735,7 @@
    "name": "Trincao",
    "club": "الأهلي",
    "pos": "خط وسط",
-   "price": "8.0",
+   "price": "8.1",
    "pts": 80,
    "own": "16.0%",
    "goals": 6,
@@ -805,7 +805,7 @@
    "name": "Ângelo",
    "club": "النصر",
    "pos": "خط وسط",
-   "price": "6.4",
+   "price": "6.5",
    "pts": 76,
    "own": "32.9%",
    "goals": 5,
@@ -1495,13 +1495,6 @@
    "club": "الاتفاق",
    "status": "ban",
    "detail": "موقوف حتى 29 نوفمبر",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Al Sanbi",
-   "club": "الأهلي",
-   "status": "ban",
-   "detail": "موقوف حتى 21 نوفمبر",
    "back": "0% جاهزية"
   },
   {
@@ -2402,7 +2395,7 @@
   },
   {
    "date": "الجولة 13",
-   "title": "متوسط النقاط 19 وأعلى نتيجة 71",
+   "title": "متوسط النقاط 19 وأعلى نتيجة 72",
    "body": "تصدّر دورينا «العالمي 777» بـ 993 نقطة."
   },
   {
@@ -2422,8 +2415,8 @@
   },
   {
    "date": "إيقافات",
-   "title": "5 لاعبين موقوفين",
-   "body": "Duda (الاتفاق)، Al Sanbi (الأهلي)، Ben Hamida (الحزم)، Benegas (الخليج)، Neves (الهلال)."
+   "title": "4 لاعبين موقوفين",
+   "body": "Duda (الاتفاق)، Ben Hamida (الحزم)، Benegas (الخليج)، Neves (الهلال)."
   }
  ]
 }
