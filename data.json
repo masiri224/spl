@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "23‏/11‏/2026، 3:02 م",
+ "updated": "24‏/11‏/2026، 5:03 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -223,7 +223,7 @@
    "pos": "خط وسط",
    "price": "7.7",
    "pts": 104,
-   "own": "30.8%",
+   "own": "30.9%",
    "goals": 8,
    "assists": 3
   },
@@ -333,7 +333,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 78,
-   "own": "11.3%",
+   "own": "11.4%",
    "goals": 5,
    "assists": 4
   },
@@ -383,7 +383,7 @@
    "pos": "مهاجم",
    "price": "7.4",
    "pts": 51,
-   "own": "11.4%",
+   "own": "11.3%",
    "goals": 5,
    "assists": 0
   },
@@ -565,7 +565,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 78,
-   "own": "11.3%",
+   "own": "11.4%",
    "goals": 5,
    "assists": 4
   },
@@ -677,7 +677,7 @@
    "pos": "خط وسط",
    "price": "7.7",
    "pts": 104,
-   "own": "30.8%",
+   "own": "30.9%",
    "goals": 8,
    "assists": 3
   },
@@ -727,7 +727,7 @@
    "pos": "مدافع",
    "price": "4.9",
    "pts": 82,
-   "own": "14.0%",
+   "own": "14.1%",
    "goals": 2,
    "assists": 1
   },
@@ -777,7 +777,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 78,
-   "own": "11.3%",
+   "own": "11.4%",
    "goals": 5,
    "assists": 4
   },
@@ -1026,13 +1026,6 @@
    "club": "التعاون",
    "status": "out",
    "detail": "غير مقيّد",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Al Mufarrij",
-   "club": "التعاون",
-   "status": "out",
-   "detail": "إصابة عضلية - العودة المتوقعة: أوائل ديسمبر",
    "back": "0% جاهزية"
   },
   {
@@ -1526,20 +1519,6 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Nkoudou",
-   "club": "أبها",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Fekir",
-   "club": "أبها",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
    "name": "Kadish",
    "club": "الاتحاد",
    "status": "doubt",
@@ -1680,13 +1659,6 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Antunes",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
    "name": "Al Hammami",
    "club": "الشباب",
    "status": "doubt",
@@ -1778,14 +1750,14 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Mandash",
+   "name": "Salem",
    "club": "الهلال",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
   },
   {
-   "name": "Martinelli",
+   "name": "Mandash",
    "club": "الهلال",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -2410,7 +2382,7 @@
   },
   {
    "date": "إصابات",
-   "title": "91 لاعباً خارج الحسابات بالإصابة",
+   "title": "90 لاعباً خارج الحسابات بالإصابة",
    "body": "Al Sayyali (أبها)، K. Al Shamrani (أبها)، Batshuayi (أبها)، Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)."
   },
   {
