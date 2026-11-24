@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "24‏/11‏/2026، 4:26 م",
+ "updated": "25‏/11‏/2026، 2:48 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.3",
    "pts": 121,
-   "own": "52.0%",
+   "own": "52.1%",
    "goals": 14,
    "assists": 4
   },
@@ -283,7 +283,7 @@
    "pos": "مهاجم",
    "price": "6.3",
    "pts": 66,
-   "own": "13.3%",
+   "own": "13.4%",
    "goals": 6,
    "assists": 3
   },
@@ -303,7 +303,7 @@
    "pos": "خط وسط",
    "price": "8.4",
    "pts": 47,
-   "own": "4.7%",
+   "own": "4.8%",
    "goals": 6,
    "assists": 0
   },
@@ -433,7 +433,7 @@
    "pos": "مهاجم",
    "price": "4.5",
    "pts": 47,
-   "own": "5.7%",
+   "own": "5.8%",
    "goals": 4,
    "assists": 3
   },
@@ -545,7 +545,7 @@
    "pos": "مهاجم",
    "price": "12.3",
    "pts": 121,
-   "own": "52.0%",
+   "own": "52.1%",
    "goals": 14,
    "assists": 4
   },
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.3",
    "pts": 121,
-   "own": "52.0%",
+   "own": "52.1%",
    "goals": 14,
    "assists": 4
   },
@@ -1365,13 +1365,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "J. Thakri",
-   "club": "القـادسيـة",
-   "status": "out",
-   "detail": "إصابة في الفخذ - العودة المتوقعة: غير معروف",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Retegui",
    "club": "القـادسيـة",
    "status": "out",
@@ -1521,13 +1514,6 @@
   {
    "name": "Kadish",
    "club": "الاتحاد",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "K. Al Ghanam",
-   "club": "الاتفاق",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -1722,14 +1708,14 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "Maran",
+   "name": "Coman",
    "club": "النصر",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
   },
   {
-   "name": "N. Al Sharari",
+   "name": "Maran",
    "club": "النصر",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1752,13 +1738,6 @@
   {
    "name": "Mandash",
    "club": "الهلال",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "I. Hawsawi",
-   "club": "نيوم",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -2375,7 +2354,7 @@
   },
   {
    "date": "إصابات",
-   "title": "90 لاعباً خارج الحسابات بالإصابة",
+   "title": "89 لاعباً خارج الحسابات بالإصابة",
    "body": "Al Sayyali (أبها)، K. Al Shamrani (أبها)، Batshuayi (أبها)، Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)."
   },
   {
