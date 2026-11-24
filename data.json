@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "24‏/11‏/2026، 5:03 ص",
+ "updated": "24‏/11‏/2026، 4:26 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -343,7 +343,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 76,
-   "own": "32.9%",
+   "own": "32.8%",
    "goals": 5,
    "assists": 4
   },
@@ -575,7 +575,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 76,
-   "own": "32.9%",
+   "own": "32.8%",
    "goals": 5,
    "assists": 4
   },
@@ -625,7 +625,7 @@
    "pos": "خط وسط",
    "price": "6.8",
    "pts": 54,
-   "own": "2.8%",
+   "own": "2.9%",
    "goals": 3,
    "assists": 4
   },
@@ -807,7 +807,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 76,
-   "own": "32.9%",
+   "own": "32.8%",
    "goals": 5,
    "assists": 4
   },
@@ -1717,13 +1717,6 @@
   {
    "name": "Diabate",
    "club": "القـادسيـة",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Mane",
-   "club": "النصر",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
