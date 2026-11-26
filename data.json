@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "26‏/11‏/2026، 6:25 ص",
+ "updated": "26‏/11‏/2026، 7:39 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 24,
-   "total": 993
+   "gw": 39,
+   "total": 1008
   },
   {
    "entry": 14191,
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 3,
-   "total": 923
+   "gw": 7,
+   "total": 927
   },
   {
    "entry": 22969,
@@ -56,8 +56,8 @@
    "lastRank": 5,
    "team": "الصقر13",
    "manager": "Abu Riyad AS",
-   "gw": 29,
-   "total": 866
+   "gw": 37,
+   "total": 874
   },
   {
    "entry": 40539,
@@ -74,8 +74,8 @@
    "lastRank": 9,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 27,
-   "total": 840
+   "gw": 36,
+   "total": 849
   },
   {
    "entry": 13303,
@@ -110,8 +110,8 @@
    "lastRank": 11,
    "team": "Heroes",
    "manager": "Saeed Heroes",
-   "gw": 17,
-   "total": 806
+   "gw": 20,
+   "total": 809
   },
   {
    "entry": 12525,
@@ -128,8 +128,8 @@
    "lastRank": 14,
    "team": "☝️السعاطير☠️",
    "manager": "MOHAMMED ASLRL",
-   "gw": 15,
-   "total": 765
+   "gw": 16,
+   "total": 766
   },
   {
    "entry": 12580,
@@ -146,8 +146,8 @@
    "lastRank": 15,
    "team": "القوة العاشرة",
    "manager": "jaber assiri",
-   "gw": 17,
-   "total": 733
+   "gw": 18,
+   "total": 734
   },
   {
    "entry": 45075,
@@ -155,8 +155,8 @@
    "lastRank": 16,
    "team": "العائدون من الموت",
    "manager": "علي زايد",
-   "gw": 11,
-   "total": 715
+   "gw": 21,
+   "total": 725
   },
   {
    "entry": 85456,
@@ -164,8 +164,8 @@
    "lastRank": 18,
    "team": "المونديالي ✨",
    "manager": "احنا الملوك ASLRL",
-   "gw": 17,
-   "total": 697
+   "gw": 19,
+   "total": 699
   },
   {
    "entry": 15447,
@@ -283,7 +283,7 @@
    "pos": "مهاجم",
    "price": "6.3",
    "pts": 66,
-   "own": "13.4%",
+   "own": "13.5%",
    "goals": 6,
    "assists": 3
   },
@@ -373,7 +373,7 @@
    "pos": "مهاجم",
    "price": "5.5",
    "pts": 55,
-   "own": "8.5%",
+   "own": "8.4%",
    "goals": 5,
    "assists": 1
   },
@@ -396,6 +396,16 @@
    "own": "48.3%",
    "goals": 4,
    "assists": 4
+  },
+  {
+   "name": "Brownhill",
+   "club": "الشباب",
+   "pos": "خط وسط",
+   "price": "5.7",
+   "pts": 82,
+   "own": "11.5%",
+   "goals": 4,
+   "assists": 2
   },
   {
    "name": "Moura",
@@ -422,7 +432,7 @@
    "club": "الرياض",
    "pos": "خط وسط",
    "price": "5.5",
-   "pts": 49,
+   "pts": 52,
    "own": "1.4%",
    "goals": 4,
    "assists": 0
@@ -432,20 +442,10 @@
    "club": "الشباب",
    "pos": "مهاجم",
    "price": "4.5",
-   "pts": 47,
+   "pts": 48,
    "own": "5.8%",
    "goals": 4,
    "assists": 3
-  },
-  {
-   "name": "Iker",
-   "club": "الخلود",
-   "pos": "خط وسط",
-   "price": "5.3",
-   "pts": 45,
-   "own": "5.3%",
-   "goals": 4,
-   "assists": 1
   }
  ],
  "assisters": [
@@ -505,7 +505,7 @@
    "pos": "مدافع",
    "price": "5.3",
    "pts": 80,
-   "own": "26.0%",
+   "own": "25.9%",
    "goals": 0,
    "assists": 5
   },
@@ -580,6 +580,16 @@
    "assists": 4
   },
   {
+   "name": "Batna",
+   "club": "الفتح",
+   "pos": "خط وسط",
+   "price": "7.4",
+   "pts": 74,
+   "own": "7.1%",
+   "goals": 3,
+   "assists": 4
+  },
+  {
    "name": "Bonsu Baah",
    "club": "القـادسيـة",
    "pos": "خط وسط",
@@ -595,17 +605,7 @@
    "pos": "خط وسط",
    "price": "7.0",
    "pts": 61,
-   "own": "24.5%",
-   "goals": 2,
-   "assists": 4
-  },
-  {
-   "name": "Batna",
-   "club": "الفتح",
-   "pos": "خط وسط",
-   "price": "7.4",
-   "pts": 59,
-   "own": "7.1%",
+   "own": "24.4%",
    "goals": 2,
    "assists": 4
   },
@@ -727,9 +727,19 @@
    "pos": "مدافع",
    "price": "4.9",
    "pts": 82,
-   "own": "14.1%",
+   "own": "14.2%",
    "goals": 2,
    "assists": 1
+  },
+  {
+   "name": "Brownhill",
+   "club": "الشباب",
+   "pos": "خط وسط",
+   "price": "5.7",
+   "pts": 82,
+   "own": "11.5%",
+   "goals": 4,
+   "assists": 2
   },
   {
    "name": "Trincao",
@@ -747,7 +757,7 @@
    "pos": "مدافع",
    "price": "5.3",
    "pts": 80,
-   "own": "26.0%",
+   "own": "25.9%",
    "goals": 0,
    "assists": 5
   },
@@ -812,14 +822,14 @@
    "assists": 4
   },
   {
-   "name": "Brownhill",
-   "club": "الشباب",
+   "name": "Batna",
+   "club": "الفتح",
    "pos": "خط وسط",
-   "price": "5.7",
-   "pts": 72,
-   "own": "11.5%",
+   "price": "7.4",
+   "pts": 74,
+   "own": "7.1%",
    "goals": 3,
-   "assists": 2
+   "assists": 4
   },
   {
    "name": "Girotto",
@@ -840,16 +850,6 @@
    "own": "8.6%",
    "goals": 0,
    "assists": 1
-  },
-  {
-   "name": "Watkins",
-   "club": "الهلال",
-   "pos": "مهاجم",
-   "price": "10.3",
-   "pts": 68,
-   "own": "24.5%",
-   "goals": 5,
-   "assists": 5
   }
  ],
  "injuries": [
@@ -858,20 +858,6 @@
    "club": "أبها",
    "status": "out",
    "detail": "إصابة في الحوض - العودة المتوقعة: غير معروف",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "K. Al Shamrani",
-   "club": "أبها",
-   "status": "out",
-   "detail": "إصابة عضلية – العودة المتوقعة: غبر معروف",
-   "back": "0% جاهزية"
-  },
-  {
-   "name": "Batshuayi",
-   "club": "أبها",
-   "status": "out",
-   "detail": "إصابة عضلية - العودة المتوقعة: أوائل ديسمبر",
    "back": "0% جاهزية"
   },
   {
@@ -1358,13 +1344,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Retegui",
-   "club": "القـادسيـة",
-   "status": "out",
-   "detail": "إصابة في الفخذ - العودة المتوقعة: غير معروف",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "A. Hazazi",
    "club": "القـادسيـة",
    "status": "out",
@@ -1498,13 +1477,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "Diallo",
-   "club": "أبها",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
    "name": "Kadish",
    "club": "الاتحاد",
    "status": "doubt",
@@ -1533,6 +1505,13 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Ibañez",
+   "club": "الأهلي",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "S. Al Shamat",
    "club": "الأهلي",
    "status": "doubt",
@@ -1541,6 +1520,13 @@
   },
   {
    "name": "Rashad",
+   "club": "التعاون",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Al Saedi",
    "club": "التعاون",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -1603,22 +1589,8 @@
    "back": "50% جاهزية"
   },
   {
-   "name": "M. Al Khaibari",
-   "club": "الرياض",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
    "name": "Lekhal",
    "club": "الرياض",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Al Hammami",
-   "club": "الشباب",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -1666,7 +1638,21 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "Retegui",
+   "club": "القـادسيـة",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Nandez",
+   "club": "القـادسيـة",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Bonsu Baah",
    "club": "القـادسيـة",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -2311,8 +2297,8 @@
   },
   {
    "date": "الجولة 13",
-   "title": "متوسط النقاط 19 وأعلى نتيجة 72",
-   "body": "تصدّر دورينا «العالمي 777» بـ 993 نقطة."
+   "title": "متوسط النقاط 22 وأعلى نتيجة 74",
+   "body": "تصدّر دورينا «العالمي 777» بـ 1008 نقطة."
   },
   {
    "date": "الجولة 13",
@@ -2326,8 +2312,8 @@
   },
   {
    "date": "إصابات",
-   "title": "88 لاعباً خارج الحسابات بالإصابة",
-   "body": "Al Sayyali (أبها)، K. Al Shamrani (أبها)، Batshuayi (أبها)، Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)."
+   "title": "85 لاعباً خارج الحسابات بالإصابة",
+   "body": "Al Sayyali (أبها)، Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)، A. Hazazi (الاتحاد)، H. Al Ghamdi (الاتحاد)."
   },
   {
    "date": "إيقافات",
