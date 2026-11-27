@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "27‏/11‏/2026، 4:36 ص",
+ "updated": "27‏/11‏/2026، 2:55 م",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 86,
-   "own": "11.5%",
+   "own": "11.6%",
    "goals": 4,
    "assists": 2
   },
@@ -707,7 +707,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 86,
-   "own": "11.5%",
+   "own": "11.6%",
    "goals": 4,
    "assists": 2
   },
@@ -1463,11 +1463,25 @@
    "back": "0% جاهزية"
   },
   {
+   "name": "Barry",
+   "club": "الشباب",
+   "status": "ban",
+   "detail": "موقوف عن الجولة الـ14",
+   "back": "0% جاهزية"
+  },
+  {
    "name": "Neves",
    "club": "الهلال",
    "status": "ban",
    "detail": "موقوف حتى 29 نوفمبر",
    "back": "0% جاهزية"
+  },
+  {
+   "name": "Gaari",
+   "club": "أبها",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
   },
   {
    "name": "Kadish",
@@ -1589,7 +1603,21 @@
    "back": "50% جاهزية"
   },
   {
+   "name": "M. Al Shaqaq",
+   "club": "الفتح",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
    "name": "Sorriso",
+   "club": "الفتح",
+   "status": "doubt",
+   "detail": "مشكوك في مشاركته",
+   "back": "50% جاهزية"
+  },
+  {
+   "name": "Alamine",
    "club": "الفتح",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
@@ -2303,8 +2331,8 @@
   },
   {
    "date": "إيقافات",
-   "title": "4 لاعبين موقوفين",
-   "body": "Duda (الاتفاق)، Ben Hamida (الحزم)، Benegas (الخليج)، Neves (الهلال)."
+   "title": "5 لاعبين موقوفين",
+   "body": "Duda (الاتفاق)، Ben Hamida (الحزم)، Benegas (الخليج)، Barry (الشباب)، Neves (الهلال)."
   }
  ]
 }
