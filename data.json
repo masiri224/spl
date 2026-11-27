@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "26‏/11‏/2026، 7:39 م",
+ "updated": "27‏/11‏/2026، 4:36 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -11,8 +11,8 @@
    "lastRank": 1,
    "team": "العالمي 777",
    "manager": "ثامر محمد",
-   "gw": 39,
-   "total": 1008
+   "gw": 55,
+   "total": 1024
   },
   {
    "entry": 14191,
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 7,
-   "total": 927
+   "gw": 8,
+   "total": 928
   },
   {
    "entry": 22969,
@@ -74,8 +74,8 @@
    "lastRank": 9,
    "team": "ابو سهم",
    "manager": "mohannad Asiri",
-   "gw": 36,
-   "total": 849
+   "gw": 37,
+   "total": 850
   },
   {
    "entry": 13303,
@@ -128,8 +128,8 @@
    "lastRank": 14,
    "team": "☝️السعاطير☠️",
    "manager": "MOHAMMED ASLRL",
-   "gw": 16,
-   "total": 766
+   "gw": 17,
+   "total": 767
   },
   {
    "entry": 12580,
@@ -155,8 +155,8 @@
    "lastRank": 16,
    "team": "العائدون من الموت",
    "manager": "علي زايد",
-   "gw": 21,
-   "total": 725
+   "gw": 25,
+   "total": 729
   },
   {
    "entry": 85456,
@@ -164,8 +164,8 @@
    "lastRank": 18,
    "team": "المونديالي ✨",
    "manager": "احنا الملوك ASLRL",
-   "gw": 19,
-   "total": 699
+   "gw": 20,
+   "total": 700
   },
   {
    "entry": 15447,
@@ -173,8 +173,8 @@
    "lastRank": 19,
    "team": "Sharahili",
    "manager": "Sharahili Sharahili",
-   "gw": 26,
-   "total": 696
+   "gw": 29,
+   "total": 699
   },
   {
    "entry": 28276,
@@ -182,8 +182,8 @@
    "lastRank": 20,
    "team": "Rayan FC",
    "manager": "rayan Sap",
-   "gw": 12,
-   "total": 656
+   "gw": 17,
+   "total": 661
   },
   {
    "entry": 21311,
@@ -203,7 +203,7 @@
    "pos": "مهاجم",
    "price": "12.3",
    "pts": 121,
-   "own": "52.1%",
+   "own": "52.2%",
    "goals": 14,
    "assists": 4
   },
@@ -223,7 +223,7 @@
    "pos": "خط وسط",
    "price": "7.7",
    "pts": 104,
-   "own": "31.0%",
+   "own": "31.1%",
    "goals": 8,
    "assists": 3
   },
@@ -278,6 +278,16 @@
    "assists": 3
   },
   {
+   "name": "A. Mendy",
+   "club": "الفيصلي",
+   "pos": "مهاجم",
+   "price": "5.5",
+   "pts": 68,
+   "own": "8.4%",
+   "goals": 6,
+   "assists": 2
+  },
+  {
    "name": "Domingues",
    "club": "الخلود",
    "pos": "مهاجم",
@@ -313,7 +323,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 99,
-   "own": "31.4%",
+   "own": "31.3%",
    "goals": 5,
    "assists": 5
   },
@@ -363,19 +373,9 @@
    "pos": "خط وسط",
    "price": "8.1",
    "pts": 65,
-   "own": "17.5%",
+   "own": "17.4%",
    "goals": 5,
    "assists": 3
-  },
-  {
-   "name": "A. Mendy",
-   "club": "الفيصلي",
-   "pos": "مهاجم",
-   "price": "5.5",
-   "pts": 55,
-   "own": "8.4%",
-   "goals": 5,
-   "assists": 1
   },
   {
    "name": "King",
@@ -402,7 +402,7 @@
    "club": "الشباب",
    "pos": "خط وسط",
    "price": "5.7",
-   "pts": 82,
+   "pts": 86,
    "own": "11.5%",
    "goals": 4,
    "assists": 2
@@ -413,7 +413,7 @@
    "pos": "خط وسط",
    "price": "5.1",
    "pts": 66,
-   "own": "4.0%",
+   "own": "4.1%",
    "goals": 4,
    "assists": 1
   },
@@ -495,7 +495,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 99,
-   "own": "31.4%",
+   "own": "31.3%",
    "goals": 5,
    "assists": 5
   },
@@ -545,7 +545,7 @@
    "pos": "مهاجم",
    "price": "12.3",
    "pts": 121,
-   "own": "52.1%",
+   "own": "52.2%",
    "goals": 14,
    "assists": 4
   },
@@ -630,6 +630,16 @@
    "assists": 4
   },
   {
+   "name": "Oscar",
+   "club": "الدرعية",
+   "pos": "خط وسط",
+   "price": "6.0",
+   "pts": 46,
+   "own": "0.7%",
+   "goals": 1,
+   "assists": 4
+  },
+  {
    "name": "Belobaid",
    "club": "الأهلي",
    "pos": "مدافع",
@@ -637,16 +647,6 @@
    "pts": 43,
    "own": "4.1%",
    "goals": 0,
-   "assists": 4
-  },
-  {
-   "name": "Oscar",
-   "club": "الدرعية",
-   "pos": "خط وسط",
-   "price": "6.0",
-   "pts": 41,
-   "own": "0.7%",
-   "goals": 1,
    "assists": 4
   }
  ],
@@ -657,7 +657,7 @@
    "pos": "مهاجم",
    "price": "12.3",
    "pts": 121,
-   "own": "52.1%",
+   "own": "52.2%",
    "goals": 14,
    "assists": 4
   },
@@ -677,7 +677,7 @@
    "pos": "خط وسط",
    "price": "7.7",
    "pts": 104,
-   "own": "31.0%",
+   "own": "31.1%",
    "goals": 8,
    "assists": 3
   },
@@ -687,7 +687,7 @@
    "pos": "خط وسط",
    "price": "9.1",
    "pts": 99,
-   "own": "31.4%",
+   "own": "31.3%",
    "goals": 5,
    "assists": 5
   },
@@ -700,6 +700,16 @@
    "own": "12.1%",
    "goals": 5,
    "assists": 3
+  },
+  {
+   "name": "Brownhill",
+   "club": "الشباب",
+   "pos": "خط وسط",
+   "price": "5.7",
+   "pts": 86,
+   "own": "11.5%",
+   "goals": 4,
+   "assists": 2
   },
   {
    "name": "Ronaldo",
@@ -730,16 +740,6 @@
    "own": "14.2%",
    "goals": 2,
    "assists": 1
-  },
-  {
-   "name": "Brownhill",
-   "club": "الشباب",
-   "pos": "خط وسط",
-   "price": "5.7",
-   "pts": 82,
-   "own": "11.5%",
-   "goals": 4,
-   "assists": 2
   },
   {
    "name": "Trincao",
@@ -822,6 +822,16 @@
    "assists": 4
   },
   {
+   "name": "Girotto",
+   "club": "الفيصلي",
+   "pos": "مدافع",
+   "price": "4.7",
+   "pts": 75,
+   "own": "12.1%",
+   "goals": 1,
+   "assists": 1
+  },
+  {
    "name": "Batna",
    "club": "الفتح",
    "pos": "خط وسط",
@@ -830,16 +840,6 @@
    "own": "7.1%",
    "goals": 3,
    "assists": 4
-  },
-  {
-   "name": "Girotto",
-   "club": "الفيصلي",
-   "pos": "مدافع",
-   "price": "4.7",
-   "pts": 72,
-   "own": "12.1%",
-   "goals": 1,
-   "assists": 1
   },
   {
    "name": "Álvarez",
@@ -1323,13 +1323,6 @@
    "back": "0% جاهزية"
   },
   {
-   "name": "M. Al Shammari",
-   "club": "الفيصلي",
-   "status": "out",
-   "detail": "غير مقيّد",
-   "back": "0% جاهزية"
-  },
-  {
    "name": "Idris",
    "club": "الفيصلي",
    "status": "out",
@@ -1626,13 +1619,6 @@
   {
    "name": "Oliveira",
    "club": "الفيحاء",
-   "status": "doubt",
-   "detail": "مشكوك في مشاركته",
-   "back": "50% جاهزية"
-  },
-  {
-   "name": "Y. Al Mozairib",
-   "club": "الفيصلي",
    "status": "doubt",
    "detail": "مشكوك في مشاركته",
    "back": "50% جاهزية"
@@ -2297,8 +2283,8 @@
   },
   {
    "date": "الجولة 13",
-   "title": "متوسط النقاط 22 وأعلى نتيجة 74",
-   "body": "تصدّر دورينا «العالمي 777» بـ 1008 نقطة."
+   "title": "متوسط النقاط 24 وأعلى نتيجة 89",
+   "body": "تصدّر دورينا «العالمي 777» بـ 1024 نقطة."
   },
   {
    "date": "الجولة 13",
@@ -2312,7 +2298,7 @@
   },
   {
    "date": "إصابات",
-   "title": "85 لاعباً خارج الحسابات بالإصابة",
+   "title": "84 لاعباً خارج الحسابات بالإصابة",
    "body": "Al Sayyali (أبها)، Hazazi (الاتحاد)، Al Rashidi (الاتحاد)، Y. Al Jaber (الاتحاد)، A. Hazazi (الاتحاد)، H. Al Ghamdi (الاتحاد)."
   },
   {
