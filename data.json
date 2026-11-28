@@ -1,7 +1,7 @@
 {
  "league": "مبعتش وإخوانه لا مكان للضعفاء",
  "gameweek": 13,
- "updated": "27‏/11‏/2026، 11:58 م",
+ "updated": "28‏/11‏/2026، 6:13 ص",
  "sourceUrl": "https://fantasy.spl.com.sa/leagues/1393/standings/c",
  "deadline": "2026-12-03T14:35:00Z",
  "standings": [
@@ -20,8 +20,8 @@
    "lastRank": 2,
    "team": "False Nine",
    "manager": "محمد علي",
-   "gw": 26,
-   "total": 946
+   "gw": 24,
+   "total": 944
   },
   {
    "entry": 51585,
@@ -29,8 +29,8 @@
    "lastRank": 3,
    "team": "R3D",
    "manager": "Osama S",
-   "gw": 46,
-   "total": 913
+   "gw": 45,
+   "total": 912
   },
   {
    "entry": 56753,
@@ -38,8 +38,8 @@
    "lastRank": 4,
    "team": "Homoud city",
    "manager": "Abu Abra",
-   "gw": 71,
-   "total": 912
+   "gw": 70,
+   "total": 911
   },
   {
    "entry": 23288,
@@ -56,8 +56,8 @@
    "lastRank": 6,
    "team": "Thwah",
    "manager": "عبدالرحمن الثوعي",
-   "gw": 46,
-   "total": 888
+   "gw": 45,
+   "total": 887
   },
   {
    "entry": 22969,
@@ -101,8 +101,8 @@
    "lastRank": 12,
    "team": "Avengers",
    "manager": "Turki Mohammed",
-   "gw": 56,
-   "total": 836
+   "gw": 55,
+   "total": 835
   },
   {
    "entry": 21367,
@@ -128,8 +128,8 @@
    "lastRank": 14,
    "team": "☝️السعاطير☠️",
    "manager": "MOHAMMED ASLRL",
-   "gw": 38,
-   "total": 788
+   "gw": 37,
+   "total": 787
   },
   {
    "entry": 16508,
@@ -146,8 +146,8 @@
    "lastRank": 17,
    "team": "الساطي",
    "manager": "hasan asiri",
-   "gw": 52,
-   "total": 752
+   "gw": 51,
+   "total": 751
   },
   {
    "entry": 45075,
@@ -182,8 +182,8 @@
    "lastRank": 20,
    "team": "Rayan FC",
    "manager": "rayan Sap",
-   "gw": 42,
-   "total": 686
+   "gw": 39,
+   "total": 683
   },
   {
    "entry": 21311,
@@ -191,8 +191,8 @@
    "lastRank": 21,
    "team": "ابو نوره",
    "manager": "فرحان العنزي",
-   "gw": 24,
-   "total": 665
+   "gw": 23,
+   "total": 664
   }
  ],
  "newEntries": [],
@@ -213,7 +213,7 @@
    "pos": "مهاجم",
    "price": "12.6",
    "pts": 84,
-   "own": "25.1%",
+   "own": "25.2%",
    "goals": 9,
    "assists": 0
   },
@@ -243,7 +243,7 @@
    "pos": "مهاجم",
    "price": "7.4",
    "pts": 80,
-   "own": "26.2%",
+   "own": "26.1%",
    "goals": 7,
    "assists": 2
   },
@@ -302,7 +302,7 @@
    "club": "الاتحاد",
    "pos": "مهاجم",
    "price": "4.9",
-   "pts": 60,
+   "pts": 59,
    "own": "33.0%",
    "goals": 6,
    "assists": 3
@@ -373,7 +373,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 76,
-   "own": "32.8%",
+   "own": "32.7%",
    "goals": 5,
    "assists": 4
   },
@@ -403,7 +403,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 86,
-   "own": "11.6%",
+   "own": "11.7%",
    "goals": 4,
    "assists": 2
   },
@@ -442,7 +442,7 @@
    "club": "الخلود",
    "pos": "خط وسط",
    "price": "5.3",
-   "pts": 52,
+   "pts": 51,
    "own": "5.4%",
    "goals": 4,
    "assists": 2
@@ -575,7 +575,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 76,
-   "own": "32.8%",
+   "own": "32.7%",
    "goals": 5,
    "assists": 4
   },
@@ -717,7 +717,7 @@
    "pos": "خط وسط",
    "price": "5.7",
    "pts": 86,
-   "own": "11.6%",
+   "own": "11.7%",
    "goals": 4,
    "assists": 2
   },
@@ -727,7 +727,7 @@
    "pos": "مهاجم",
    "price": "12.6",
    "pts": 84,
-   "own": "25.1%",
+   "own": "25.2%",
    "goals": 9,
    "assists": 0
   },
@@ -777,7 +777,7 @@
    "pos": "مهاجم",
    "price": "7.4",
    "pts": 80,
-   "own": "26.2%",
+   "own": "26.1%",
    "goals": 7,
    "assists": 2
   },
@@ -817,7 +817,7 @@
    "pos": "مدافع",
    "price": "5.2",
    "pts": 77,
-   "own": "8.6%",
+   "own": "8.7%",
    "goals": 0,
    "assists": 1
   },
@@ -827,7 +827,7 @@
    "pos": "خط وسط",
    "price": "6.5",
    "pts": 76,
-   "own": "32.8%",
+   "own": "32.7%",
    "goals": 5,
    "assists": 4
   },
@@ -2290,7 +2290,7 @@
   },
   {
    "date": "الجولة 13",
-   "title": "متوسط النقاط 47 وأعلى نتيجة 138",
+   "title": "متوسط النقاط 46 وأعلى نتيجة 138",
    "body": "تصدّر دورينا «العالمي 777» بـ 1053 نقطة."
   },
   {
